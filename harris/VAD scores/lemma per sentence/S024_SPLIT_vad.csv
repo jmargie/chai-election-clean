@@ -1,0 +1,261 @@
+speech_id,line_id,sentence_id,sentence_text,valence,arousal,dominance
+S024,0,0,"My passion, one of them is small businesses.",0.6591999999999999,0.43420000000000003,0.5054
+S024,0,1,"My mother raised my sister and me, but there was a woman who helped raise us.",0.7885,0.40900000000000003,0.6181666666666666
+S024,0,2,We call her our second mother.,0.6716666666666667,0.415,0.511
+S024,0,3,She was a small business owner.,0.669,0.36574999999999996,0.58725
+S024,0,4,I love our small businesses.,0.7433333333333333,0.431,0.516
+S024,0,5,"My plan is to give a $50,000 tax deduction to start up small businesses knowing they are part of the backbone of America’s economy.",0.6126923076923079,0.3878461538461539,0.5596153846153846
+S024,0,6,"My opponent on the other hand, his plan is to do what he has done before, which is to provide a tax cut for billionaires and big corporations, which will result in $5 trillion to America’s deficit.",0.5924736842105263,0.457,0.601736842105263
+S024,1,0,"My opponent has a plan that I call the Trump’s sales tax, which would be a 20% tax on everyday goods that you rely on to get through the month.",0.5943333333333334,0.4863333333333334,0.6008
+S024,1,1,"Economists have said that that Trump sales tax would actually result for middle class families in about $4,000 more a year because of his policies and his ideas about what should be the backs of middle class people paying for tax cuts for billionaires.",0.5806363636363637,0.4318636363636364,0.555909090909091
+S024,2,0,"But I’m going to tell you all in this debate tonight, you’re going to hear from the same old tired playbook, a bunch of lies, grievances, and name-calling.",0.444,0.4789999999999999,0.42609090909090913
+S024,2,1,What you’re going to hear tonight is a detailed and dangerous plan called Project 2025 that the former president intends on implementing if he were elected again.,0.6018461538461538,0.5002307692307693,0.6319230769230769
+S024,2,2,"I believe very strongly that the American people want a president who understands the importance of bringing us together knowing we have so much more in common than what separates us, and I pledge you to be a president for all Americans.",0.679875,0.462,0.654625
+S024,3,0,16 Nobel laureates have described his economic plan as something that would increase inflation and by the middle of next year would invite a recession.,0.5660000000000001,0.45984615384615374,0.5514615384615384
+S024,3,1,"You just have to look at where we are and where we stand on the issues, and I’d invite you to know that Donald Trump actually has no plan for you because he is more interested in defending himself than he is in looking out for you.",0.6685333333333332,0.47806666666666675,0.6280666666666667
+S024,4,0,"But what Donald Trump did, let’s talk about this with COVID, is he actually thanked President Xi for what he did during COVID.",0.693125,0.46825,0.6154999999999999
+S024,4,1,"“Thank you, President Xi!” when we know that Xi was responsible for lacking and not giving us transparency about the origins of COVID.",0.693625,0.394125,0.6185
+S024,5,0,"Trump abortion bans that make no exception, even for rape and incest, which understand what that means.",0.3923333333333333,0.6278888888888888,0.5458888888888889
+S024,5,1,"A survivor of a crime, a violation to their body does not have the right to make a decision about what happens to their body next.",0.5811818181818181,0.5814545454545456,0.6099090909090908
+S024,5,2,That is immoral.,0.40650000000000003,0.431,0.46950000000000003
+S024,5,3,And one does not have to abandon their faith or deeply held beliefs to agree.,0.6380000000000001,0.36162500000000003,0.509
+S024,5,4,The government and Donald Trump certainly should not be telling a woman what to do with her body.,0.6366666666666666,0.48933333333333334,0.656
+S024,6,0,I have talked with women around our country.,0.7626666666666666,0.37633333333333335,0.6266666666666666
+S024,6,1,"You want to talk about this is what people wanted, pregnant women who want to carry a pregnancy to term suffering from a miscarriage being denied care in an emergency room because the healthcare providers are afraid they might go to jail and she’s bleeding out in a car in the parking lot.",0.5304444444444444,0.5284074074074073,0.4995185185185185
+S024,6,2,She didn’t want that.,0.6705000000000001,0.595,0.567
+S024,6,3,Her husband didn’t want that.,0.7040000000000001,0.5633333333333334,0.5963333333333334
+S024,6,4,A 12 or 13-year-old survivor of incest being forced to carry a pregnancy to turn?,0.5008571428571428,0.5872857142857143,0.5527142857142857
+S024,6,5,They don’t want that.,0.6705000000000001,0.595,0.567
+S024,7,0,And I pledge to you when Congress passes a bill to put back in place the protections of Roe v.,0.5508888888888889,0.39822222222222226,0.536
+S024,7,1,"Wade as President of the United States, I will proudly sign it into law.",0.6554285714285715,0.5011428571428571,0.6827142857142857
+S024,7,2,"But understand if Donald Trump were to be reelected, he will sign a national abortion ban.",0.5537777777777778,0.4758888888888888,0.5904444444444444
+S024,7,3,"Understand in his Project 2025, there would be a national abortion, a monitor that would be monitoring your pregnancies, your miscarriages.",0.5294166666666666,0.45175000000000004,0.5300833333333334
+S024,7,4,"I think the American people believe that certain freedoms in particular, the freedom to make decisions about one’s own body should not be made by the government.",0.6984285714285713,0.42135714285714293,0.6413571428571428
+S024,8,0,The majority of Americans believe in a woman’s right to make decisions about her own body.,0.7048333333333333,0.44549999999999995,0.702
+S024,8,1,"And that is why in every state where this issue has been on the ballot in red and blue states both, the people of America have voted for freedom.",0.6186923076923078,0.388,0.5333076923076923
+S024,9,0,"So I’m the only person on this stage who has prosecuted transnational criminal organizations for the trafficking of guns, drugs, and human beings.",0.4636,0.5704,0.5896000000000001
+S024,9,1,"And let me say that the United States Congress, including some of the most conservative members of the United States Senate came up with a border security bill, which I supported, and that bill would’ve put 1,500 more border agents on the border to help those folks who are working there right now over time trying to do their job.",0.5940645161290322,0.3951612903225806,0.5900967741935484
+S024,9,2,It would have allowed us to stem the flow of fentanyl,0.6581999999999999,0.3336,0.495
+S024,10,0,And I’m going to actually do something really unusual and I’m going to invite you to attend one of Donald Trump’s rallies because it’s a really interesting thing to watch.,0.60125,0.4933333333333334,0.5214166666666666
+S024,10,1,"You’ll see during the course of his rallies, he talks about fictional characters like Hannibal Lecter.",0.6493333333333334,0.41850000000000004,0.48866666666666675
+S024,10,2,He will talk about windmills cause cancer.,0.565,0.44659999999999994,0.5511999999999999
+S024,10,3,And what you will also notice is that people start leaving his rallies early out of exhaustion and boredom.,0.5243,0.4253,0.47440000000000004
+S024,10,4,And I will tell you the one thing you will not hear him talk about is you.,0.6501250000000001,0.33687500000000004,0.518625
+S024,10,5,"You will not hear him talk about your needs, your dreams, and your desires.",0.7603333333333334,0.47733333333333333,0.525
+S024,10,6,"And I’ll tell you, I believe you deserve a president who actually puts you first.",0.644,0.4475,0.6470000000000001
+S024,10,7,And I pledge to you that I will.,0.7084999999999999,0.44899999999999995,0.7495
+S024,11,0,So let’s talk about what is important in this race.,0.6698000000000001,0.403,0.5898
+S024,11,1,"It is important that we move forward, that we turn the page on this same old tired rhetoric and address the needs of the American people, address what we need to do about the housing shortage, which I have a plan for, address what we must do to support our small businesses, address bringing down the price of groceries.",0.5904827586206897,0.42044827586206895,0.4948620689655172
+S024,11,2,"But frankly, the American people are exhausted with the same old tired playbook.",0.43900000000000006,0.39239999999999997,0.3894
+S024,12,0,"As it relates to my values, let me tell you, I grew up a middle class kid raised by a hardworking mother who worked and saved and was able to buy our first home when I was a teenager.",0.7123,0.4404,0.6023000000000001
+S024,12,1,"The values I bring to the importance of homeownership, knowing not everybody got handed $400 million on a silver platter and then filed bankruptcy six times, is a value that I bring to my work to say we are going to work with the private sector and home builders to increase 3 million homes, increase by 3 million homes by the end of my first term.",0.6556470588235294,0.43858823529411767,0.5982941176470588
+S024,13,0,My work that is related to having a friend when I was in high school who was sexually assaulted by her stepfather.,0.6437272727272728,0.43227272727272725,0.5913636363636363
+S024,13,1,And my focus then on protecting women and children from violent crime is based on a value that is deeply grounded in the importance of standing up for those who are most vulnerable.,0.5865,0.49478571428571433,0.5872142857142857
+S024,14,0,My work that is about protecting social security and Medicare is based on long-standing work that I have done protecting seniors from scams.,0.6702142857142857,0.44757142857142856,0.6347142857142857
+S024,14,1,My values have not changed.,0.742,0.4486666666666667,0.6286666666666667
+S024,14,2,And what is important is that there is a president who actually brings values and a perspective that is about lifting people up and not beating people down and name-calling.,0.6152,0.4336666666666667,0.5872666666666665
+S024,14,3,The true measure of the leader is the leader who actually understands that strength is not in beating people down.,0.6308181818181818,0.46127272727272733,0.6225454545454545
+S024,14,4,It’s in lifting people up.,0.6539999999999999,0.459,0.5780000000000001
+S024,14,5,I intend to be that president.,0.6363333333333334,0.4606666666666667,0.6819999999999999
+S024,15,0,"So for everyone watching who remembers what January 6th was, I say, we don’t have to go back.",0.615375,0.38112500000000005,0.47775
+S024,15,1,Let’s not go back.,0.4583333333333333,0.389,0.36233333333333334
+S024,15,2,We’re not going back.,0.474,0.397,0.39
+S024,15,3,It’s time to turn the page.,0.604,0.3033333333333333,0.4563333333333333
+S024,15,4,"And if that was a bridge too far for you, well, there is a place in our campaign for you to stand, for country to stand, for our democracy to stand for rule of law and to end the chaos, and to end the approach that is about attacking the foundations of our democracy because you don’t like the outcome.",0.567391304347826,0.4359130434782609,0.5794782608695652
+S024,15,5,And be clear on that point.,0.6723333333333334,0.25333333333333335,0.5193333333333333
+S024,15,6,"Donald Trump, the candidate has said in this election there will be a bloodbath if this and the outcome of this election is not to his liking.",0.6241666666666666,0.4898333333333334,0.6392500000000001
+S024,15,7,Let’s turn the page on this.,0.545,0.33166666666666667,0.35566666666666663
+S024,15,8,Let’s not go back.,0.4583333333333333,0.389,0.36233333333333334
+S024,15,9,Let’s chart a course for the future and not go backwards to the past.,0.5143333333333332,0.42816666666666675,0.418
+S024,16,0,Donald Trump was fired by 81 million people.,0.6140000000000001,0.5614,0.6798
+S024,16,1,So let’s be clear about that.,0.6513333333333333,0.3133333333333333,0.478
+S024,16,2,And clearly he is having a very difficult time processing that.,0.5984,0.4782,0.595
+S024,16,3,"But we cannot afford to have a President of the United States who attempts, as he did in the past, to upend the will of the voters in a free and fair election.",0.6741428571428572,0.4775000000000001,0.6133571428571429
+S024,16,4,And I’m going to tell you that,0.5305,0.39549999999999996,0.4505
+S024,17,0,"It must end immediately, and the way it will end is we need a ceasefire deal, and we need the hostages out.",0.47066666666666673,0.5039166666666667,0.4406666666666667
+S024,17,1,"And so, we will continue to work around the clock on that, work around the clock also understanding that we must chart a course for a two-state solution.",0.652,0.3559090909090909,0.5626363636363636
+S024,17,2,"And in that solution, there must be security for the Israeli people and Israel, and in equal measure for the Palestinians.",0.6571428571428571,0.32485714285714284,0.5359999999999999
+S024,17,3,"But the one thing I will assure you always, I will always give Israel the ability to defend itself, in particular as it relates to Iran, and any threat that Iran and its proxies pose to Israel, but we must have a two-state solution where we can rebuild Gaza, where the Palestinians have security, self-determination, and the dignity they so rightly deserve.",0.6557999999999999,0.42068,0.5962000000000001
+S024,18,0,"It is well known that he said when Russia went into Ukraine, it was brilliant.",0.6875,0.36116666666666664,0.6101666666666667
+S024,18,1,It is well known he exchanged love letters with Kim Jong Un.,0.7676000000000001,0.4032,0.5572
+S024,18,2,"And it is absolutely well known that these dictators and autocrats are rooting for you to be president again, because they’re so clear they can manipulate you with flattery and favors, and that is why so many military leaders who you have worked with have told me you are a disgrace.",0.5998571428571429,0.4304285714285715,0.6220952380952381
+S024,18,3,That is why we understand that we have to have a president who is not consistently weak and wrong on national security-,0.5790000000000001,0.3824444444444445,0.5664444444444445
+S024,19,0,I shared with him American intelligence about how he could defend himself.,0.7633333333333333,0.619,0.7000000000000001
+S024,19,1,"Days later, I went to NATO’s eastern flank to Poland and Romania, and through the work that I and others did, we brought 50 countries together to support Ukraine in its righteous defense.",0.6578461538461539,0.4433076923076923,0.5725384615384616
+S024,19,2,"And because of our support, because of the air defense, the ammunition, the artillery, the Javelins, the Abrams tanks that we have provided, Ukraine stands as an independent and free country.",0.6447692307692308,0.47807692307692307,0.645
+S024,20,0,"If Donald Trump were president, Putin would be sitting in Kiev right now, and understand what that would mean, because Putin’s agenda is not just about Ukraine.",0.6120833333333334,0.3764166666666667,0.6055
+S024,20,1,"Understand why the European allies and our NATO allies are so thankful that you are no longer president, and that we understand the importance of the greatest military alliance the world has ever known, which is NATO, and what we have done to preserve the ability of Zelensky and the Ukrainians to fight for their independence.",0.726086956521739,0.45086956521739135,0.7152608695652174
+S024,20,2,"Otherwise, Putin would be sitting in Kiev with his eyes on the rest of Europe, starting with Poland.",0.6791666666666667,0.27899999999999997,0.44249999999999995
+S024,20,3,"And why don’t you tell the 800,000 Polish Americans right here in Pennsylvania how quickly you would give up for the sake of favor and what you think is a friendship with what is known to be a dictator who would eat you for lunch?",0.6626315789473685,0.4244736842105263,0.5630526315789474
+S024,21,0,"No, get this, and the president at the time invited the Taliban to Camp David, a place of storied significance for us as Americans, a place where we honor the importance of American diplomacy, where we invite and receive respected world leaders.",0.7200588235294118,0.4859411764705883,0.6931764705882353
+S024,21,1,"And this former president as president invited them to Camp David, because he does not, again, appreciate the role and responsibility of the President of the United States to be commander-in-chief with a level of respect.",0.6905333333333333,0.4730000000000001,0.7208666666666665
+S024,21,2,"And this gets back to the point of how he has consistently disparaged and demeaned members of our military, fallen soldiers, and the work that we must do to uphold the strength and the respect of the United States of America around the world.",0.56,0.4809473684210526,0.5807894736842104
+S024,22,0,This is the same individual who spread birther lies about the first Black President of the United States.,0.58025,0.4684999999999999,0.64475
+S024,22,1,And I think the American people want better than that.,0.6869999999999999,0.4833333333333334,0.572
+S024,22,2,Want better than this.,0.671,0.642,0.598
+S024,22,3,"Want someone who understands as I do, I travel our country, we see in each other a friend.",0.717875,0.444875,0.518625
+S024,22,4,We see in each other a neighbor.,0.588,0.3156666666666667,0.33499999999999996
+S024,22,5,We don’t want a leader who is constantly trying to have Americans point their fingers at each other.,0.6151,0.4200000000000001,0.5444000000000001
+S024,22,6,"I meet with people all the time who tell me “Can we please just have discourse about how we’re going to invest in the aspirations and the ambitions and the dreams of the American people?” Knowing that regardless of people’s color or the language their grandmother speaks, we all have the same dreams and aspirations and want a president who invests in those, not in hate and division.",0.6427307692307693,0.49219230769230765,0.5837307692307692
+S024,23,0,"$6,000 for young families for the first year of your child’s life to help you in that most critical stage of your child’s development.",0.7281,0.47809999999999997,0.5770000000000001
+S024,23,1,"I have a plan that is about allowing people to be able to pursue what has been fleeting in terms of the American dream by offering help with $25,000 down payment assistance for first-time home buyers.",0.6378095238095237,0.42104761904761906,0.5662857142857143
+S024,23,2,"That’s the kind of conversation I believe, David, that people really want tonight as opposed to a conversation that is constantly about belittling and name-calling.",0.5994545454545454,0.4227272727272727,0.5582727272727273
+S024,23,3,Let’s turn the page and look forward.,0.6454000000000001,0.36719999999999997,0.4864
+S024,24,0,"You don’t like him, you said at the time because he got caught.",0.6391666666666668,0.42166666666666663,0.5486666666666667
+S024,24,1,He was an American hero.,0.8049999999999999,0.523,0.7175
+S024,24,2,"The late great John McCain, I will never forget that night, walked onto the Senate floor and said, “No, you don’t get rid of the Affordable Care Act.",0.5834999999999999,0.432125,0.50475
+S024,24,3,You have no plan.” And what the Affordable Care Act has done is eliminate the ability of insurance companies to deny people with pre-existing conditions.,0.6637333333333333,0.46659999999999996,0.5942666666666666
+S024,24,4,"I don’t have to tell the people watching tonight, you remember what that was like?",0.65975,0.381,0.495375
+S024,24,5,"Remember when an insurance company could deny if a child had asthma, if someone was a breast cancer survivor, if a grandparent had diabetes?",0.5799230769230769,0.47646153846153855,0.5308461538461539
+S024,24,6,"And thankfully, as I’ve been vice president and we, over the last four years, have strengthened the Affordable Care Act.",0.6632,0.4907,0.619
+S024,24,7,"We have allowed, for the first time, Medicare to negotiate drug prices on behalf of you, the American people.",0.578125,0.48875,0.61275
+S024,25,0,Donald Trump said he was going to allow Medicare to negotiate drug prices.,0.54925,0.513625,0.584125
+S024,25,1,He never did.,0.67,0.548,0.536
+S024,25,2,We did.,0.67,0.548,0.536
+S024,25,3,And now we have capped the cost of insulin at $35 a month.,0.5702,0.35519999999999996,0.4386
+S024,25,4,"Since I’ve been vice president, we have capped the cost of prescription medication for seniors at $2,000 a year.",0.5397000000000001,0.4164,0.5432999999999999
+S024,25,5,"And when I am president, we will do that for all people, understanding that the value I bring to this is that access to healthcare should be a right and not just a privilege of those who can afford it.",0.7092499999999999,0.4265625,0.63225
+S024,25,6,"And the plan has to be to strengthen the Affordable Care Act, not get rid of it.",0.6704444444444444,0.49322222222222223,0.6192222222222222
+S024,25,7,[inaudible 01:31:50]-,,,
+S024,26,0,"We have created over 800,000 new manufacturing jobs while I have been vice president.",0.6896666666666668,0.5166666666666667,0.6761111111111111
+S024,26,1,We have invested in clean energy to the point that we are opening up factories around the world.,0.6807777777777777,0.42044444444444445,0.6312222222222222
+S024,26,2,"Donald Trump said he was going to create manufacturing jobs, he lost manufacturing jobs.",0.607,0.5266,0.6357
+S024,26,3,"And I’m also proud to have the endorsement of the United Auto Workers and Shawn Fain, who also know that part of building a clean energy economy includes investing in American-made products, American automobiles.",0.724235294117647,0.4631764705882353,0.6418823529411766
+S024,26,4,"It includes growing what we can do around American manufacturing and opening up auto plants, not closing them like happened under Donald Trump.",0.6938181818181819,0.5075454545454545,0.6033636363636363
+S024,27,0,"I will be a president that will protect our fundamental rights and freedoms, including the right of a woman to make decisions about her own body and not have her government tell her what to do.",0.6971764705882353,0.44988235294117646,0.6976470588235295
+S024,27,1,"I’ll tell you, I started my career as a prosecutor.",0.6062500000000001,0.49575,0.6120000000000001
+S024,27,2,"I was the DA, I was an attorney general, a United States senator, and now vice president.",0.609,0.459,0.7084444444444444
+S024,27,3,"I’ve only had one client, the people.",0.6214999999999999,0.38275000000000003,0.52025
+S024,27,4,"And I’ll tell you, as a prosecutor, I never asked a victim or a witness, “Are you a Republican or a Democrat?” The only thing I ever ask them, “Are you okay?” And that’s the kind of president we need right now.",0.5395384615384616,0.455923076923077,0.5496923076923077
+S024,27,5,Someone who cares about you and is not putting themselves first.,0.636,0.377,0.5880000000000001
+S024,27,6,"I intend to be a president for all Americans and focus on what we can do over the next 10 and 20 years to build back up our country by investing right now in you, the American people.",0.6526923076923077,0.4392307692307693,0.6091538461538462
+S024,28,0,"My passion, one of them is small businesses.",0.6591999999999999,0.43420000000000003,0.5054
+S024,28,1,"My mother raised my sister and me, but there was a woman who helped raise us.",0.7885,0.40900000000000003,0.6181666666666666
+S024,28,2,We call her our second mother.,0.6716666666666667,0.415,0.511
+S024,28,3,She was a small business owner.,0.669,0.36574999999999996,0.58725
+S024,28,4,I love our small businesses.,0.7433333333333333,0.431,0.516
+S024,28,5,"My plan is to give a $50,000 tax deduction to start up small businesses knowing they are part of the backbone of America’s economy.",0.6126923076923079,0.3878461538461539,0.5596153846153846
+S024,28,6,"My opponent on the other hand, his plan is to do what he has done before, which is to provide a tax cut for billionaires and big corporations, which will result in $5 trillion to America’s deficit.",0.5924736842105263,0.457,0.601736842105263
+S024,29,0,"My opponent has a plan that I call the Trump’s sales tax, which would be a 20% tax on everyday goods that you rely on to get through the month.",0.5943333333333334,0.4863333333333334,0.6008
+S024,29,1,"Economists have said that that Trump sales tax would actually result for middle class families in about $4,000 more a year because of his policies and his ideas about what should be the backs of middle class people paying for tax cuts for billionaires.",0.5806363636363637,0.4318636363636364,0.555909090909091
+S024,30,0,"But I’m going to tell you all in this debate tonight, you’re going to hear from the same old tired playbook, a bunch of lies, grievances, and name-calling.",0.444,0.4789999999999999,0.42609090909090913
+S024,30,1,What you’re going to hear tonight is a detailed and dangerous plan called Project 2025 that the former president intends on implementing if he were elected again.,0.6018461538461538,0.5002307692307693,0.6319230769230769
+S024,30,2,"I believe very strongly that the American people want a president who understands the importance of bringing us together knowing we have so much more in common than what separates us, and I pledge you to be a president for all Americans.",0.679875,0.462,0.654625
+S024,31,0,16 Nobel laureates have described his economic plan as something that would increase inflation and by the middle of next year would invite a recession.,0.5660000000000001,0.45984615384615374,0.5514615384615384
+S024,31,1,"You just have to look at where we are and where we stand on the issues, and I’d invite you to know that Donald Trump actually has no plan for you because he is more interested in defending himself than he is in looking out for you.",0.6685333333333332,0.47806666666666675,0.6280666666666667
+S024,32,0,"But what Donald Trump did, let’s talk about this with COVID, is he actually thanked President Xi for what he did during COVID.",0.693125,0.46825,0.6154999999999999
+S024,32,1,"“Thank you, President Xi!” when we know that Xi was responsible for lacking and not giving us transparency about the origins of COVID.",0.693625,0.394125,0.6185
+S024,33,0,"Trump abortion bans that make no exception, even for rape and incest, which understand what that means.",0.3923333333333333,0.6278888888888888,0.5458888888888889
+S024,33,1,"A survivor of a crime, a violation to their body does not have the right to make a decision about what happens to their body next.",0.5811818181818181,0.5814545454545456,0.6099090909090908
+S024,33,2,That is immoral.,0.40650000000000003,0.431,0.46950000000000003
+S024,33,3,And one does not have to abandon their faith or deeply held beliefs to agree.,0.6380000000000001,0.36162500000000003,0.509
+S024,33,4,The government and Donald Trump certainly should not be telling a woman what to do with her body.,0.6366666666666666,0.48933333333333334,0.656
+S024,34,0,I have talked with women around our country.,0.7626666666666666,0.37633333333333335,0.6266666666666666
+S024,34,1,"You want to talk about this is what people wanted, pregnant women who want to carry a pregnancy to term suffering from a miscarriage being denied care in an emergency room because the healthcare providers are afraid they might go to jail and she’s bleeding out in a car in the parking lot.",0.5304444444444444,0.5284074074074073,0.4995185185185185
+S024,34,2,She didn’t want that.,0.6705000000000001,0.595,0.567
+S024,34,3,Her husband didn’t want that.,0.7040000000000001,0.5633333333333334,0.5963333333333334
+S024,34,4,A 12 or 13-year-old survivor of incest being forced to carry a pregnancy to turn?,0.5008571428571428,0.5872857142857143,0.5527142857142857
+S024,34,5,They don’t want that.,0.6705000000000001,0.595,0.567
+S024,35,0,And I pledge to you when Congress passes a bill to put back in place the protections of Roe v.,0.5508888888888889,0.39822222222222226,0.536
+S024,35,1,"Wade as President of the United States, I will proudly sign it into law.",0.6554285714285715,0.5011428571428571,0.6827142857142857
+S024,35,2,"But understand if Donald Trump were to be reelected, he will sign a national abortion ban.",0.5537777777777778,0.4758888888888888,0.5904444444444444
+S024,35,3,"Understand in his Project 2025, there would be a national abortion, a monitor that would be monitoring your pregnancies, your miscarriages.",0.5294166666666666,0.45175000000000004,0.5300833333333334
+S024,35,4,"I think the American people believe that certain freedoms in particular, the freedom to make decisions about one’s own body should not be made by the government.",0.6984285714285713,0.42135714285714293,0.6413571428571428
+S024,36,0,The majority of Americans believe in a woman’s right to make decisions about her own body.,0.7048333333333333,0.44549999999999995,0.702
+S024,36,1,"And that is why in every state where this issue has been on the ballot in red and blue states both, the people of America have voted for freedom.",0.6186923076923078,0.388,0.5333076923076923
+S024,37,0,"So I’m the only person on this stage who has prosecuted transnational criminal organizations for the trafficking of guns, drugs, and human beings.",0.4636,0.5704,0.5896000000000001
+S024,37,1,"And let me say that the United States Congress, including some of the most conservative members of the United States Senate came up with a border security bill, which I supported, and that bill would’ve put 1,500 more border agents on the border to help those folks who are working there right now over time trying to do their job.",0.5940645161290322,0.3951612903225806,0.5900967741935484
+S024,37,2,It would have allowed us to stem the flow of fentanyl,0.6581999999999999,0.3336,0.495
+S024,38,0,And I’m going to actually do something really unusual and I’m going to invite you to attend one of Donald Trump’s rallies because it’s a really interesting thing to watch.,0.60125,0.4933333333333334,0.5214166666666666
+S024,38,1,"You’ll see during the course of his rallies, he talks about fictional characters like Hannibal Lecter.",0.6493333333333334,0.41850000000000004,0.48866666666666675
+S024,38,2,He will talk about windmills cause cancer.,0.565,0.44659999999999994,0.5511999999999999
+S024,38,3,And what you will also notice is that people start leaving his rallies early out of exhaustion and boredom.,0.5243,0.4253,0.47440000000000004
+S024,38,4,And I will tell you the one thing you will not hear him talk about is you.,0.6501250000000001,0.33687500000000004,0.518625
+S024,38,5,"You will not hear him talk about your needs, your dreams, and your desires.",0.7603333333333334,0.47733333333333333,0.525
+S024,38,6,"And I’ll tell you, I believe you deserve a president who actually puts you first.",0.644,0.4475,0.6470000000000001
+S024,38,7,And I pledge to you that I will.,0.7084999999999999,0.44899999999999995,0.7495
+S024,39,0,So let’s talk about what is important in this race.,0.6698000000000001,0.403,0.5898
+S024,39,1,"It is important that we move forward, that we turn the page on this same old tired rhetoric and address the needs of the American people, address what we need to do about the housing shortage, which I have a plan for, address what we must do to support our small businesses, address bringing down the price of groceries.",0.5904827586206897,0.42044827586206895,0.4948620689655172
+S024,39,2,"But frankly, the American people are exhausted with the same old tired playbook.",0.43900000000000006,0.39239999999999997,0.3894
+S024,40,0,"As it relates to my values, let me tell you, I grew up a middle class kid raised by a hardworking mother who worked and saved and was able to buy our first home when I was a teenager.",0.7123,0.4404,0.6023000000000001
+S024,40,1,"The values I bring to the importance of homeownership, knowing not everybody got handed $400 million on a silver platter and then filed bankruptcy six times, is a value that I bring to my work to say we are going to work with the private sector and home builders to increase 3 million homes, increase by 3 million homes by the end of my first term.",0.6556470588235294,0.43858823529411767,0.5982941176470588
+S024,41,0,My work that is related to having a friend when I was in high school who was sexually assaulted by her stepfather.,0.6437272727272728,0.43227272727272725,0.5913636363636363
+S024,41,1,And my focus then on protecting women and children from violent crime is based on a value that is deeply grounded in the importance of standing up for those who are most vulnerable.,0.5865,0.49478571428571433,0.5872142857142857
+S024,42,0,My work that is about protecting social security and Medicare is based on long-standing work that I have done protecting seniors from scams.,0.6702142857142857,0.44757142857142856,0.6347142857142857
+S024,42,1,My values have not changed.,0.742,0.4486666666666667,0.6286666666666667
+S024,42,2,And what is important is that there is a president who actually brings values and a perspective that is about lifting people up and not beating people down and name-calling.,0.6152,0.4336666666666667,0.5872666666666665
+S024,42,3,The true measure of the leader is the leader who actually understands that strength is not in beating people down.,0.6308181818181818,0.46127272727272733,0.6225454545454545
+S024,42,4,It’s in lifting people up.,0.6539999999999999,0.459,0.5780000000000001
+S024,42,5,I intend to be that president.,0.6363333333333334,0.4606666666666667,0.6819999999999999
+S024,43,0,"So for everyone watching who remembers what January 6th was, I say, we don’t have to go back.",0.615375,0.38112500000000005,0.47775
+S024,43,1,Let’s not go back.,0.4583333333333333,0.389,0.36233333333333334
+S024,43,2,We’re not going back.,0.474,0.397,0.39
+S024,43,3,It’s time to turn the page.,0.604,0.3033333333333333,0.4563333333333333
+S024,43,4,"And if that was a bridge too far for you, well, there is a place in our campaign for you to stand, for country to stand, for our democracy to stand for rule of law and to end the chaos, and to end the approach that is about attacking the foundations of our democracy because you don’t like the outcome.",0.567391304347826,0.4359130434782609,0.5794782608695652
+S024,43,5,And be clear on that point.,0.6723333333333334,0.25333333333333335,0.5193333333333333
+S024,43,6,"Donald Trump, the candidate has said in this election there will be a bloodbath if this and the outcome of this election is not to his liking.",0.6241666666666666,0.4898333333333334,0.6392500000000001
+S024,43,7,Let’s turn the page on this.,0.545,0.33166666666666667,0.35566666666666663
+S024,43,8,Let’s not go back.,0.4583333333333333,0.389,0.36233333333333334
+S024,43,9,Let’s chart a course for the future and not go backwards to the past.,0.5143333333333332,0.42816666666666675,0.418
+S024,44,0,Donald Trump was fired by 81 million people.,0.6140000000000001,0.5614,0.6798
+S024,44,1,So let’s be clear about that.,0.6513333333333333,0.3133333333333333,0.478
+S024,44,2,And clearly he is having a very difficult time processing that.,0.5984,0.4782,0.595
+S024,44,3,"But we cannot afford to have a President of the United States who attempts, as he did in the past, to upend the will of the voters in a free and fair election.",0.6741428571428572,0.4775000000000001,0.6133571428571429
+S024,44,4,And I’m going to tell you that,0.5305,0.39549999999999996,0.4505
+S024,45,0,"It must end immediately, and the way it will end is we need a ceasefire deal, and we need the hostages out.",0.47066666666666673,0.5039166666666667,0.4406666666666667
+S024,45,1,"And so, we will continue to work around the clock on that, work around the clock also understanding that we must chart a course for a two-state solution.",0.652,0.3559090909090909,0.5626363636363636
+S024,45,2,"And in that solution, there must be security for the Israeli people and Israel, and in equal measure for the Palestinians.",0.6571428571428571,0.32485714285714284,0.5359999999999999
+S024,45,3,"But the one thing I will assure you always, I will always give Israel the ability to defend itself, in particular as it relates to Iran, and any threat that Iran and its proxies pose to Israel, but we must have a two-state solution where we can rebuild Gaza, where the Palestinians have security, self-determination, and the dignity they so rightly deserve.",0.6557999999999999,0.42068,0.5962000000000001
+S024,46,0,"It is well known that he said when Russia went into Ukraine, it was brilliant.",0.6875,0.36116666666666664,0.6101666666666667
+S024,46,1,It is well known he exchanged love letters with Kim Jong Un.,0.7676000000000001,0.4032,0.5572
+S024,46,2,"And it is absolutely well known that these dictators and autocrats are rooting for you to be president again, because they’re so clear they can manipulate you with flattery and favors, and that is why so many military leaders who you have worked with have told me you are a disgrace.",0.5998571428571429,0.4304285714285715,0.6220952380952381
+S024,46,3,That is why we understand that we have to have a president who is not consistently weak and wrong on national security-,0.5790000000000001,0.3824444444444445,0.5664444444444445
+S024,47,0,I shared with him American intelligence about how he could defend himself.,0.7633333333333333,0.619,0.7000000000000001
+S024,47,1,"Days later, I went to NATO’s eastern flank to Poland and Romania, and through the work that I and others did, we brought 50 countries together to support Ukraine in its righteous defense.",0.6578461538461539,0.4433076923076923,0.5725384615384616
+S024,47,2,"And because of our support, because of the air defense, the ammunition, the artillery, the Javelins, the Abrams tanks that we have provided, Ukraine stands as an independent and free country.",0.6447692307692308,0.47807692307692307,0.645
+S024,48,0,"If Donald Trump were president, Putin would be sitting in Kiev right now, and understand what that would mean, because Putin’s agenda is not just about Ukraine.",0.6120833333333334,0.3764166666666667,0.6055
+S024,48,1,"Understand why the European allies and our NATO allies are so thankful that you are no longer president, and that we understand the importance of the greatest military alliance the world has ever known, which is NATO, and what we have done to preserve the ability of Zelensky and the Ukrainians to fight for their independence.",0.726086956521739,0.45086956521739135,0.7152608695652174
+S024,48,2,"Otherwise, Putin would be sitting in Kiev with his eyes on the rest of Europe, starting with Poland.",0.6791666666666667,0.27899999999999997,0.44249999999999995
+S024,48,3,"And why don’t you tell the 800,000 Polish Americans right here in Pennsylvania how quickly you would give up for the sake of favor and what you think is a friendship with what is known to be a dictator who would eat you for lunch?",0.6626315789473685,0.4244736842105263,0.5630526315789474
+S024,49,0,"No, get this, and the president at the time invited the Taliban to Camp David, a place of storied significance for us as Americans, a place where we honor the importance of American diplomacy, where we invite and receive respected world leaders.",0.7200588235294118,0.4859411764705883,0.6931764705882353
+S024,49,1,"And this former president as president invited them to Camp David, because he does not, again, appreciate the role and responsibility of the President of the United States to be commander-in-chief with a level of respect.",0.6905333333333333,0.4730000000000001,0.7208666666666665
+S024,49,2,"And this gets back to the point of how he has consistently disparaged and demeaned members of our military, fallen soldiers, and the work that we must do to uphold the strength and the respect of the United States of America around the world.",0.56,0.4809473684210526,0.5807894736842104
+S024,50,0,This is the same individual who spread birther lies about the first Black President of the United States.,0.58025,0.4684999999999999,0.64475
+S024,50,1,And I think the American people want better than that.,0.6869999999999999,0.4833333333333334,0.572
+S024,50,2,Want better than this.,0.671,0.642,0.598
+S024,50,3,"Want someone who understands as I do, I travel our country, we see in each other a friend.",0.717875,0.444875,0.518625
+S024,50,4,We see in each other a neighbor.,0.588,0.3156666666666667,0.33499999999999996
+S024,50,5,We don’t want a leader who is constantly trying to have Americans point their fingers at each other.,0.6151,0.4200000000000001,0.5444000000000001
+S024,50,6,"I meet with people all the time who tell me “Can we please just have discourse about how we’re going to invest in the aspirations and the ambitions and the dreams of the American people?” Knowing that regardless of people’s color or the language their grandmother speaks, we all have the same dreams and aspirations and want a president who invests in those, not in hate and division.",0.6427307692307693,0.49219230769230765,0.5837307692307692
+S024,51,0,"$6,000 for young families for the first year of your child’s life to help you in that most critical stage of your child’s development.",0.7281,0.47809999999999997,0.5770000000000001
+S024,51,1,"I have a plan that is about allowing people to be able to pursue what has been fleeting in terms of the American dream by offering help with $25,000 down payment assistance for first-time home buyers.",0.6378095238095237,0.42104761904761906,0.5662857142857143
+S024,51,2,"That’s the kind of conversation I believe, David, that people really want tonight as opposed to a conversation that is constantly about belittling and name-calling.",0.5994545454545454,0.4227272727272727,0.5582727272727273
+S024,51,3,Let’s turn the page and look forward.,0.6454000000000001,0.36719999999999997,0.4864
+S024,52,0,"You don’t like him, you said at the time because he got caught.",0.6391666666666668,0.42166666666666663,0.5486666666666667
+S024,52,1,He was an American hero.,0.8049999999999999,0.523,0.7175
+S024,52,2,"The late great John McCain, I will never forget that night, walked onto the Senate floor and said, “No, you don’t get rid of the Affordable Care Act.",0.5834999999999999,0.432125,0.50475
+S024,52,3,You have no plan.” And what the Affordable Care Act has done is eliminate the ability of insurance companies to deny people with pre-existing conditions.,0.6637333333333333,0.46659999999999996,0.5942666666666666
+S024,52,4,"I don’t have to tell the people watching tonight, you remember what that was like?",0.65975,0.381,0.495375
+S024,52,5,"Remember when an insurance company could deny if a child had asthma, if someone was a breast cancer survivor, if a grandparent had diabetes?",0.5799230769230769,0.47646153846153855,0.5308461538461539
+S024,52,6,"And thankfully, as I’ve been vice president and we, over the last four years, have strengthened the Affordable Care Act.",0.6632,0.4907,0.619
+S024,52,7,"We have allowed, for the first time, Medicare to negotiate drug prices on behalf of you, the American people.",0.578125,0.48875,0.61275
+S024,53,0,Donald Trump said he was going to allow Medicare to negotiate drug prices.,0.54925,0.513625,0.584125
+S024,53,1,He never did.,0.67,0.548,0.536
+S024,53,2,We did.,0.67,0.548,0.536
+S024,53,3,And now we have capped the cost of insulin at $35 a month.,0.5702,0.35519999999999996,0.4386
+S024,53,4,"Since I’ve been vice president, we have capped the cost of prescription medication for seniors at $2,000 a year.",0.5397000000000001,0.4164,0.5432999999999999
+S024,53,5,"And when I am president, we will do that for all people, understanding that the value I bring to this is that access to healthcare should be a right and not just a privilege of those who can afford it.",0.7092499999999999,0.4265625,0.63225
+S024,53,6,"And the plan has to be to strengthen the Affordable Care Act, not get rid of it.",0.6704444444444444,0.49322222222222223,0.6192222222222222
+S024,53,7,[inaudible 01:31:50]-,,,
+S024,54,0,"We have created over 800,000 new manufacturing jobs while I have been vice president.",0.6896666666666668,0.5166666666666667,0.6761111111111111
+S024,54,1,We have invested in clean energy to the point that we are opening up factories around the world.,0.6807777777777777,0.42044444444444445,0.6312222222222222
+S024,54,2,"Donald Trump said he was going to create manufacturing jobs, he lost manufacturing jobs.",0.607,0.5266,0.6357
+S024,54,3,"And I’m also proud to have the endorsement of the United Auto Workers and Shawn Fain, who also know that part of building a clean energy economy includes investing in American-made products, American automobiles.",0.724235294117647,0.4631764705882353,0.6418823529411766
+S024,54,4,"It includes growing what we can do around American manufacturing and opening up auto plants, not closing them like happened under Donald Trump.",0.6938181818181819,0.5075454545454545,0.6033636363636363
+S024,55,0,"I will be a president that will protect our fundamental rights and freedoms, including the right of a woman to make decisions about her own body and not have her government tell her what to do.",0.6971764705882353,0.44988235294117646,0.6976470588235295
+S024,55,1,"I’ll tell you, I started my career as a prosecutor.",0.6062500000000001,0.49575,0.6120000000000001
+S024,55,2,"I was the DA, I was an attorney general, a United States senator, and now vice president.",0.609,0.459,0.7084444444444444
+S024,55,3,"I’ve only had one client, the people.",0.6214999999999999,0.38275000000000003,0.52025
+S024,55,4,"And I’ll tell you, as a prosecutor, I never asked a victim or a witness, “Are you a Republican or a Democrat?” The only thing I ever ask them, “Are you okay?” And that’s the kind of president we need right now.",0.5395384615384616,0.455923076923077,0.5496923076923077
+S024,55,5,Someone who cares about you and is not putting themselves first.,0.636,0.377,0.5880000000000001
+S024,55,6,"I intend to be a president for all Americans and focus on what we can do over the next 10 and 20 years to build back up our country by investing right now in you, the American people.",0.6526923076923077,0.4392307692307693,0.6091538461538462

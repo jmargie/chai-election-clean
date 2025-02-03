@@ -1,0 +1,49 @@
+speech_id,line_id,sentence_id,sentence_text,valence,arousal,dominance
+S006,0,0,"And I know it takes a lot out of you to share that story, but to do it in a way that is about lifting up other people and helping hopefully others who are not in this room, understanding how real people are impacted every day about this issue and by this issue.",0.6253333333333334,0.4065833333333333,0.4983333333333333
+S006,0,1,Thank you.,0.958,0.353,0.526
+S006,0,2,"I want to recognize that people of our administration, including Secretary Becerra, who is here, the bold administrator, Brooks-LaSure, who is here, my dear friend and former colleague, Senator Ben Cardin, Representative Barragan, the chair of the Congressional Hispanic Caucus, and Representative Mfume for all of your years of leadership.",0.6563571428571429,0.3811428571428571,0.5930714285714285
+S006,0,3,"And I want to recognize your next United States Senator, Angela Alsobrooks.",0.7373333333333334,0.4626666666666667,0.6603333333333333
+S006,0,4,She’s here somewhere.,,,
+S006,0,5,And I’ve worked with her over the years.,,,
+S006,0,6,"I’m telling you, Maryland, you’re going to do a great thing when you send her to the United States Senate.",0.7066666666666666,0.46449999999999997,0.5755
+S006,0,7,"And of course, I could speak all afternoon about the person that I am standing on this stage with, our extraordinary president, Joe Biden.",0.6848333333333333,0.429,0.5321666666666667
+S006,0,8,"And he’s going to speak in a minute, but there’s a lot of love in this room for our president, and I think it’s for many, many reasons, including few leaders in our nation have done more on so many issues, including to expand access to affordable healthcare than Joe Biden.",0.7452307692307691,0.40815384615384614,0.5716923076923077
+S006,0,9,"And today we take the next step, thank you, Joe, forward in our fight.",0.86625,0.40199999999999997,0.4965
+S006,1,0,"My entire career, I have worked to hold bad actors accountable and lower the cost of prescription drugs.",0.46525000000000005,0.387625,0.50875
+S006,1,1,"As Attorney General of California, I took on pharmaceutical companies for deceptive marketing and illegally inflating the cost of drugs, and we won billions of dollars.",0.42571428571428566,0.5857142857142856,0.5684285714285714
+S006,1,2,"As the United States Senator, I fought to pass laws that would make healthcare more affordable and accessible for all Americans.",0.6977142857142857,0.3981428571428572,0.5457142857142857
+S006,1,3,"And as Vice President, together with Joe Biden, our president, we finally addressed the longstanding issue that, for years, was one of the biggest challenges on this subject, which was that Medicare was prohibited by law from negotiating lower drug prices.",0.4452222222222223,0.5733333333333333,0.48133333333333334
+S006,1,4,"And those costs then got passed on to our seniors, but not anymore.",,,
+S006,2,0,"Two years ago, we gave Medicare the power to negotiate lower prescription drug prices for the first time in history.",0.5084444444444444,0.4576666666666667,0.5900000000000001
+S006,2,1,And here is why that matters.,,,
+S006,2,2,It is nearly impossible for a patient to negotiate lower prices by themselves.,0.41874999999999996,0.42675,0.4435
+S006,2,3,Just think about that.,0.786,0.408,0.618
+S006,2,4,"Somebody who needs the medication, who may be suffering from a serious illness, that they would buy themselves, be able to negotiate against a big drug company to lower that prices is virtually impossible.",0.5763571428571429,0.49542857142857144,0.5550714285714287
+S006,2,5,It’s one person against a huge corporation.,0.5870000000000001,0.4266666666666667,0.5830000000000001
+S006,2,6,But Medicare represents more than 65 million people.,0.776,0.647,0.812
+S006,2,7,"And so Medicare has collective bargaining power, and now Medicare can use that power to go toe to toe with big pharma and negotiate lower drug prices.",0.5250833333333333,0.47925,0.5398333333333334
+S006,2,8,"Thank you, Joe.",0.958,0.353,0.526
+S006,3,0,"And I know it takes a lot out of you to share that story, but to do it in a way that is about lifting up other people and helping hopefully others who are not in this room, understanding how real people are impacted every day about this issue and by this issue.",0.6253333333333334,0.4065833333333333,0.4983333333333333
+S006,3,1,Thank you.,0.958,0.353,0.526
+S006,3,2,"I want to recognize that people of our administration, including Secretary Becerra, who is here, the bold administrator, Brooks-LaSure, who is here, my dear friend and former colleague, Senator Ben Cardin, Representative Barragan, the chair of the Congressional Hispanic Caucus, and Representative Mfume for all of your years of leadership.",0.6563571428571429,0.3811428571428571,0.5930714285714285
+S006,3,3,"And I want to recognize your next United States Senator, Angela Alsobrooks.",0.7373333333333334,0.4626666666666667,0.6603333333333333
+S006,3,4,She’s here somewhere.,,,
+S006,3,5,And I’ve worked with her over the years.,,,
+S006,3,6,"I’m telling you, Maryland, you’re going to do a great thing when you send her to the United States Senate.",0.7066666666666666,0.46449999999999997,0.5755
+S006,3,7,"And of course, I could speak all afternoon about the person that I am standing on this stage with, our extraordinary president, Joe Biden.",0.6848333333333333,0.429,0.5321666666666667
+S006,3,8,"And he’s going to speak in a minute, but there’s a lot of love in this room for our president, and I think it’s for many, many reasons, including few leaders in our nation have done more on so many issues, including to expand access to affordable healthcare than Joe Biden.",0.7452307692307691,0.40815384615384614,0.5716923076923077
+S006,3,9,"And today we take the next step, thank you, Joe, forward in our fight.",0.86625,0.40199999999999997,0.4965
+S006,4,0,"My entire career, I have worked to hold bad actors accountable and lower the cost of prescription drugs.",0.46525000000000005,0.387625,0.50875
+S006,4,1,"As Attorney General of California, I took on pharmaceutical companies for deceptive marketing and illegally inflating the cost of drugs, and we won billions of dollars.",0.42571428571428566,0.5857142857142856,0.5684285714285714
+S006,4,2,"As the United States Senator, I fought to pass laws that would make healthcare more affordable and accessible for all Americans.",0.6977142857142857,0.3981428571428572,0.5457142857142857
+S006,4,3,"And as Vice President, together with Joe Biden, our president, we finally addressed the longstanding issue that, for years, was one of the biggest challenges on this subject, which was that Medicare was prohibited by law from negotiating lower drug prices.",0.4452222222222223,0.5733333333333333,0.48133333333333334
+S006,4,4,"And those costs then got passed on to our seniors, but not anymore.",,,
+S006,5,0,"Two years ago, we gave Medicare the power to negotiate lower prescription drug prices for the first time in history.",0.5084444444444444,0.4576666666666667,0.5900000000000001
+S006,5,1,And here is why that matters.,,,
+S006,5,2,It is nearly impossible for a patient to negotiate lower prices by themselves.,0.41874999999999996,0.42675,0.4435
+S006,5,3,Just think about that.,0.786,0.408,0.618
+S006,5,4,"Somebody who needs the medication, who may be suffering from a serious illness, that they would buy themselves, be able to negotiate against a big drug company to lower that prices is virtually impossible.",0.5763571428571429,0.49542857142857144,0.5550714285714287
+S006,5,5,It’s one person against a huge corporation.,0.5870000000000001,0.4266666666666667,0.5830000000000001
+S006,5,6,But Medicare represents more than 65 million people.,0.776,0.647,0.812
+S006,5,7,"And so Medicare has collective bargaining power, and now Medicare can use that power to go toe to toe with big pharma and negotiate lower drug prices.",0.5250833333333333,0.47925,0.5398333333333334
+S006,5,8,"Thank you, Joe.",0.958,0.353,0.526

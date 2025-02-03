@@ -1,0 +1,285 @@
+speech_id,line_id,sentence_id,sentence_text,valence,arousal,dominance
+S022,0,0,"All right, so here’s the thing.",0.5945,0.287,0.485
+S022,0,1,"Okay, we got a lot of work to do.",0.6649999999999999,0.48824999999999996,0.58075
+S022,0,2,We got a lot of work to do.,0.6649999999999999,0.48824999999999996,0.58075
+S022,0,3,"Okay, so North Carolina, you probably know… Please have a seat if you have a chair.",0.6523333333333333,0.29283333333333333,0.5083333333333333
+S022,0,4,"Two nights ago, Donald Trump and I had our first debate.",0.5521428571428572,0.4531428571428571,0.5962857142857143
+S022,0,5,And I believe we owe it to the voters to have another debate because this election and what is at stake could not be more important.,0.6256,0.4654,0.6153000000000001
+S022,0,6,"On Tuesday night, I talked about issues that I know matter to families across America, like bringing down the cost of living, investing in America’s small businesses, protecting reproductive freedom, and keeping our nation safe and secure.",0.6660454545454545,0.43477272727272726,0.6042272727272727
+S022,0,7,But that’s not what we heard from Donald Trump.,0.7,0.5725,0.671
+S022,0,8,"Instead, it was the same old show, that same tired playbook that we’ve heard for years with no plans for how he would address the needs of the American people.",0.587,0.4474545454545455,0.4857272727272728
+S022,0,9,Because you know it’s all about him.,0.765,0.361,0.704
+S022,0,10,It’s not about you.,,,
+S022,0,11,"Well, folks, I said it then, I say it now, it’s time to turn the page.",0.6028333333333333,0.32716666666666666,0.4608333333333334
+S022,0,12,Turn that page.,0.6040000000000001,0.311,0.38
+S022,0,13,Turn that page.,0.6040000000000001,0.311,0.38
+S022,0,14,Turn that page.,0.6040000000000001,0.311,0.38
+S022,1,0,"Because to your point, America is ready for a new way forward.",0.7000000000000001,0.33299999999999996,0.5641666666666666
+S022,1,1,We are ready for a new generation of leadership that is optimistic about what we can do together.,0.7985,0.4408,0.6475000000000001
+S022,1,2,"That is why Democrats, Republicans, and independents are supporting our campaign.",0.6921999999999999,0.42799999999999994,0.7134
+S022,1,3,Over 200 people who worked for President George H.W.,0.6666666666666666,0.5393333333333333,0.741
+S022,1,4,"Bush, President George W.",0.545,0.421,0.644
+S022,1,5,"Bush, John McCain and Mitt Romney have endorsed me for president.",0.5678333333333334,0.36466666666666664,0.49066666666666664
+S022,1,6,"Former Vice President Dick Cheney and Congresswoman Liz Cheney are supporting me as well because, as they said, we have a duty as citizens to put country above partisanship and defend our constitution.",0.5693571428571429,0.4727142857142857,0.6327142857142857
+S022,1,7,And that is my pledge to you.,0.6945,0.365,0.659
+S022,1,8,"I will always put country above party, and I will be a president for [inaudible 00:06:39].",0.7012857142857144,0.4728571428571428,0.6781428571428572
+S022,1,9,"We are fighting for the future, a future with affordable child care, paid leave, and affordable healthcare, a future where we build what I call an opportunity economy so every American has an opportunity to own a home, to build wealth, to start a business.",0.7413478260869565,0.518086956521739,0.654695652173913
+S022,2,0,They’re leaders in the community.,0.7915,0.46599999999999997,0.7925
+S022,2,1,They’re civic leaders.,0.743,0.411,0.7495
+S022,2,2,They hire locally.,0.688,0.558,0.556
+S022,2,3,They mentor.,0.719,0.455,0.777
+S022,2,4,They’re part of the fabric of the community.,0.6826666666666666,0.27266666666666667,0.4546666666666666
+S022,2,5,And I know they are the backbone of America’s economy.,0.639,0.37474999999999997,0.66225
+S022,2,6,"So my plan is to give a $50,000 tax deduction to start up small businesses because not everybody started out with $400 million on a silver platter and then filed for bankruptcy six times.",0.56175,0.4056875,0.4955625
+S022,2,7,"But a whole lot of people have the ingenuity, the entrepreneurship, the work ethic, and the ambition to do that kind of work and just need to be seen and supported for what they are and what they do for all of us.",0.6813529411764706,0.4278823529411765,0.5751764705882353
+S022,2,8,An opportunity economy.,0.7605,0.5895,0.802
+S022,3,0,We need to build more housing in America.,0.6856666666666668,0.47466666666666674,0.5323333333333333
+S022,3,1,And so we are going to cut red tape and work with the private sector to build 3 million new homes by the end of my first term.,0.6128666666666667,0.4065333333333333,0.5609333333333334
+S022,3,2,I have a plan to lower the cost of living for America’s families on everything from healthcare to groceries.,0.6809999999999999,0.423875,0.5549999999999999
+S022,3,3,"Under my plan, more than 100 million Americans will get a tax break, and thousands of dollars of your hard-earned money will go back into your pockets including $6,000 during the first year of a child’s life.",0.6365789473684211,0.4711578947368421,0.5937368421052632
+S022,3,4,And I will always put middle-class and working families first.,0.6681666666666667,0.4051666666666667,0.5920000000000001
+S022,3,5,I grew up a middle-class kid.,0.7106666666666667,0.4083333333333334,0.451
+S022,3,6,"I was raised by a hardworking mother who saved up, and by the time I was a teenager, she was able to afford to buy our first home.",0.7198571428571429,0.42685714285714293,0.6407142857142858
+S022,3,7,"I understand how people work hard and have dreams and aspirations for their children and need to be put first, understanding again, when the middle-class is strong, America is strong.",0.6877777777777778,0.46038888888888885,0.5933888888888889
+S022,3,8,America is strong.,0.791,0.4925,0.7245
+S022,4,0,"But Donald Trump, well, he has a different plan.",0.66375,0.50975,0.67425
+S022,4,1,Just google Project 2025.,0.725,0.462,0.853
+S022,4,2,It is a detailed and dangerous blueprint for what he will do if he is elected president.,0.573888888888889,0.4488888888888889,0.6186666666666666
+S022,4,3,"Donald Trump will give billionaires and big corporations massive tax cuts and cut corporate taxes by over a trillion dollars, even as they pull in record profits.",0.6128125,0.51575,0.6604375
+S022,4,4,He will add more than $5 trillion to the national debt.,0.584,0.45619999999999994,0.5822
+S022,4,5,"He intends to cut Social Security and Medicare, and he wants to impose what is in effect a national sales tax.",0.6103636363636364,0.48263636363636364,0.6020000000000001
+S022,4,6,"I call it a Trump sales tax because it will be a tax on everyday basic necessities, which the economists have measured will cost the average family nearly $4,000 more a year.",0.6016470588235294,0.4181176470588235,0.5631764705882353
+S022,5,0,"And the top economists, they’ve previewed our plans.",0.6873333333333332,0.4256666666666667,0.5926666666666667
+S022,5,1,They’ve reviewed them.,0.667,0.408,0.636
+S022,5,2,"Goldman Sachs says my plan would grow our economy, and his plan would shrink it.",0.591375,0.4645,0.575
+S022,5,3,"16 Nobel Prize-winning economists say he would reignite inflation, and Moody’s says he would ignite a recession by the middle of next year.",0.48209090909090907,0.494,0.48672727272727273
+S022,5,4,"He talks a big talk, but when folks review the numbers, highly respected folks, that’s what you learn about him.",0.7342222222222223,0.43099999999999994,0.6246666666666667
+S022,5,5,That’s what you learn.,0.833,0.643,0.829
+S022,5,6,"And North Carolina, on top of all of this, Donald Trump intends to end the Affordable Care Act.",0.6145,0.46399999999999997,0.555875
+S022,5,7,"And as Stacey mentioned, you heard what he said in the debate.",0.57525,0.44875,0.5427500000000001
+S022,5,8,He has no plan to replace it.,0.6066666666666667,0.48300000000000004,0.6086666666666667
+S022,5,9,"He said “concepts of a plan.” Oh, you all watched the debate?",0.539,0.47175,0.5802499999999999
+S022,6,0,"Concepts, concepts.",0.573,0.265,0.632
+S022,6,1,"No actual plan, concepts.",0.6493333333333333,0.40166666666666667,0.6936666666666667
+S022,6,2,And understand what’s at stake on that.,0.583,0.491,0.5515
+S022,6,3,"45 million Americans are insured through the Affordable Care Act, and he’s going to end it based on a concept and take us back to when insurance companies had the power to deny people with pre-existing conditions.",0.6378947368421053,0.43773684210526315,0.5782105263157894
+S022,6,4,"Well, we are not going back back.",0.514,0.34675,0.41750000000000004
+S022,6,5,We’re not going back.,0.474,0.397,0.39
+S022,6,6,We’re not going back.,0.474,0.397,0.39
+S022,6,7,No.,,,
+S022,6,8,We’ll move forward.,0.7645,0.5295,0.71
+S022,6,9,"We will move forward because ours is a fight for the future and it is a fight for freedom, like the fundamental freedom of a woman to make decisions about her own body and not have her government tell her what to do.",0.7005789473684211,0.4946315789473684,0.6922105263157895
+S022,7,0,And we know how we got to this issue because Donald Trump handpicked three members of the United States Supreme Court with the intention that they would undo the protections of Roe v.,0.6125333333333334,0.5010666666666667,0.6142666666666666
+S022,7,1,Wade.,0.51,0.656,0.472
+S022,7,2,And they did as he intended.,0.538,0.545,0.5615
+S022,7,3,"And now in over 20 states in our nation, they have what I call Trump abortion bans, including North Carolina and every single state in the south except Virginia.",0.50175,0.46049999999999996,0.5503333333333335
+S022,7,4,Think about that.,0.786,0.408,0.618
+S022,7,5,Every single state in the south except Virginia.,0.4716666666666667,0.313,0.4306666666666667
+S022,7,6,"Now one in three women in America lives under Trump abortion ban, many with no exceptions, even for rape and incest.",0.3983333333333333,0.624,0.5445555555555556
+S022,7,7,It is immoral.,0.40650000000000003,0.431,0.46950000000000003
+S022,7,8,It is immoral.,0.40650000000000003,0.431,0.46950000000000003
+S022,7,9,And I know we all here understand and agree one does not have to abandon their faith or deeply held beliefs to agree the government should not be telling her what to do with her body.,0.6696875,0.38175000000000003,0.5626249999999999
+S022,8,0,And what we know is that the impact of this… It’s been over two years now since that decision came down.,0.57,0.3737777777777778,0.5734444444444445
+S022,8,1,The impact of this is so real.,0.6193333333333334,0.5446666666666667,0.6823333333333333
+S022,8,2,"It’s affecting people every day just based on the stories we know, and there are so many stories we don’t know.",0.6483999999999999,0.3863,0.5742
+S022,8,3,Think about it.,0.786,0.408,0.618
+S022,8,4,"Because of Trump’s abortion bans, women are being refused care during miscarriages.",0.39275000000000004,0.5351250000000001,0.48450000000000004
+S022,8,5,Some are only being treated if they develop sepsis.,0.5826,0.4346,0.5384
+S022,8,6,"And when asked on Tuesday night, Donald Trump refused to say that he would veto a national abortion ban.",0.4238181818181817,0.4744545454545454,0.4754545454545455
+S022,8,7,You remember that?,0.776,0.422,0.454
+S022,8,8,He refused to answer that question.,0.4033333333333333,0.41933333333333334,0.4526666666666667
+S022,8,9,Refused to answer that question.,0.4033333333333333,0.41933333333333334,0.4526666666666667
+S022,8,10,"Well, I’m going to tell you.",0.5305,0.39549999999999996,0.4505
+S022,8,11,"When Congress passes a bill to restore reproductive freedom, as President of the United States, I will proudly, proudly, sign it into law.",0.6614166666666667,0.4716666666666667,0.7039166666666667
+S022,8,12,Proudly.,,,
+S022,9,0,"And across our nation, across our nation, we are witnessing a full-on assault on other hard fought, hard won fundamental freedoms and rights like the freedom to vote, the freedom to be safe from gun violence, the freedom to breathe clean air and drink clean water and the freedom to love who you love openly and with pride.",0.6788823529411765,0.48126470588235293,0.6707058823529412
+S022,9,1,And North Carolina has a history of the point I’m about to make.,0.6382,0.3278,0.5416
+S022,9,2,"Generations, generations of Americans before us led the fight for freedom.",0.7258,0.6058,0.7078000000000001
+S022,9,3,And now the baton is in our hands.,0.49466666666666664,0.26299999999999996,0.5023333333333333
+S022,9,4,It is in our hands.,0.6060000000000001,0.277,0.494
+S022,9,5,So we who believe in the sacred freedom to vote will finally pass the John Lewis Voting Rights Act and the freedom to vote at it.,0.6984615384615385,0.4644615384615385,0.6733846153846155
+S022,9,6,"And we who believe in the freedom to live safe from gun violence will finally pass an assault weapons ban, universal background checks.",0.5078666666666666,0.5742666666666666,0.6611333333333334
+S022,9,7,And red flag laws.,0.5863333333333333,0.451,0.576
+S022,10,0,"So much, so much is at stake in this election.",0.5670000000000001,0.45566666666666666,0.555
+S022,10,1,So much is at stake in this election.,0.5670000000000001,0.45566666666666666,0.555
+S022,10,2,"And understand this is not 2016 or 2020 for a number of reasons, including why the stakes are higher.",0.632625,0.382375,0.5605
+S022,10,3,"Because two months ago, the United States Supreme Court Supreme basically told the former president that he will effectively be immune no matter what he does in the White House.",0.6212500000000001,0.42393749999999997,0.6569375
+S022,10,4,Think about that.,0.786,0.408,0.618
+S022,10,5,Think about that.,0.786,0.408,0.618
+S022,10,6,Just imagine Donald Trump with no guardrails.,0.6995,0.598,0.7424999999999999
+S022,10,7,Right?,0.74,0.352,0.71
+S022,10,8,"He who has vowed that if re-elected he’ll be a dictator on day one, that he will weaponize the Department of Justice against his political enemies, and has called for the quote, “termination of the Constitution of the United States of America.” Think about that.",0.5954999999999999,0.46627777777777774,0.6409444444444445
+S022,10,9,And let us be very clear.,0.6513333333333333,0.3133333333333333,0.478
+S022,10,10,Somebody who suggests we should terminate the Constitution of the United States should never again stand behind the seal of the President of the United States.,0.5787,0.3927,0.6621
+S022,10,11,Never again.,,,
+S022,10,12,Never again.,,,
+S022,10,13,Never again.,,,
+S022,11,0,"And one of the points that I mentioned on Tuesday, the people who served under him at the White House, who saw him every day, his national security advisor, his defense secretary, his chief of staff, and his vice president, all have warned, all who worked with him every day in the White House, sat with him in the Oval Office, have warned America, Donald Trump is not fit to be President of the United States and should never again occupy our nation’s highest office.",0.5880512820512821,0.40815384615384614,0.5971282051282051
+S022,11,1,And we’re not going back.,0.474,0.397,0.39
+S022,12,0,But here’s also the thing.,0.449,0.222,0.26
+S022,12,1,Ours will be a very tight race until the end.,0.5395,0.35574999999999996,0.56125
+S022,12,2,Okay?,,,
+S022,12,3,It’s going to be a tight race until the end.,0.49250000000000005,0.364,0.48850000000000005
+S022,12,4,And we are the underdog.,0.46,0.32499999999999996,0.39
+S022,12,5,Understand that.,0.76,0.374,0.643
+S022,12,6,We are the underdog.,0.46,0.32499999999999996,0.39
+S022,12,7,There are powerful forces trying to convince people that their vote doesn’t matter.,0.637888888888889,0.5163333333333333,0.6663333333333334
+S022,12,8,There are powerful forces here too.,0.6953333333333335,0.5853333333333333,0.8103333333333333
+S022,12,9,But I say all that to say we’ve got some hard work ahead of us.,0.6018333333333333,0.5063333333333333,0.6116666666666667
+S022,12,10,But here’s the thing I love about everybody here.,0.7245,0.3705,0.4665
+S022,12,11,We love hard work.,0.6736666666666666,0.6076666666666667,0.6796666666666668
+S022,12,12,Hard work is good work.,0.6695999999999999,0.5016,0.6408
+S022,12,13,Hard work is good work.,0.6695999999999999,0.5016,0.6408
+S022,12,14,Hard work is good work.,0.6695999999999999,0.5016,0.6408
+S022,12,15,"And with your help, we will win in November.",0.766,0.5243333333333333,0.6943333333333334
+S022,12,16,We will win.,0.8125,0.5509999999999999,0.8115
+S022,12,17,We will.,0.698,0.408,0.735
+S022,12,18,We will win.,0.8125,0.5509999999999999,0.8115
+S022,12,19,"So North Carolina, today I then ask you, are you ready to make your voices heard?",0.66825,0.35262499999999997,0.49062500000000003
+S022,12,20,Do we believe in freedom?,0.8066666666666666,0.4873333333333334,0.7076666666666668
+S022,12,21,Do we believe in opportunity?,0.7963333333333334,0.5543333333333333,0.6836666666666668
+S022,12,22,Do we believe in the promise of America?,0.758,0.47266666666666673,0.6406666666666666
+S022,12,23,And are we ready to fight for it?,0.657,0.49866666666666665,0.6703333333333333
+S022,12,24,"And when we fight, we win.",0.7290000000000001,0.7809999999999999,0.8485
+S022,13,0,"All right, so here’s the thing.",0.5945,0.287,0.485
+S022,13,1,"Okay, we got a lot of work to do.",0.6649999999999999,0.48824999999999996,0.58075
+S022,13,2,We got a lot of work to do.,0.6649999999999999,0.48824999999999996,0.58075
+S022,13,3,"Okay, so North Carolina, you probably know… Please have a seat if you have a chair.",0.6523333333333333,0.29283333333333333,0.5083333333333333
+S022,13,4,"Two nights ago, Donald Trump and I had our first debate.",0.5521428571428572,0.4531428571428571,0.5962857142857143
+S022,13,5,And I believe we owe it to the voters to have another debate because this election and what is at stake could not be more important.,0.6256,0.4654,0.6153000000000001
+S022,13,6,"On Tuesday night, I talked about issues that I know matter to families across America, like bringing down the cost of living, investing in America’s small businesses, protecting reproductive freedom, and keeping our nation safe and secure.",0.6660454545454545,0.43477272727272726,0.6042272727272727
+S022,13,7,But that’s not what we heard from Donald Trump.,0.7,0.5725,0.671
+S022,13,8,"Instead, it was the same old show, that same tired playbook that we’ve heard for years with no plans for how he would address the needs of the American people.",0.587,0.4474545454545455,0.4857272727272728
+S022,13,9,Because you know it’s all about him.,0.765,0.361,0.704
+S022,13,10,It’s not about you.,,,
+S022,13,11,"Well, folks, I said it then, I say it now, it’s time to turn the page.",0.6028333333333333,0.32716666666666666,0.4608333333333334
+S022,13,12,Turn that page.,0.6040000000000001,0.311,0.38
+S022,13,13,Turn that page.,0.6040000000000001,0.311,0.38
+S022,13,14,Turn that page.,0.6040000000000001,0.311,0.38
+S022,14,0,"Because to your point, America is ready for a new way forward.",0.7000000000000001,0.33299999999999996,0.5641666666666666
+S022,14,1,We are ready for a new generation of leadership that is optimistic about what we can do together.,0.7985,0.4408,0.6475000000000001
+S022,14,2,"That is why Democrats, Republicans, and independents are supporting our campaign.",0.6921999999999999,0.42799999999999994,0.7134
+S022,14,3,Over 200 people who worked for President George H.W.,0.6666666666666666,0.5393333333333333,0.741
+S022,14,4,"Bush, President George W.",0.545,0.421,0.644
+S022,14,5,"Bush, John McCain and Mitt Romney have endorsed me for president.",0.5678333333333334,0.36466666666666664,0.49066666666666664
+S022,14,6,"Former Vice President Dick Cheney and Congresswoman Liz Cheney are supporting me as well because, as they said, we have a duty as citizens to put country above partisanship and defend our constitution.",0.5693571428571429,0.4727142857142857,0.6327142857142857
+S022,14,7,And that is my pledge to you.,0.6945,0.365,0.659
+S022,14,8,"I will always put country above party, and I will be a president for [inaudible 00:06:39].",0.7012857142857144,0.4728571428571428,0.6781428571428572
+S022,14,9,"We are fighting for the future, a future with affordable child care, paid leave, and affordable healthcare, a future where we build what I call an opportunity economy so every American has an opportunity to own a home, to build wealth, to start a business.",0.7413478260869565,0.518086956521739,0.654695652173913
+S022,15,0,They’re leaders in the community.,0.7915,0.46599999999999997,0.7925
+S022,15,1,They’re civic leaders.,0.743,0.411,0.7495
+S022,15,2,They hire locally.,0.688,0.558,0.556
+S022,15,3,They mentor.,0.719,0.455,0.777
+S022,15,4,They’re part of the fabric of the community.,0.6826666666666666,0.27266666666666667,0.4546666666666666
+S022,15,5,And I know they are the backbone of America’s economy.,0.639,0.37474999999999997,0.66225
+S022,15,6,"So my plan is to give a $50,000 tax deduction to start up small businesses because not everybody started out with $400 million on a silver platter and then filed for bankruptcy six times.",0.56175,0.4056875,0.4955625
+S022,15,7,"But a whole lot of people have the ingenuity, the entrepreneurship, the work ethic, and the ambition to do that kind of work and just need to be seen and supported for what they are and what they do for all of us.",0.6813529411764706,0.4278823529411765,0.5751764705882353
+S022,15,8,An opportunity economy.,0.7605,0.5895,0.802
+S022,16,0,We need to build more housing in America.,0.6856666666666668,0.47466666666666674,0.5323333333333333
+S022,16,1,And so we are going to cut red tape and work with the private sector to build 3 million new homes by the end of my first term.,0.6128666666666667,0.4065333333333333,0.5609333333333334
+S022,16,2,I have a plan to lower the cost of living for America’s families on everything from healthcare to groceries.,0.6809999999999999,0.423875,0.5549999999999999
+S022,16,3,"Under my plan, more than 100 million Americans will get a tax break, and thousands of dollars of your hard-earned money will go back into your pockets including $6,000 during the first year of a child’s life.",0.6365789473684211,0.4711578947368421,0.5937368421052632
+S022,16,4,And I will always put middle-class and working families first.,0.6681666666666667,0.4051666666666667,0.5920000000000001
+S022,16,5,I grew up a middle-class kid.,0.7106666666666667,0.4083333333333334,0.451
+S022,16,6,"I was raised by a hardworking mother who saved up, and by the time I was a teenager, she was able to afford to buy our first home.",0.7198571428571429,0.42685714285714293,0.6407142857142858
+S022,16,7,"I understand how people work hard and have dreams and aspirations for their children and need to be put first, understanding again, when the middle-class is strong, America is strong.",0.6877777777777778,0.46038888888888885,0.5933888888888889
+S022,16,8,America is strong.,0.791,0.4925,0.7245
+S022,17,0,"But Donald Trump, well, he has a different plan.",0.66375,0.50975,0.67425
+S022,17,1,Just google Project 2025.,0.725,0.462,0.853
+S022,17,2,It is a detailed and dangerous blueprint for what he will do if he is elected president.,0.573888888888889,0.4488888888888889,0.6186666666666666
+S022,17,3,"Donald Trump will give billionaires and big corporations massive tax cuts and cut corporate taxes by over a trillion dollars, even as they pull in record profits.",0.6128125,0.51575,0.6604375
+S022,17,4,He will add more than $5 trillion to the national debt.,0.584,0.45619999999999994,0.5822
+S022,17,5,"He intends to cut Social Security and Medicare, and he wants to impose what is in effect a national sales tax.",0.6103636363636364,0.48263636363636364,0.6020000000000001
+S022,17,6,"I call it a Trump sales tax because it will be a tax on everyday basic necessities, which the economists have measured will cost the average family nearly $4,000 more a year.",0.6016470588235294,0.4181176470588235,0.5631764705882353
+S022,18,0,"And the top economists, they’ve previewed our plans.",0.6873333333333332,0.4256666666666667,0.5926666666666667
+S022,18,1,They’ve reviewed them.,0.667,0.408,0.636
+S022,18,2,"Goldman Sachs says my plan would grow our economy, and his plan would shrink it.",0.591375,0.4645,0.575
+S022,18,3,"16 Nobel Prize-winning economists say he would reignite inflation, and Moody’s says he would ignite a recession by the middle of next year.",0.48209090909090907,0.494,0.48672727272727273
+S022,18,4,"He talks a big talk, but when folks review the numbers, highly respected folks, that’s what you learn about him.",0.7342222222222223,0.43099999999999994,0.6246666666666667
+S022,18,5,That’s what you learn.,0.833,0.643,0.829
+S022,18,6,"And North Carolina, on top of all of this, Donald Trump intends to end the Affordable Care Act.",0.6145,0.46399999999999997,0.555875
+S022,18,7,"And as Stacey mentioned, you heard what he said in the debate.",0.57525,0.44875,0.5427500000000001
+S022,18,8,He has no plan to replace it.,0.6066666666666667,0.48300000000000004,0.6086666666666667
+S022,18,9,"He said “concepts of a plan.” Oh, you all watched the debate?",0.539,0.47175,0.5802499999999999
+S022,19,0,"Concepts, concepts.",0.573,0.265,0.632
+S022,19,1,"No actual plan, concepts.",0.6493333333333333,0.40166666666666667,0.6936666666666667
+S022,19,2,And understand what’s at stake on that.,0.583,0.491,0.5515
+S022,19,3,"45 million Americans are insured through the Affordable Care Act, and he’s going to end it based on a concept and take us back to when insurance companies had the power to deny people with pre-existing conditions.",0.6378947368421053,0.43773684210526315,0.5782105263157894
+S022,19,4,"Well, we are not going back back.",0.514,0.34675,0.41750000000000004
+S022,19,5,We’re not going back.,0.474,0.397,0.39
+S022,19,6,We’re not going back.,0.474,0.397,0.39
+S022,19,7,No.,,,
+S022,19,8,We’ll move forward.,0.7645,0.5295,0.71
+S022,19,9,"We will move forward because ours is a fight for the future and it is a fight for freedom, like the fundamental freedom of a woman to make decisions about her own body and not have her government tell her what to do.",0.7005789473684211,0.4946315789473684,0.6922105263157895
+S022,20,0,And we know how we got to this issue because Donald Trump handpicked three members of the United States Supreme Court with the intention that they would undo the protections of Roe v.,0.6125333333333334,0.5010666666666667,0.6142666666666666
+S022,20,1,Wade.,0.51,0.656,0.472
+S022,20,2,And they did as he intended.,0.538,0.545,0.5615
+S022,20,3,"And now in over 20 states in our nation, they have what I call Trump abortion bans, including North Carolina and every single state in the south except Virginia.",0.50175,0.46049999999999996,0.5503333333333335
+S022,20,4,Think about that.,0.786,0.408,0.618
+S022,20,5,Every single state in the south except Virginia.,0.4716666666666667,0.313,0.4306666666666667
+S022,20,6,"Now one in three women in America lives under Trump abortion ban, many with no exceptions, even for rape and incest.",0.3983333333333333,0.624,0.5445555555555556
+S022,20,7,It is immoral.,0.40650000000000003,0.431,0.46950000000000003
+S022,20,8,It is immoral.,0.40650000000000003,0.431,0.46950000000000003
+S022,20,9,And I know we all here understand and agree one does not have to abandon their faith or deeply held beliefs to agree the government should not be telling her what to do with her body.,0.6696875,0.38175000000000003,0.5626249999999999
+S022,21,0,And what we know is that the impact of this… It’s been over two years now since that decision came down.,0.57,0.3737777777777778,0.5734444444444445
+S022,21,1,The impact of this is so real.,0.6193333333333334,0.5446666666666667,0.6823333333333333
+S022,21,2,"It’s affecting people every day just based on the stories we know, and there are so many stories we don’t know.",0.6483999999999999,0.3863,0.5742
+S022,21,3,Think about it.,0.786,0.408,0.618
+S022,21,4,"Because of Trump’s abortion bans, women are being refused care during miscarriages.",0.39275000000000004,0.5351250000000001,0.48450000000000004
+S022,21,5,Some are only being treated if they develop sepsis.,0.5826,0.4346,0.5384
+S022,21,6,"And when asked on Tuesday night, Donald Trump refused to say that he would veto a national abortion ban.",0.4238181818181817,0.4744545454545454,0.4754545454545455
+S022,21,7,You remember that?,0.776,0.422,0.454
+S022,21,8,He refused to answer that question.,0.4033333333333333,0.41933333333333334,0.4526666666666667
+S022,21,9,Refused to answer that question.,0.4033333333333333,0.41933333333333334,0.4526666666666667
+S022,21,10,"Well, I’m going to tell you.",0.5305,0.39549999999999996,0.4505
+S022,21,11,"When Congress passes a bill to restore reproductive freedom, as President of the United States, I will proudly, proudly, sign it into law.",0.6614166666666667,0.4716666666666667,0.7039166666666667
+S022,21,12,Proudly.,,,
+S022,22,0,"And across our nation, across our nation, we are witnessing a full-on assault on other hard fought, hard won fundamental freedoms and rights like the freedom to vote, the freedom to be safe from gun violence, the freedom to breathe clean air and drink clean water and the freedom to love who you love openly and with pride.",0.6788823529411765,0.48126470588235293,0.6707058823529412
+S022,22,1,And North Carolina has a history of the point I’m about to make.,0.6382,0.3278,0.5416
+S022,22,2,"Generations, generations of Americans before us led the fight for freedom.",0.7258,0.6058,0.7078000000000001
+S022,22,3,And now the baton is in our hands.,0.49466666666666664,0.26299999999999996,0.5023333333333333
+S022,22,4,It is in our hands.,0.6060000000000001,0.277,0.494
+S022,22,5,So we who believe in the sacred freedom to vote will finally pass the John Lewis Voting Rights Act and the freedom to vote at it.,0.6984615384615385,0.4644615384615385,0.6733846153846155
+S022,22,6,"And we who believe in the freedom to live safe from gun violence will finally pass an assault weapons ban, universal background checks.",0.5078666666666666,0.5742666666666666,0.6611333333333334
+S022,22,7,And red flag laws.,0.5863333333333333,0.451,0.576
+S022,23,0,"So much, so much is at stake in this election.",0.5670000000000001,0.45566666666666666,0.555
+S022,23,1,So much is at stake in this election.,0.5670000000000001,0.45566666666666666,0.555
+S022,23,2,"And understand this is not 2016 or 2020 for a number of reasons, including why the stakes are higher.",0.632625,0.382375,0.5605
+S022,23,3,"Because two months ago, the United States Supreme Court Supreme basically told the former president that he will effectively be immune no matter what he does in the White House.",0.6212500000000001,0.42393749999999997,0.6569375
+S022,23,4,Think about that.,0.786,0.408,0.618
+S022,23,5,Think about that.,0.786,0.408,0.618
+S022,23,6,Just imagine Donald Trump with no guardrails.,0.6995,0.598,0.7424999999999999
+S022,23,7,Right?,0.74,0.352,0.71
+S022,23,8,"He who has vowed that if re-elected he’ll be a dictator on day one, that he will weaponize the Department of Justice against his political enemies, and has called for the quote, “termination of the Constitution of the United States of America.” Think about that.",0.5954999999999999,0.46627777777777774,0.6409444444444445
+S022,23,9,And let us be very clear.,0.6513333333333333,0.3133333333333333,0.478
+S022,23,10,Somebody who suggests we should terminate the Constitution of the United States should never again stand behind the seal of the President of the United States.,0.5787,0.3927,0.6621
+S022,23,11,Never again.,,,
+S022,23,12,Never again.,,,
+S022,23,13,Never again.,,,
+S022,24,0,"And one of the points that I mentioned on Tuesday, the people who served under him at the White House, who saw him every day, his national security advisor, his defense secretary, his chief of staff, and his vice president, all have warned, all who worked with him every day in the White House, sat with him in the Oval Office, have warned America, Donald Trump is not fit to be President of the United States and should never again occupy our nation’s highest office.",0.5880512820512821,0.40815384615384614,0.5971282051282051
+S022,24,1,And we’re not going back.,0.474,0.397,0.39
+S022,25,0,But here’s also the thing.,0.449,0.222,0.26
+S022,25,1,Ours will be a very tight race until the end.,0.5395,0.35574999999999996,0.56125
+S022,25,2,Okay?,,,
+S022,25,3,It’s going to be a tight race until the end.,0.49250000000000005,0.364,0.48850000000000005
+S022,25,4,And we are the underdog.,0.46,0.32499999999999996,0.39
+S022,25,5,Understand that.,0.76,0.374,0.643
+S022,25,6,We are the underdog.,0.46,0.32499999999999996,0.39
+S022,25,7,There are powerful forces trying to convince people that their vote doesn’t matter.,0.637888888888889,0.5163333333333333,0.6663333333333334
+S022,25,8,There are powerful forces here too.,0.6953333333333335,0.5853333333333333,0.8103333333333333
+S022,25,9,But I say all that to say we’ve got some hard work ahead of us.,0.6018333333333333,0.5063333333333333,0.6116666666666667
+S022,25,10,But here’s the thing I love about everybody here.,0.7245,0.3705,0.4665
+S022,25,11,We love hard work.,0.6736666666666666,0.6076666666666667,0.6796666666666668
+S022,25,12,Hard work is good work.,0.6695999999999999,0.5016,0.6408
+S022,25,13,Hard work is good work.,0.6695999999999999,0.5016,0.6408
+S022,25,14,Hard work is good work.,0.6695999999999999,0.5016,0.6408
+S022,25,15,"And with your help, we will win in November.",0.766,0.5243333333333333,0.6943333333333334
+S022,25,16,We will win.,0.8125,0.5509999999999999,0.8115
+S022,25,17,We will.,0.698,0.408,0.735
+S022,25,18,We will win.,0.8125,0.5509999999999999,0.8115
+S022,25,19,"So North Carolina, today I then ask you, are you ready to make your voices heard?",0.66825,0.35262499999999997,0.49062500000000003
+S022,25,20,Do we believe in freedom?,0.8066666666666666,0.4873333333333334,0.7076666666666668
+S022,25,21,Do we believe in opportunity?,0.7963333333333334,0.5543333333333333,0.6836666666666668
+S022,25,22,Do we believe in the promise of America?,0.758,0.47266666666666673,0.6406666666666666
+S022,25,23,And are we ready to fight for it?,0.657,0.49866666666666665,0.6703333333333333
+S022,25,24,"And when we fight, we win.",0.7290000000000001,0.7809999999999999,0.8485

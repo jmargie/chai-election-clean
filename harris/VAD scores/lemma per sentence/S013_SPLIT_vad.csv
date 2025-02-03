@@ -1,0 +1,323 @@
+speech_id,line_id,sentence_id,sentence_text,valence,arousal,dominance
+S013,0,0,"Listen, you all know my career.",0.7586666666666666,0.47766666666666663,0.585
+S013,0,1,Andrea shared it with you.,0.759,0.548,0.545
+S013,0,2,I am a devout public servant.,0.5555,0.37875,0.50325
+S013,0,3,I also know the limitations of government.,0.4606666666666667,0.4406666666666667,0.593
+S013,0,4,"I’ve always been and will always be, and be clear about this.",0.7129999999999999,0.291,0.5940000000000001
+S013,0,5,"I’ve always been and will always be a strong supporter of workers and unions, and I also believe we need to engage those who create most of the jobs in America.",0.7321666666666667,0.48633333333333334,0.6655833333333333
+S013,0,6,"Look, I’m a capitalist.",0.5355,0.503,0.718
+S013,0,7,I believe in free and fair markets.,0.80325,0.47675,0.5975
+S013,0,8,I believe in consistent and transparent rules of the road to create a stable business environment.,0.6863333333333334,0.3907777777777777,0.6532222222222221
+S013,0,9,And I know the power of American innovation.,0.8109999999999999,0.5703333333333335,0.8490000000000001
+S013,0,10,I’ve been working with entrepreneurs and business owners my whole career.,0.7359999999999999,0.5165714285714286,0.7004285714285714
+S013,0,11,"And I believe companies need to play by the rules, respect the rights of workers and unions, and abide by fair competition.",0.7369166666666667,0.48183333333333334,0.64125
+S013,0,12,"And if they don’t, I will hold them accountable.",0.63125,0.382,0.603
+S013,0,13,"And if anyone has a question about that, just look at my record as Attorney General.",0.662,0.45449999999999996,0.6373333333333333
+S013,0,14,"Look at my record in California, taking on the big banks for predatory lending, taking on big healthcare companies for conspiring to jack up prices, taking on a big for-profit college for scamming veterans and students.",0.635157894736842,0.5105263157894736,0.6015263157894738
+S013,1,0,"At the same time, I believe that most companies are working hard to do the right thing by their customers and the employees who depend on them.",0.6161666666666666,0.4131666666666667,0.5710833333333333
+S013,1,1,And we must work with them to grow our economy.,0.6559999999999999,0.50675,0.67925
+S013,1,2,I believe an active partnership between government and the private sector is one of the most effective ways to fully unlock economic opportunity.,0.6917142857142858,0.45700000000000013,0.6502857142857142
+S013,1,3,And that is what I’ll do when I’m president.,0.6723333333333334,0.47000000000000003,0.6876666666666668
+S013,1,4,I will target the major barriers to opportunity and remove them.,0.5963333333333334,0.5471666666666667,0.7123333333333335
+S013,1,5,"We will identify common sense solutions to help Americans buy a home, start a business, and build wealth, and we will adopt them.",0.7281428571428571,0.4630714285714287,0.6370714285714286
+S013,2,0,"So let’s start then with the first pillar of an opportunity economy, which is lowering costs.",0.5734444444444444,0.4261111111111111,0.5778888888888889
+S013,2,1,"So I made that our top priority for obvious reasons, because if we want the middle class to be the growth engine of our economy, we need to restore basic economic security for middle-class families.",0.6758947368421052,0.40373684210526317,0.5723157894736842
+S013,2,2,"To that end, the most practical thing we can do right now, is to cut taxes for middle-class families and individuals.",0.6038181818181818,0.35618181818181816,0.4808181818181818
+S013,2,3,And that’s what we’ll do.,0.67,0.548,0.536
+S013,2,4,"Under my plan, more than 100 million Americans will get a middle-class tax break that includes $6,000 for new parents during the first year of their child’s life to help families cover everything from car seats to cribs.",0.681,0.4201,0.5825
+S013,2,5,We’ll also cut the cost of child care and elder care.,0.6121666666666666,0.37716666666666665,0.4511666666666667
+S013,2,6,"And finally give all working people access to paid leave, which will help everyone caring for children, caring for aging parents, and that sandwich generation, which is caring for both.",0.6491111111111112,0.4227222222222223,0.5176666666666666
+S013,3,0,So I have a personal experience with caregiving.,0.778,0.43933333333333335,0.655
+S013,3,1,"I remember being there for my mother when she was diagnosed with cancer, cooking meals for her, taking her to her appointments, just trying to make her comfortable, figuring out which clothes were soft enough that they wouldn’t irritate her, and telling her stories to try and make her laugh.",0.6684583333333333,0.44245833333333334,0.5115416666666667
+S013,3,2,I know caregiving is about dignity.,0.7596666666666666,0.33066666666666666,0.7103333333333334
+S013,3,3,It really is.,0.67,0.24,0.554
+S013,3,4,"And when we lower the cost and ease the burdens people face, we will not only make it then easier for them to meet their obligations as caregivers, we will also make it more possible for them to go to work, and pursue their economic aspirations.",0.5915789473684211,0.4463684210526317,0.5542631578947369
+S013,3,5,"And when that happens, our economy as a home, grows stronger.",0.788,0.5468,0.7034
+S013,4,0,"Now, middle class tax cuts are just the start of my plan.",0.552,0.3788571428571429,0.5178571428571429
+S013,4,1,We will also go after the biggest drivers of cost for the middle class and work to bring them down.,0.5603999999999999,0.42519999999999997,0.5365
+S013,4,2,"And one of those, some would argue one of the biggest, is the cost of housing.",0.535375,0.41825,0.511
+S013,4,3,So here’s what we will do.,0.6839999999999999,0.478,0.6355
+S013,4,4,"We will cut the red tape that stops homes from being built and take on in addition, corporate landlords who are hiking rental prices.",0.616625,0.432375,0.5401875
+S013,4,5,And we will work with builders and developers to construct 3 million new homes and rentals for the middle class because increasing the housing supply will help drive down the cost of housing.,0.67405,0.46485000000000004,0.6096499999999999
+S013,4,6,"We will also help first-time home buyers just get their foot in the door with the $25,000 down payment assistance.",0.6122727272727273,0.41290909090909095,0.5508181818181819
+S013,4,7,"Because the goal is clear, let’s help more Americans afford to buy a home, which we know is a critical step in their ability to grow their wealth and intergenerational wealth.",0.714625,0.4693125,0.60825
+S013,5,0,And we will work to reduce other big costs for middle class families.,0.5952222222222221,0.3777777777777778,0.532888888888889
+S013,5,1,We will take on bad actors who exploit emergencies and drive up grocery prices by enacting the first ever federal ban on corporate price gouging.,0.5105999999999999,0.5836,0.6081333333333333
+S013,5,2,I had the experience of dealing with that when I was Attorney General.,0.7353333333333333,0.4566666666666667,0.7095000000000001
+S013,5,3,"We will take on big pharma, and cap the cost of prescription drugs for all Americans just like we did for our seniors.",0.5724,0.4596,0.5163
+S013,5,4,"Now, by contrast, Donald Trump has no intention of lowering costs for the middle class.",0.521625,0.405625,0.518
+S013,5,5,"In fact, his economic agenda would actually raise prices.",0.6053333333333334,0.43483333333333335,0.5895
+S013,5,6,"And listen, that’s not just my opinion.",0.6825,0.421,0.5415
+S013,5,7,"A survey of top economists by the Financial Times and the University of Chicago found that by an overwhelming 70 to 3% margin, my plan would be better for keeping inflation low.",0.5574285714285714,0.4349285714285714,0.5245
+S013,5,8,Objective economists have been very clear.,0.752,0.32325,0.614
+S013,5,9,The second pillar of an opportunity economy is investing in American,0.6523333333333333,0.437,0.6289999999999999
+S013,6,0,We know this here.,0.765,0.361,0.704
+S013,6,1,The American economy is the most powerful force for innovation and wealth creation in human history.,0.7732222222222223,0.538,0.7995555555555556
+S013,6,2,We just need to move past the failed policies that we have proven don’t work.,0.5585555555555556,0.5333333333333334,0.5175555555555555
+S013,6,3,"And like generations before us, let us be inspired by what is possible.",0.7205714285714285,0.38628571428571423,0.5471428571428572
+S013,6,4,"As President, I will be grounded in my fundamental values of fairness, dignity, and opportunity.",0.7423333333333333,0.4808888888888889,0.7482222222222222
+S013,6,5,"And I promise you, I will be pragmatic in my approach.",0.6752,0.39459999999999995,0.6479999999999999
+S013,6,6,"I will engage in what Franklin Roosevelt called bold, persistent experimentation, because I believe we shouldn’t be constrained by ideology and instead should seek practical solutions to problems.",0.5842142857142856,0.49507142857142866,0.6089285714285715
+S013,6,7,Realistic assessments of what is working and what is not.,0.7060000000000001,0.44160000000000005,0.625
+S013,6,8,Applying metrics to our analysis.,0.62,0.33899999999999997,0.6483333333333333
+S013,6,9,"Applying facts to our analysis, and stay focused then, not only on the crises at hand, but on our big goals.",0.6215555555555556,0.4555555555555555,0.6334444444444445
+S013,6,10,On what’s best for America over the long term.,0.49550000000000005,0.304,0.5705
+S013,6,11,And part of being pragmatic means taking good ideas from wherever they come.,0.69575,0.37950000000000006,0.519375
+S013,7,0,"So as I travel the country, what I hear time and again from those who own small businesses and those who aspire to start them, is that too often an entrepreneur has a great idea, not too often, that’s good, and they have the willingness to take the risk, but they don’t have access to the capital that they need to make it real.",0.7144800000000001,0.48127999999999993,0.5832400000000001
+S013,7,1,"And as Andrea said, not everybody was handed on a silver platter, $400 million, and then filed for bankruptcy six times.",0.5409,0.36519999999999997,0.44980000000000003
+S013,7,2,"Oh, I said that.",0.571,0.31,0.482
+S013,7,3,Right?,0.74,0.352,0.71
+S013,7,4,I actually said that.,0.571,0.31,0.482
+S013,7,5,"Well, we can make it easier.",0.7370000000000001,0.32466666666666666,0.43566666666666665
+S013,7,6,We can make it easier for our small businesses to access capital.,0.6678571428571427,0.3885714285714285,0.5067142857142857
+S013,7,7,"On average, it costs about $40,000 to start a new business.",0.6676,0.4378,0.564
+S013,7,8,"But currently, the tax deduction for startups is only $5,000.",0.45599999999999996,0.39433333333333337,0.5383333333333333
+S013,7,9,"So currently for startup costs, the tax deduction is $5,000.",0.43325,0.40075,0.5135000000000001
+S013,8,0,"Well, in 2024, it is almost impossible to start a business on $5,000, which is why as president, I will make the start-up deduction 10 times richer, and we will raise it from 5,000 to $50,000 tax deduction, and provide low and no-interest loans to small businesses that want to expand, all of which will help achieve our ambitious, some would say, but that’s okay, let’s be ambitious, our ambitious goal of 25 million new small business applications by the end of my first term.",0.6081190476190477,0.46435714285714286,0.5879047619047619
+S013,8,1,I know this is very achievable.,0.7175,0.3005,0.629
+S013,8,2,"And for anyone here who is a small business owner, works for a small business, or has a small business in your life, you understand what I’m talking about in terms of when we build up our small businesses what that does to entire communities to lift them up economically, civically, culturally, and in every way.",0.6801818181818183,0.40927272727272734,0.5775000000000001
+S013,8,3,"Small businesses, the point being, help drive our economy.",0.6101428571428571,0.4001428571428572,0.5434285714285715
+S013,9,0,"By contrast, Donald Trump, when he was president, has been described by one of the nation’s leading experts on small businesses in a piece he published in a major paper as not being good for small businesses.",0.6550476190476191,0.4121428571428572,0.6021428571428571
+S013,9,1,"In fact, the title… The title… Wait, because I’m bearing the lead right now.",0.5652857142857143,0.36971428571428566,0.5241428571428572
+S013,9,2,"One of the leading experts on small businesses published a piece in one of the major newspapers, and the title, I’m going to quote, Does Donald Trump Hate Small Businesses?",0.6100555555555556,0.4657777777777778,0.5512222222222223
+S013,9,3,And their answer was yes.,0.6035,0.3065,0.6075
+S013,9,4,Their answer was yes.,0.6035,0.3065,0.6075
+S013,10,0,"Because at the same time that Donald Trump was giving a tax cut to big corporations and billionaires, he tried to slash programs for small businesses and raise borrowing costs for them.",0.5764117647058823,0.46829411764705886,0.6070588235294118
+S013,10,1,"Instead of making it easier, he actually made it more difficult for them to access capital.",0.617,0.451,0.5343333333333333
+S013,10,2,And that’s not surprising because Donald Trump just does not prioritize small businesses.,0.6831666666666666,0.5703333333333334,0.6308333333333334
+S013,10,3,"He does not seem to value, frankly, the essential role they play.",0.6986666666666667,0.47700000000000004,0.5361666666666667
+S013,10,4,"But, look, when I look at small business owners, I see some of the heroes of our economy.",0.70025,0.44875,0.6236250000000001
+S013,10,5,"Not only entrepreneurs, but as I said, civic leaders, community leaders, part of the glue that holds communities together.",0.7009090909090909,0.4020909090909091,0.6250909090909091
+S013,10,6,"The third pillar of our opportunity economy is leading the world in the industries of the future and making sure America, not China, wins the competition for the 21st century.",0.6794,0.4721999999999999,0.7148
+S013,11,0,"One of the recurring themes in American history is that when we make an intentional effort to invest in our industrial strength, it leads to extraordinary prosperity and security, not only for years, but for generations.",0.6831764705882354,0.492764705882353,0.6707058823529413
+S013,11,1,"Think of Alexander Hamilton, having the foresight to build the manufacturing capabilities of our new nation.",0.748875,0.49275,0.69925
+S013,11,2,Think of Lincoln and the transcontinental railroad.,0.6885,0.5,0.5589999999999999
+S013,11,3,Think of Eisenhower and the interstate highway system.,0.64025,0.44499999999999995,0.60175
+S013,11,4,"Kennedy committing America to win the space race, and spurring innovation across our society.",0.6692857142857144,0.5221428571428571,0.6602857142857143
+S013,12,0,"From our earliest days, America’s economic strength has been tied to our industrial strength.",0.6751111111111112,0.45633333333333337,0.6247777777777778
+S013,12,1,And the same is true today.,0.7906666666666666,0.3273333333333333,0.5643333333333334
+S013,12,2,So I will recommit the nation to global leadership in the sectors that will define the next century.,0.6415,0.427625,0.740375
+S013,12,3,"We will invest in biomanufacturing and aerospace, remain dominant in AI and quantum computing, blockchain, and other emerging technologies, expand our lead in clean energy innovation and manufacturing, so the next generation of breakthroughs, from advanced batteries to geothermal, to advanced nuclear are not just invented, but built here in America by American workers.",0.6823846153846156,0.5396538461538462,0.7011538461538461
+S013,13,0,"And we will invest in the industries that, for example, made Pittsburgh the steel city by offering tax credits for expanding good union jobs in steel and iron and manufacturing communities like here in Mon Valley.",0.6655499999999999,0.44025,0.63115
+S013,13,1,"And across all these industries of the future, we will prioritize investments for strengthening factory towns.",0.698875,0.513875,0.767625
+S013,13,2,This is so important.,0.7484999999999999,0.435,0.6950000000000001
+S013,13,3,"For strengthening factory towns, retooling existing factories, hiring locally, and working with unions.",0.6935,0.45487500000000003,0.69825
+S013,13,4,Because no one who grows up in America’s greatest industrial or agricultural centers should be abandoned.,0.602125,0.425875,0.56375
+S013,13,5,"And understand what that means for real people, people we know, people we care about.",0.675,0.3985,0.5655
+S013,13,6,We don’t have to abandon a strength we’ve known to achieve a strength that we plan.,0.6637500000000001,0.53325,0.67125
+S013,13,7,And,,,
+S013,14,0,And they create nearly 50% of private sector jobs and they strengthen our middle class.,0.6644285714285714,0.4297142857142857,0.6445714285714285
+S013,14,1,"And if we can harness the entrepreneurialism of the American people and unlock the full potential of aspiring founders and small business owners, I am optimistic that no one will be able to outpace us.",0.693,0.42123529411764704,0.6312941176470589
+S013,15,0,"And so one of the things we must do, understanding that and understanding the nature of that part of our educational system is let’s eliminate degree requirements while increasing skills development.",0.6571666666666666,0.405,0.5952777777777777
+S013,15,1,"And let’s start with something I can do as president was ensure that we do that for the half million of federal jobs that are within our ability to make it so, showing what is possible and then challenging the private sector to make a similar commitment to emphasizing skills and not just degrees.",0.6544814814814816,0.45551851851851854,0.6204444444444444
+S013,16,0,And we will reform our tax laws to make it easier for businesses to let workers share in their company’s success.,0.6863333333333334,0.498,0.6503333333333333
+S013,16,1,"And I will challenge the private sector to do more, to lift up workers through equity, profits, and benefits so more people can share in America’s success and prosperity.",0.7362666666666667,0.5054666666666666,0.6678666666666666
+S013,17,0,"And not only must we build the industries of the future in America, we must also build them faster.",0.6493333333333333,0.4911666666666667,0.6859999999999999
+S013,17,1,There’s a time for patience and there’s a time for impatience.,0.56425,0.37024999999999997,0.504
+S013,17,2,"That’s not in ecclesiastics, but … Just swapped script for a minute, mayor.",0.5532499999999999,0.4275,0.5525
+S013,17,3,"But the simple truth is, in America, it takes too long and it costs too much to build.",0.6855714285714285,0.37514285714285717,0.527
+S013,17,4,"Whether it’s a new housing development, a new factory, or a new bridge, projects take too long to go from concept to reality.",0.7263076923076924,0.4246923076923077,0.6109230769230769
+S013,17,5,"It happens in blue states, it happens in red states, and it’s a national problem.",0.538875,0.438875,0.507
+S013,18,0,"And I will tell you this, China is not moving slowly.",0.5643333333333334,0.38316666666666666,0.4925
+S013,18,1,They’re not.,,,
+S013,18,2,"And we can’t afford to, either.",0.6165,0.47,0.5145
+S013,18,3,"If we are to compete, we can’t afford to, either.",0.619,0.48124999999999996,0.5922499999999999
+S013,18,4,"As president, if things are not moving quickly, I will demand to know why and I will act.",0.6238,0.5189,0.6298000000000001
+S013,18,5,"I will work with Congress, workers and businesses, cities and states, community groups and local leaders to reform permitting, to cut red tape and get things moving faster because, look, as I said, patience may be a virtue, but not when it comes to job creation or America’s competitiveness.",0.6577142857142857,0.42624999999999996,0.5906428571428571
+S013,18,6,"Many of you know, the Empire State Building, you know how long it took to build that?",0.703125,0.437,0.66575
+S013,18,7,One year.,0.542,0.288,0.39249999999999996
+S013,18,8,"The Pentagon, you know how long that took?",0.6559999999999999,0.47175,0.5922499999999999
+S013,18,9,16 months.,0.688,0.255,0.411
+S013,18,10,No one can tell me we can’t build quickly in our country.,0.6671428571428571,0.45028571428571423,0.5528571428571429
+S013,18,11,I’ve got empirical evidence.,0.58,0.5346666666666667,0.673
+S013,19,0,"Now look, my opponent, Donald Trump.",0.4796666666666667,0.6286666666666666,0.743
+S013,19,1,"Well, he makes big promises on manufacturing.",0.7405,0.53025,0.7
+S013,19,2,Just yesterday he went out and promised to bring back manufacturing jobs.,0.6075714285714285,0.4562857142857143,0.5314285714285715
+S013,19,3,"And if that sounds familiar, it should.",0.8355,0.47650000000000003,0.5065
+S013,19,4,"In 2016, he went out and made that very same promise about the Carrier plant in Indianapolis.",0.6559999999999999,0.4258,0.5274
+S013,19,5,You’ll remember Carrier then offshored hundreds of jobs to Mexico under his watch.,0.5925,0.45849999999999996,0.5131666666666667
+S013,19,6,And it wasn’t just there.,0.67,0.24,0.554
+S013,19,7,"On Trump’s watch, offshoring went up and manufacturing jobs went down across our country and across our economy.",0.5444000000000001,0.47400000000000003,0.5899
+S013,19,8,"All told, almost 200,000 manufacturing jobs were lost during his presidency starting before the pandemic hit, making Trump one of the biggest losers ever on manufacturing.",0.5350666666666668,0.5588666666666666,0.5952666666666667
+S013,20,0,"Donald Trump also talked a big game on our trade deficit with China, but it is far lower under our watch than any year of his administration.",0.59875,0.4579166666666667,0.5623333333333332
+S013,20,1,"While he constantly got played by China, I will never hesitate to take swift and strong measures when China undermines the rules of the road at the expense of our workers, our communities, and our companies, whether it’s flooding the market with steel, inferior or at all, unfairly subsidizing shipbuilding, or hurting our small businesses with counterfeits.",0.5892692307692309,0.5136923076923077,0.5198076923076924
+S013,20,2,"Recall, Donald Trump actually shipped advanced semiconductor chips to China, which helps them upgrade their military.",0.6231111111111111,0.5217777777777778,0.6302222222222222
+S013,20,3,Understand the impact of these so-called policies that really are not about a plan for strengthening our prosperity or our security.,0.692,0.5449999999999999,0.770625
+S013,20,4,I will never sell out America to our competitors or adversaries.,0.56925,0.6880000000000001,0.6644999999999999
+S013,20,5,"Never, never and I will always make sure we have the strongest economy and the most lethal fighting force anywhere in the world.",0.604,0.5495,0.745
+S013,21,0,"So at this pivotal moment, we have an extraordinary opportunity to chart a new way forward, one that positions the United States of America and all of us were blessed to call this home for success and prosperity in the 21st century.",0.7194499999999999,0.44995,0.6318499999999999
+S013,22,0,There’s an old saying that the best way to predict the future is to invent it.,0.6571666666666666,0.4406666666666666,0.6215
+S013,22,1,"Well, that is the story of the Steel City.",0.67275,0.39925,0.62
+S013,22,2,"That is the story of the Steel City, the city that helped build the middle class, birth America’s labor movement, empower the rise of American manufacturing.",0.6837333333333333,0.5032666666666666,0.6309333333333333
+S013,22,3,And the city where Alan Newell and Herbert Simon launched the first AI research hub at Carnegie Mellon and created entirely new fields like machine learning.,0.6975454545454546,0.5278181818181819,0.591090909090909
+S013,22,4,And Carnegie Mellon is now home to the largest university robotics center in America.,0.6996666666666665,0.41333333333333333,0.6283333333333333
+S013,22,5,"So the proud heritage of Pittsburgh, I so strongly believe reveals the character of our nation, a nation that harnesses the ambitions, the dreams, and the aspirations of our people, seizes the opportunities before us because we see them, because we believe in them, and then invents the future.",0.7040526315789474,0.555157894736842,0.6895789473684211
+S013,22,6,"That is what we have always done, and that is what we must now do, and I know we will.",0.6635000000000001,0.38949999999999996,0.5816250000000001
+S013,22,7,I thank you all for inviting me.,0.948,0.46199999999999997,0.532
+S013,22,8,May God bless you and may God bless the United States of America.,0.765625,0.35887500000000006,0.6031249999999999
+S013,22,9,Thank you all.,0.958,0.353,0.526
+S013,23,0,"And here’s what else we will do when I am president, we will double the number of registered apprenticeships by the end of my first term because I almost made it a goal of mine.",0.6182000000000001,0.4018,0.6187333333333334
+S013,23,1,"I think I am going to fall short, but trying to visit every IBEW local in America, because I’m going to tell you, those apprenticeship programs, those are tough duty, man and women and everyone.",0.5592666666666666,0.41840000000000005,0.5154
+S013,23,2,They’re tough duty.,0.46349999999999997,0.5834999999999999,0.6965
+S013,23,3,"I mean, talk about the skills that are about engineering and science and math and just the most highly skilled folks who are in those apprenticeships and teaching there.",0.6985833333333334,0.43683333333333335,0.6726666666666667
+S013,24,0,"Listen, you all know my career.",0.7586666666666666,0.47766666666666663,0.585
+S013,24,1,Andrea shared it with you.,0.759,0.548,0.545
+S013,24,2,I am a devout public servant.,0.5555,0.37875,0.50325
+S013,24,3,I also know the limitations of government.,0.4606666666666667,0.4406666666666667,0.593
+S013,24,4,"I’ve always been and will always be, and be clear about this.",0.7129999999999999,0.291,0.5940000000000001
+S013,24,5,"I’ve always been and will always be a strong supporter of workers and unions, and I also believe we need to engage those who create most of the jobs in America.",0.7321666666666667,0.48633333333333334,0.6655833333333333
+S013,24,6,"Look, I’m a capitalist.",0.5355,0.503,0.718
+S013,24,7,I believe in free and fair markets.,0.80325,0.47675,0.5975
+S013,24,8,I believe in consistent and transparent rules of the road to create a stable business environment.,0.6863333333333334,0.3907777777777777,0.6532222222222221
+S013,24,9,And I know the power of American innovation.,0.8109999999999999,0.5703333333333335,0.8490000000000001
+S013,24,10,I’ve been working with entrepreneurs and business owners my whole career.,0.7359999999999999,0.5165714285714286,0.7004285714285714
+S013,24,11,"And I believe companies need to play by the rules, respect the rights of workers and unions, and abide by fair competition.",0.7369166666666667,0.48183333333333334,0.64125
+S013,24,12,"And if they don’t, I will hold them accountable.",0.63125,0.382,0.603
+S013,24,13,"And if anyone has a question about that, just look at my record as Attorney General.",0.662,0.45449999999999996,0.6373333333333333
+S013,24,14,"Look at my record in California, taking on the big banks for predatory lending, taking on big healthcare companies for conspiring to jack up prices, taking on a big for-profit college for scamming veterans and students.",0.635157894736842,0.5105263157894736,0.6015263157894738
+S013,25,0,"At the same time, I believe that most companies are working hard to do the right thing by their customers and the employees who depend on them.",0.6161666666666666,0.4131666666666667,0.5710833333333333
+S013,25,1,And we must work with them to grow our economy.,0.6559999999999999,0.50675,0.67925
+S013,25,2,I believe an active partnership between government and the private sector is one of the most effective ways to fully unlock economic opportunity.,0.6917142857142858,0.45700000000000013,0.6502857142857142
+S013,25,3,And that is what I’ll do when I’m president.,0.6723333333333334,0.47000000000000003,0.6876666666666668
+S013,25,4,I will target the major barriers to opportunity and remove them.,0.5963333333333334,0.5471666666666667,0.7123333333333335
+S013,25,5,"We will identify common sense solutions to help Americans buy a home, start a business, and build wealth, and we will adopt them.",0.7281428571428571,0.4630714285714287,0.6370714285714286
+S013,26,0,"So let’s start then with the first pillar of an opportunity economy, which is lowering costs.",0.5734444444444444,0.4261111111111111,0.5778888888888889
+S013,26,1,"So I made that our top priority for obvious reasons, because if we want the middle class to be the growth engine of our economy, we need to restore basic economic security for middle-class families.",0.6758947368421052,0.40373684210526317,0.5723157894736842
+S013,26,2,"To that end, the most practical thing we can do right now, is to cut taxes for middle-class families and individuals.",0.6038181818181818,0.35618181818181816,0.4808181818181818
+S013,26,3,And that’s what we’ll do.,0.67,0.548,0.536
+S013,26,4,"Under my plan, more than 100 million Americans will get a middle-class tax break that includes $6,000 for new parents during the first year of their child’s life to help families cover everything from car seats to cribs.",0.681,0.4201,0.5825
+S013,26,5,We’ll also cut the cost of child care and elder care.,0.6121666666666666,0.37716666666666665,0.4511666666666667
+S013,26,6,"And finally give all working people access to paid leave, which will help everyone caring for children, caring for aging parents, and that sandwich generation, which is caring for both.",0.6491111111111112,0.4227222222222223,0.5176666666666666
+S013,27,0,So I have a personal experience with caregiving.,0.778,0.43933333333333335,0.655
+S013,27,1,"I remember being there for my mother when she was diagnosed with cancer, cooking meals for her, taking her to her appointments, just trying to make her comfortable, figuring out which clothes were soft enough that they wouldn’t irritate her, and telling her stories to try and make her laugh.",0.6684583333333333,0.44245833333333334,0.5115416666666667
+S013,27,2,I know caregiving is about dignity.,0.7596666666666666,0.33066666666666666,0.7103333333333334
+S013,27,3,It really is.,0.67,0.24,0.554
+S013,27,4,"And when we lower the cost and ease the burdens people face, we will not only make it then easier for them to meet their obligations as caregivers, we will also make it more possible for them to go to work, and pursue their economic aspirations.",0.5915789473684211,0.4463684210526317,0.5542631578947369
+S013,27,5,"And when that happens, our economy as a home, grows stronger.",0.788,0.5468,0.7034
+S013,28,0,"Now, middle class tax cuts are just the start of my plan.",0.552,0.3788571428571429,0.5178571428571429
+S013,28,1,We will also go after the biggest drivers of cost for the middle class and work to bring them down.,0.5603999999999999,0.42519999999999997,0.5365
+S013,28,2,"And one of those, some would argue one of the biggest, is the cost of housing.",0.535375,0.41825,0.511
+S013,28,3,So here’s what we will do.,0.6839999999999999,0.478,0.6355
+S013,28,4,"We will cut the red tape that stops homes from being built and take on in addition, corporate landlords who are hiking rental prices.",0.616625,0.432375,0.5401875
+S013,28,5,And we will work with builders and developers to construct 3 million new homes and rentals for the middle class because increasing the housing supply will help drive down the cost of housing.,0.67405,0.46485000000000004,0.6096499999999999
+S013,28,6,"We will also help first-time home buyers just get their foot in the door with the $25,000 down payment assistance.",0.6122727272727273,0.41290909090909095,0.5508181818181819
+S013,28,7,"Because the goal is clear, let’s help more Americans afford to buy a home, which we know is a critical step in their ability to grow their wealth and intergenerational wealth.",0.714625,0.4693125,0.60825
+S013,29,0,And we will work to reduce other big costs for middle class families.,0.5952222222222221,0.3777777777777778,0.532888888888889
+S013,29,1,We will take on bad actors who exploit emergencies and drive up grocery prices by enacting the first ever federal ban on corporate price gouging.,0.5105999999999999,0.5836,0.6081333333333333
+S013,29,2,I had the experience of dealing with that when I was Attorney General.,0.7353333333333333,0.4566666666666667,0.7095000000000001
+S013,29,3,"We will take on big pharma, and cap the cost of prescription drugs for all Americans just like we did for our seniors.",0.5724,0.4596,0.5163
+S013,29,4,"Now, by contrast, Donald Trump has no intention of lowering costs for the middle class.",0.521625,0.405625,0.518
+S013,29,5,"In fact, his economic agenda would actually raise prices.",0.6053333333333334,0.43483333333333335,0.5895
+S013,29,6,"And listen, that’s not just my opinion.",0.6825,0.421,0.5415
+S013,29,7,"A survey of top economists by the Financial Times and the University of Chicago found that by an overwhelming 70 to 3% margin, my plan would be better for keeping inflation low.",0.5574285714285714,0.4349285714285714,0.5245
+S013,29,8,Objective economists have been very clear.,0.752,0.32325,0.614
+S013,29,9,The second pillar of an opportunity economy is investing in American,0.6523333333333333,0.437,0.6289999999999999
+S013,30,0,We know this here.,0.765,0.361,0.704
+S013,30,1,The American economy is the most powerful force for innovation and wealth creation in human history.,0.7732222222222223,0.538,0.7995555555555556
+S013,30,2,We just need to move past the failed policies that we have proven don’t work.,0.5585555555555556,0.5333333333333334,0.5175555555555555
+S013,30,3,"And like generations before us, let us be inspired by what is possible.",0.7205714285714285,0.38628571428571423,0.5471428571428572
+S013,30,4,"As President, I will be grounded in my fundamental values of fairness, dignity, and opportunity.",0.7423333333333333,0.4808888888888889,0.7482222222222222
+S013,30,5,"And I promise you, I will be pragmatic in my approach.",0.6752,0.39459999999999995,0.6479999999999999
+S013,30,6,"I will engage in what Franklin Roosevelt called bold, persistent experimentation, because I believe we shouldn’t be constrained by ideology and instead should seek practical solutions to problems.",0.5842142857142856,0.49507142857142866,0.6089285714285715
+S013,30,7,Realistic assessments of what is working and what is not.,0.7060000000000001,0.44160000000000005,0.625
+S013,30,8,Applying metrics to our analysis.,0.62,0.33899999999999997,0.6483333333333333
+S013,30,9,"Applying facts to our analysis, and stay focused then, not only on the crises at hand, but on our big goals.",0.6215555555555556,0.4555555555555555,0.6334444444444445
+S013,30,10,On what’s best for America over the long term.,0.49550000000000005,0.304,0.5705
+S013,30,11,And part of being pragmatic means taking good ideas from wherever they come.,0.69575,0.37950000000000006,0.519375
+S013,31,0,"So as I travel the country, what I hear time and again from those who own small businesses and those who aspire to start them, is that too often an entrepreneur has a great idea, not too often, that’s good, and they have the willingness to take the risk, but they don’t have access to the capital that they need to make it real.",0.7144800000000001,0.48127999999999993,0.5832400000000001
+S013,31,1,"And as Andrea said, not everybody was handed on a silver platter, $400 million, and then filed for bankruptcy six times.",0.5409,0.36519999999999997,0.44980000000000003
+S013,31,2,"Oh, I said that.",0.571,0.31,0.482
+S013,31,3,Right?,0.74,0.352,0.71
+S013,31,4,I actually said that.,0.571,0.31,0.482
+S013,31,5,"Well, we can make it easier.",0.7370000000000001,0.32466666666666666,0.43566666666666665
+S013,31,6,We can make it easier for our small businesses to access capital.,0.6678571428571427,0.3885714285714285,0.5067142857142857
+S013,31,7,"On average, it costs about $40,000 to start a new business.",0.6676,0.4378,0.564
+S013,31,8,"But currently, the tax deduction for startups is only $5,000.",0.45599999999999996,0.39433333333333337,0.5383333333333333
+S013,31,9,"So currently for startup costs, the tax deduction is $5,000.",0.43325,0.40075,0.5135000000000001
+S013,32,0,"Well, in 2024, it is almost impossible to start a business on $5,000, which is why as president, I will make the start-up deduction 10 times richer, and we will raise it from 5,000 to $50,000 tax deduction, and provide low and no-interest loans to small businesses that want to expand, all of which will help achieve our ambitious, some would say, but that’s okay, let’s be ambitious, our ambitious goal of 25 million new small business applications by the end of my first term.",0.6081190476190477,0.46435714285714286,0.5879047619047619
+S013,32,1,I know this is very achievable.,0.7175,0.3005,0.629
+S013,32,2,"And for anyone here who is a small business owner, works for a small business, or has a small business in your life, you understand what I’m talking about in terms of when we build up our small businesses what that does to entire communities to lift them up economically, civically, culturally, and in every way.",0.6801818181818183,0.40927272727272734,0.5775000000000001
+S013,32,3,"Small businesses, the point being, help drive our economy.",0.6101428571428571,0.4001428571428572,0.5434285714285715
+S013,33,0,"By contrast, Donald Trump, when he was president, has been described by one of the nation’s leading experts on small businesses in a piece he published in a major paper as not being good for small businesses.",0.6550476190476191,0.4121428571428572,0.6021428571428571
+S013,33,1,"In fact, the title… The title… Wait, because I’m bearing the lead right now.",0.5652857142857143,0.36971428571428566,0.5241428571428572
+S013,33,2,"One of the leading experts on small businesses published a piece in one of the major newspapers, and the title, I’m going to quote, Does Donald Trump Hate Small Businesses?",0.6100555555555556,0.4657777777777778,0.5512222222222223
+S013,33,3,And their answer was yes.,0.6035,0.3065,0.6075
+S013,33,4,Their answer was yes.,0.6035,0.3065,0.6075
+S013,34,0,"Because at the same time that Donald Trump was giving a tax cut to big corporations and billionaires, he tried to slash programs for small businesses and raise borrowing costs for them.",0.5764117647058823,0.46829411764705886,0.6070588235294118
+S013,34,1,"Instead of making it easier, he actually made it more difficult for them to access capital.",0.617,0.451,0.5343333333333333
+S013,34,2,And that’s not surprising because Donald Trump just does not prioritize small businesses.,0.6831666666666666,0.5703333333333334,0.6308333333333334
+S013,34,3,"He does not seem to value, frankly, the essential role they play.",0.6986666666666667,0.47700000000000004,0.5361666666666667
+S013,34,4,"But, look, when I look at small business owners, I see some of the heroes of our economy.",0.70025,0.44875,0.6236250000000001
+S013,34,5,"Not only entrepreneurs, but as I said, civic leaders, community leaders, part of the glue that holds communities together.",0.7009090909090909,0.4020909090909091,0.6250909090909091
+S013,34,6,"The third pillar of our opportunity economy is leading the world in the industries of the future and making sure America, not China, wins the competition for the 21st century.",0.6794,0.4721999999999999,0.7148
+S013,35,0,"One of the recurring themes in American history is that when we make an intentional effort to invest in our industrial strength, it leads to extraordinary prosperity and security, not only for years, but for generations.",0.6831764705882354,0.492764705882353,0.6707058823529413
+S013,35,1,"Think of Alexander Hamilton, having the foresight to build the manufacturing capabilities of our new nation.",0.748875,0.49275,0.69925
+S013,35,2,Think of Lincoln and the transcontinental railroad.,0.6885,0.5,0.5589999999999999
+S013,35,3,Think of Eisenhower and the interstate highway system.,0.64025,0.44499999999999995,0.60175
+S013,35,4,"Kennedy committing America to win the space race, and spurring innovation across our society.",0.6692857142857144,0.5221428571428571,0.6602857142857143
+S013,36,0,"From our earliest days, America’s economic strength has been tied to our industrial strength.",0.6751111111111112,0.45633333333333337,0.6247777777777778
+S013,36,1,And the same is true today.,0.7906666666666666,0.3273333333333333,0.5643333333333334
+S013,36,2,So I will recommit the nation to global leadership in the sectors that will define the next century.,0.6415,0.427625,0.740375
+S013,36,3,"We will invest in biomanufacturing and aerospace, remain dominant in AI and quantum computing, blockchain, and other emerging technologies, expand our lead in clean energy innovation and manufacturing, so the next generation of breakthroughs, from advanced batteries to geothermal, to advanced nuclear are not just invented, but built here in America by American workers.",0.6823846153846156,0.5396538461538462,0.7011538461538461
+S013,37,0,"And we will invest in the industries that, for example, made Pittsburgh the steel city by offering tax credits for expanding good union jobs in steel and iron and manufacturing communities like here in Mon Valley.",0.6655499999999999,0.44025,0.63115
+S013,37,1,"And across all these industries of the future, we will prioritize investments for strengthening factory towns.",0.698875,0.513875,0.767625
+S013,37,2,This is so important.,0.7484999999999999,0.435,0.6950000000000001
+S013,37,3,"For strengthening factory towns, retooling existing factories, hiring locally, and working with unions.",0.6935,0.45487500000000003,0.69825
+S013,37,4,Because no one who grows up in America’s greatest industrial or agricultural centers should be abandoned.,0.602125,0.425875,0.56375
+S013,37,5,"And understand what that means for real people, people we know, people we care about.",0.675,0.3985,0.5655
+S013,37,6,We don’t have to abandon a strength we’ve known to achieve a strength that we plan.,0.6637500000000001,0.53325,0.67125
+S013,37,7,And,,,
+S013,38,0,And they create nearly 50% of private sector jobs and they strengthen our middle class.,0.6644285714285714,0.4297142857142857,0.6445714285714285
+S013,38,1,"And if we can harness the entrepreneurialism of the American people and unlock the full potential of aspiring founders and small business owners, I am optimistic that no one will be able to outpace us.",0.693,0.42123529411764704,0.6312941176470589
+S013,39,0,"And so one of the things we must do, understanding that and understanding the nature of that part of our educational system is let’s eliminate degree requirements while increasing skills development.",0.6571666666666666,0.405,0.5952777777777777
+S013,39,1,"And let’s start with something I can do as president was ensure that we do that for the half million of federal jobs that are within our ability to make it so, showing what is possible and then challenging the private sector to make a similar commitment to emphasizing skills and not just degrees.",0.6544814814814816,0.45551851851851854,0.6204444444444444
+S013,40,0,And we will reform our tax laws to make it easier for businesses to let workers share in their company’s success.,0.6863333333333334,0.498,0.6503333333333333
+S013,40,1,"And I will challenge the private sector to do more, to lift up workers through equity, profits, and benefits so more people can share in America’s success and prosperity.",0.7362666666666667,0.5054666666666666,0.6678666666666666
+S013,41,0,"And not only must we build the industries of the future in America, we must also build them faster.",0.6493333333333333,0.4911666666666667,0.6859999999999999
+S013,41,1,There’s a time for patience and there’s a time for impatience.,0.56425,0.37024999999999997,0.504
+S013,41,2,"That’s not in ecclesiastics, but … Just swapped script for a minute, mayor.",0.5532499999999999,0.4275,0.5525
+S013,41,3,"But the simple truth is, in America, it takes too long and it costs too much to build.",0.6855714285714285,0.37514285714285717,0.527
+S013,41,4,"Whether it’s a new housing development, a new factory, or a new bridge, projects take too long to go from concept to reality.",0.7263076923076924,0.4246923076923077,0.6109230769230769
+S013,41,5,"It happens in blue states, it happens in red states, and it’s a national problem.",0.538875,0.438875,0.507
+S013,42,0,"And I will tell you this, China is not moving slowly.",0.5643333333333334,0.38316666666666666,0.4925
+S013,42,1,They’re not.,,,
+S013,42,2,"And we can’t afford to, either.",0.6165,0.47,0.5145
+S013,42,3,"If we are to compete, we can’t afford to, either.",0.619,0.48124999999999996,0.5922499999999999
+S013,42,4,"As president, if things are not moving quickly, I will demand to know why and I will act.",0.6238,0.5189,0.6298000000000001
+S013,42,5,"I will work with Congress, workers and businesses, cities and states, community groups and local leaders to reform permitting, to cut red tape and get things moving faster because, look, as I said, patience may be a virtue, but not when it comes to job creation or America’s competitiveness.",0.6577142857142857,0.42624999999999996,0.5906428571428571
+S013,42,6,"Many of you know, the Empire State Building, you know how long it took to build that?",0.703125,0.437,0.66575
+S013,42,7,One year.,0.542,0.288,0.39249999999999996
+S013,42,8,"The Pentagon, you know how long that took?",0.6559999999999999,0.47175,0.5922499999999999
+S013,42,9,16 months.,0.688,0.255,0.411
+S013,42,10,No one can tell me we can’t build quickly in our country.,0.6671428571428571,0.45028571428571423,0.5528571428571429
+S013,42,11,I’ve got empirical evidence.,0.58,0.5346666666666667,0.673
+S013,43,0,"Now look, my opponent, Donald Trump.",0.4796666666666667,0.6286666666666666,0.743
+S013,43,1,"Well, he makes big promises on manufacturing.",0.7405,0.53025,0.7
+S013,43,2,Just yesterday he went out and promised to bring back manufacturing jobs.,0.6075714285714285,0.4562857142857143,0.5314285714285715
+S013,43,3,"And if that sounds familiar, it should.",0.8355,0.47650000000000003,0.5065
+S013,43,4,"In 2016, he went out and made that very same promise about the Carrier plant in Indianapolis.",0.6559999999999999,0.4258,0.5274
+S013,43,5,You’ll remember Carrier then offshored hundreds of jobs to Mexico under his watch.,0.5925,0.45849999999999996,0.5131666666666667
+S013,43,6,And it wasn’t just there.,0.67,0.24,0.554
+S013,43,7,"On Trump’s watch, offshoring went up and manufacturing jobs went down across our country and across our economy.",0.5444000000000001,0.47400000000000003,0.5899
+S013,43,8,"All told, almost 200,000 manufacturing jobs were lost during his presidency starting before the pandemic hit, making Trump one of the biggest losers ever on manufacturing.",0.5350666666666668,0.5588666666666666,0.5952666666666667
+S013,44,0,"Donald Trump also talked a big game on our trade deficit with China, but it is far lower under our watch than any year of his administration.",0.59875,0.4579166666666667,0.5623333333333332
+S013,44,1,"While he constantly got played by China, I will never hesitate to take swift and strong measures when China undermines the rules of the road at the expense of our workers, our communities, and our companies, whether it’s flooding the market with steel, inferior or at all, unfairly subsidizing shipbuilding, or hurting our small businesses with counterfeits.",0.5892692307692309,0.5136923076923077,0.5198076923076924
+S013,44,2,"Recall, Donald Trump actually shipped advanced semiconductor chips to China, which helps them upgrade their military.",0.6231111111111111,0.5217777777777778,0.6302222222222222
+S013,44,3,Understand the impact of these so-called policies that really are not about a plan for strengthening our prosperity or our security.,0.692,0.5449999999999999,0.770625
+S013,44,4,I will never sell out America to our competitors or adversaries.,0.56925,0.6880000000000001,0.6644999999999999
+S013,44,5,"Never, never and I will always make sure we have the strongest economy and the most lethal fighting force anywhere in the world.",0.604,0.5495,0.745
+S013,45,0,"So at this pivotal moment, we have an extraordinary opportunity to chart a new way forward, one that positions the United States of America and all of us were blessed to call this home for success and prosperity in the 21st century.",0.7194499999999999,0.44995,0.6318499999999999
+S013,46,0,There’s an old saying that the best way to predict the future is to invent it.,0.6571666666666666,0.4406666666666666,0.6215
+S013,46,1,"Well, that is the story of the Steel City.",0.67275,0.39925,0.62
+S013,46,2,"That is the story of the Steel City, the city that helped build the middle class, birth America’s labor movement, empower the rise of American manufacturing.",0.6837333333333333,0.5032666666666666,0.6309333333333333
+S013,46,3,And the city where Alan Newell and Herbert Simon launched the first AI research hub at Carnegie Mellon and created entirely new fields like machine learning.,0.6975454545454546,0.5278181818181819,0.591090909090909
+S013,46,4,And Carnegie Mellon is now home to the largest university robotics center in America.,0.6996666666666665,0.41333333333333333,0.6283333333333333
+S013,46,5,"So the proud heritage of Pittsburgh, I so strongly believe reveals the character of our nation, a nation that harnesses the ambitions, the dreams, and the aspirations of our people, seizes the opportunities before us because we see them, because we believe in them, and then invents the future.",0.7040526315789474,0.555157894736842,0.6895789473684211
+S013,46,6,"That is what we have always done, and that is what we must now do, and I know we will.",0.6635000000000001,0.38949999999999996,0.5816250000000001
+S013,46,7,I thank you all for inviting me.,0.948,0.46199999999999997,0.532
+S013,46,8,May God bless you and may God bless the United States of America.,0.765625,0.35887500000000006,0.6031249999999999
+S013,46,9,Thank you all.,0.958,0.353,0.526
+S013,47,0,"And here’s what else we will do when I am president, we will double the number of registered apprenticeships by the end of my first term because I almost made it a goal of mine.",0.6182000000000001,0.4018,0.6187333333333334
+S013,47,1,"I think I am going to fall short, but trying to visit every IBEW local in America, because I’m going to tell you, those apprenticeship programs, those are tough duty, man and women and everyone.",0.5592666666666666,0.41840000000000005,0.5154
+S013,47,2,They’re tough duty.,0.46349999999999997,0.5834999999999999,0.6965
+S013,47,3,"I mean, talk about the skills that are about engineering and science and math and just the most highly skilled folks who are in those apprenticeships and teaching there.",0.6985833333333334,0.43683333333333335,0.6726666666666667

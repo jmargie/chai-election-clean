@@ -1,0 +1,195 @@
+speech_id,line_id,sentence_id,sentence_text,valence,arousal,dominance
+S034,0,0,"As we know this, recovery will take time and we will stand with Georgia, and everyone across the southeast who are impacted by these recent storms for as long as it takes to rebuild.",0.6617,0.3729,0.5922
+S034,0,1,Thank you.,0.958,0.353,0.526
+S034,0,2,"All right, so Atlanta, we have 17 days left.",0.757,0.389,0.593
+S034,0,3,17 days left in one of the most consequential elections of our lifetime.,0.448,0.33099999999999996,0.3655
+S034,0,4,"And look, let’s have some real talk.",0.738,0.4495,0.655
+S034,0,5,It’s going to be a tight race until the very end.,0.631,0.33299999999999996,0.6060000000000001
+S034,0,6,And we are the underdog and we are running as the underdog.,0.49,0.634,0.334
+S034,0,7,"But make no mistake, we will win.",0.6910000000000001,0.414,0.6074999999999999
+S034,0,8,We will win.,0.698,0.408,0.735
+S034,0,9,"Yes, we will.",,,
+S034,0,10,We will win.,0.698,0.408,0.735
+S034,0,11,"Yes, we will,",,,
+S034,1,0,But none of that is what we hear from Donald Trump.,0.76,0.429,0.444
+S034,1,1,"Instead, it is just the same old, tired playbook over and over again.",0.399,0.4495,0.34550000000000003
+S034,1,2,He has no plan for how he would address the needs of the American people.,0.5963333333333334,0.4263333333333333,0.5756666666666667
+S034,1,3,He is only focused on himself.,,,
+S034,1,4,"And now, he’s ducking debates and canceling interviews because of exhaustion.",0.2865,0.5215,0.3215
+S034,1,5,"And when he does answer a question or speak at a rally, have you noticed he tends to go off script and ramble, and generally for the life of him, cannot finish a thought.",0.6266666666666667,0.426,0.564
+S034,1,6,"And he has called it the weave, but I think we here will call it nonsense.",0.6926666666666667,0.48100000000000004,0.637
+S034,2,0,"So folks, for these reasons and more, it is time to turn the page.",0.5726666666666667,0.38199999999999995,0.5539999999999999
+S034,2,1,It’s time to turn the page.,0.5675,0.34299999999999997,0.5455
+S034,2,2,And America is ready to chart a new way forward.,0.6589999999999999,0.36750000000000005,0.495
+S034,2,3,We are ready.,,,
+S034,2,4,We are ready for a new and optimistic generation of leadership.,0.89225,0.4845,0.684
+S034,2,5,All of you.,,,
+S034,2,6,"Which is why Democrats, Republicans, and Independents are supporting our campaign.",0.634,0.49,0.764
+S034,2,7,"In fact, earlier this week, over 100 Republican leaders from across the country joined me on the campaign trail, including some who worked in Donald Trump’s administration.",0.6044999999999999,0.4665000000000001,0.6061666666666667
+S034,2,8,"And I believe as I travel our country, Americans really want a President who works for all the American people, all the American people, who understands that the vast majority of us have so much more in common than what separates us, right?",0.7107777777777778,0.4853333333333333,0.6478888888888888
+S034,2,9,Folks are exhausted with someone trying to have Americans point their fingers at each other.,0.4566666666666667,0.335,0.4086666666666667
+S034,2,10,We’re exhausted with it.,0.123,0.423,0.202
+S034,2,11,"That’s why I say it’s time to turn the page on that, let’s turn the page, and have a President who cares about all the people.",0.6211428571428572,0.3755714285714285,0.557
+S034,3,0,"And you all know I’ve only ever in my career had one client, the people, the people.",0.6823333333333332,0.455,0.56
+S034,3,1,"As a young courtroom prosecutor, I stood up for women and children.",0.385,0.67,0.887
+S034,3,2,"As Attorney general of California, I fought for students and veterans.",0.717,0.5389999999999999,0.8035
+S034,3,3,"As Vice President, I have stood up for workers and seniors.",0.5265,0.5835,0.5365
+S034,3,4,"And as President, I will fight for all the American people.",0.6145,0.638,0.772
+S034,3,5,"And together we will build a brighter future for our nation, together we will build a brighter future that includes what I call an opportunity economy.",0.8191666666666667,0.5623333333333332,0.75225
+S034,3,6,"So that every American has the opportunity to own a home, to build wealth, to start a business.",0.7976666666666667,0.5736666666666667,0.7426666666666666
+S034,3,7,"And to build that opportunity economy, we’ve got to bring down the cost of living, because while inflation is down and wages are up, prices are still too high.",0.515,0.507875,0.5245
+S034,3,8,You know it and I know it.,0.765,0.361,0.704
+S034,3,9,"And so, I have laid out a comprehensive plan to lower the cost that you pay on everything from prescription medication to groceries.",0.54025,0.42425,0.540875
+S034,3,10,And this will be my focus every single day as President of the United States.,0.6465714285714286,0.38657142857142857,0.6201428571428572
+S034,4,0,I will take on corporate price gouging.,0.64925,0.4685,0.59075
+S034,4,1,I’ve done it before and I’ll do it again.,0.67,0.548,0.536
+S034,4,2,"I will give a middle class tax cut to a hundred million Americans, including $6,000 during the first year of a child’s life.",0.5962727272727273,0.3977272727272727,0.5384545454545454
+S034,4,3,And I’m going to tell you why.,0.551,0.35,0.457
+S034,4,4,"Because we all know, young parents have a natural desire to parent their children well, but not always the resources to do it.",0.7785714285714286,0.4271428571428571,0.5970000000000001
+S034,4,5,And we as a community need to understand they are the children of the community.,0.71925,0.459,0.48425
+S034,4,6,"And it is in our collective best interest to make sure that they have the resources they need during that critical phase of a child’s development, to buy a crib, to buy a car seat, to buy what that child needs during that critical stage of life.",0.6565,0.5401875,0.5501875
+S034,4,7,That’s the kind of leadership that we believe in in America.,0.8563333333333333,0.4333333333333333,0.761
+S034,5,0,"I have a plan to bring down the cost of housing, by building more homes and taking on those corporate landlords who are unfairly buying up properties and increasing rental prices.",0.5647777777777778,0.44833333333333336,0.534
+S034,5,1,We know what’s happening.,0.765,0.361,0.704
+S034,5,2,"My plan will lower the cost of starting a small business, including by increasing the tax deduction for entrepreneurs from $5,000 to $50,000, knowing that our small business owners are civic leaders as much as they are business leaders.",0.5676923076923075,0.39430769230769236,0.5173076923076924
+S034,5,3,"They mentor, they hire locally, they are part of the cultural fabric of our communities and deserve to be lifted up in every way.",0.7105714285714286,0.36185714285714277,0.5297142857142857
+S034,5,4,"Under my opportunity economy, I have a plan to lower health costs and healthcare costs for people as they age, so they can grow old with dignity, and so their families are not financially crushed by the cost of home care.",0.6624166666666667,0.45841666666666664,0.5492499999999999
+S034,5,5,"Because look, let me tell you, you all may know this, it’s a personal story.",0.6394,0.3336,0.43599999999999994
+S034,6,0,I helped take care of my mother when she was sick.,0.8293333333333334,0.4383333333333333,0.5243333333333333
+S034,6,1,I took care of my mother when she was sick.,0.8300000000000001,0.389,0.6125
+S034,6,2,"And for any of you who is taking care of an elder relative, you know that’s about love and it’s about care.",0.7355,0.35075,0.58475
+S034,6,3,It’s about trying to cook something for them that they feel like eating.,0.7893333333333333,0.48499999999999993,0.48466666666666663
+S034,6,4,"It’s about trying to help them put on clothes that won’t irritate their skin, help them put on a sweater.",0.5643333333333332,0.48300000000000004,0.4536666666666666
+S034,6,5,It’s about from time to time trying to think of something that will put a smile on their face or make them laugh.,0.671625,0.372625,0.579
+S034,6,6,It’s about dignity.,,,
+S034,6,7,It’s about dignity.,,,
+S034,6,8,But what we know is that right now we have so many people who are doing that and raising small children at the same time.,0.7142857142857143,0.3948571428571429,0.5292857142857142
+S034,6,9,We call it the sandwich generation.,0.633,0.47050000000000003,0.43400000000000005
+S034,6,10,"And unless you got a lot of money to be able to hire somebody to help, then folks are looking at the potential of having to leave their job, which is losing a source of income or worse, even having to spend down whatever might be their savings to be able to qualify for Medicaid.",0.6340000000000001,0.45029411764705884,0.5662352941176471
+S034,7,0,That’s not right.,,,
+S034,7,1,That’s not right.,,,
+S034,7,2,So my plan includes allowing Medicare to cover the cost of home healthcare for our seniors.,0.602,0.3724,0.5636
+S034,7,3,It’s a matter of dignity.,0.487,0.353,0.562
+S034,7,4,Dignity.,,,
+S034,7,5,"And so, I share some of these details with you to just let you know what you are already know.",0.6335000000000001,0.41225,0.50925
+S034,7,6,I will always put the middle class and working families first.,0.6144000000000001,0.3724,0.5286000000000001
+S034,7,7,I always will.,,,
+S034,7,8,I come from the middle class and I will never forget where I come from.,0.5303333333333333,0.29983333333333334,0.48033333333333345
+S034,7,9,I will never forget where I come from.,0.513,0.35300000000000004,0.5006666666666667
+S034,7,10,"Now, Donald Trump, you know here I go.",0.765,0.361,0.704
+S034,7,11,"Now, Donald Trump, well, he has a different plan.",0.612,0.394,0.473
+S034,7,12,Just Google Project 2025.,0.725,0.462,0.853
+S034,7,13,"Now, I say it every time, but I just have to say again, can you believe they put that thing in writing?",0.6158571428571429,0.3370000000000001,0.4947142857142857
+S034,7,14,"They put it in writing, they published it, they bound it and handed it out.",0.5346666666666667,0.498,0.4633333333333334
+S034,7,15,"And when you read it, you know it is a detailed",0.7026666666666666,0.3193333333333333,0.5956666666666667
+S034,8,0,We got the old school.,,,
+S034,8,1,And we will win.,0.698,0.408,0.735
+S034,8,2,And we will win because we understand what is at stake.,0.7949999999999999,0.492,0.7553333333333333
+S034,8,3,This election is about two very different visions for our nation.,0.5856666666666667,0.371,0.5093333333333333
+S034,8,4,"One, Donald Trump’s, who is focused on the past, and ours that is focused on the future.",,,
+S034,8,5,"Ours that is focused on bringing down the cost of living, investing in small businesses and entrepreneurs.",0.37166666666666665,0.3183333333333333,0.2743333333333334
+S034,8,6,"By the way, I love our small businesses.",0.771,0.362,0.3965
+S034,8,7,Can I see the small business leaders and entrepreneurs?,0.63175,0.35075,0.41025
+S034,8,8,"I’m telling you, our small businesses are the backbone of America’s economy, I thank you all.",0.68925,0.36575,0.44825
+S034,8,9,And we are here because we are committed to protecting reproductive freedom.,0.786,0.5680000000000001,0.7999999999999999
+S034,9,0,"Oh, y’all watched the debate?",,,
+S034,9,1,I see you.,0.635,0.269,0.312
+S034,9,2,"He has, quote, “Concepts of a plan.” So you all know, and you’ve heard me say, look, I think, and I do believe Donald Trump is an unserious man and the consequences of him ever being again in the White House are brutally serious.",0.6695,0.44225,0.66225
+S034,9,3,Brutally serious.,,,
+S034,9,4,"Because think about it, the man’s going to threaten the health insurance of 45 million Americans based on a concept and take us back to when insurance companies had the power to deny people with pre-existing conditions.",0.6255833333333334,0.4956666666666667,0.60925
+S034,9,5,You remember what that was?,0.776,0.422,0.454
+S034,9,6,"Well, we are not going back.",,,
+S034,9,7,We are not going back.,,,
+S034,9,8,We are not going back.,,,
+S034,9,9,We’re not going back.,,,
+S034,9,10,We’re not going back.,,,
+S034,9,11,We’re not going back.,,,
+S034,10,0,And we know how we got here.,0.765,0.361,0.704
+S034,10,1,Donald Trump hand-selected three members of the United States Supreme Court with the intention that they would undo the protections of Roe V.,0.5826666666666667,0.5065555555555554,0.6298888888888888
+S034,10,2,Wade.,,,
+S034,10,3,And they did as he intended.,,,
+S034,10,4,"And now in America, more than one in three women lives in a state with a Trump abortion ban.",0.4958,0.4646,0.5064
+S034,10,5,"Today, except for Virginia, every state in the south, including Georgia, has a Trump ban, many with no exceptions, even for rape or incest, which is telling a survivor of a violation to their body they have no right to make a decision about what happens to their body next.",0.589076923076923,0.5343076923076924,0.6204615384615384
+S034,10,6,That’s immoral.,,,
+S034,10,7,That’s immoral.,,,
+S034,11,0,"And let us agree, one does not have to abandon their faith or deeply held beliefs to agree the government should not be telling her what to do.",0.5925555555555556,0.36266666666666664,0.5282222222222223
+S034,11,1,Not the government.,,,
+S034,11,2,"If she chooses, she will talk with her priest, her pastor, her Rabbi, Imam, but not the government telling her what to do.",0.66925,0.43125,0.6765
+S034,12,0,"So look, we all know this is a healthcare crisis.",0.7725,0.3765,0.667
+S034,12,1,This is not something theoretical.,,,
+S034,12,2,This is not just about a political conversation.,0.347,0.73,0.875
+S034,12,3,It’s very real.,,,
+S034,12,4,And Donald Trump is the architect.,0.64,0.716,0.898
+S034,12,5,Women are being denied care during miscarriages.,0.4585,0.487,0.4165
+S034,12,6,Some only being treated once they develop sepsis.,0.771,0.67,0.821
+S034,12,7,"And tragically, because of these bans, some women have even died.",0.757,0.389,0.593
+S034,12,8,Let me show you what I’m talking about.,0.55,0.5720000000000001,0.513
+S034,12,9,Roll the clip.,0.469,0.51,0.172
+S034,13,0,"So here’s the thing that you got to understand, and I think everyone’s following this.",0.6175,0.315,0.439
+S034,13,1,"Donald Trump still refuses to take accountability, to take any accountability for the pain and the suffering he has caused or even to just acknowledge the pain and suffering that has actually happened.",0.42449999999999993,0.6185,0.473
+S034,13,2,"In a Fox town hall earlier this week, he even mocked Amber’s family for sharing their story.",0.5665714285714286,0.44814285714285723,0.4675714285714285
+S034,14,0,Play the clip.,0.812,0.765,0.358
+S034,15,0,But here’s the thing.,,,
+S034,15,1,Here’s the thing.,,,
+S034,15,2,Here’s the thing.,,,
+S034,15,3,"A grieving family, a grieving family sharing the memory of their daughter with our nation.",0.6134999999999999,0.4973333333333334,0.5036666666666667
+S034,15,4,Where is the compassion?,,,
+S034,15,5,"Part of what’s wrong with what’s been happening in this so-called Trump era, is that there’s this backward notion that somehow the measure of the strength of a leader is based on who you beat down instead of what we know, which is that the real measure of the strength of a leader is based on who you lift up.",0.5695000000000001,0.5024375,0.6023125
+S034,15,6,It’s based on who you lift up.,0.704,0.518,0.656
+S034,15,7,And what we see continually from Donald Trump is exactly what that clip shows.,0.5897500000000001,0.43325,0.5722499999999999
+S034,15,8,"He belittles their sorrow, making it about himself and his television ratings.",0.633,0.391,0.547
+S034,15,9,It is cruel.,,,
+S034,16,0,"And listen, I promised Amber’s mother that we will always remember her story and speak her name, Amber Nicole Thurman, Amber Nicole Thurman.",0.7275714285714285,0.39028571428571424,0.5508571428571428
+S034,16,1,"And Amber’s family, including her parents, Shanette and Andre are here with us tonight.",0.7,0.378,0.518
+S034,16,2,"And in front of all the friends here, I thank them both for their courage and their strength.",0.8485,0.48525,0.65575
+S034,16,3,"And it is my pledge to the family… And I have pledged to the family, it is my pledge to everybody here, when Congress passes a bill to restore reproductive freedom nationwide, as President of the United States, I will proudly sign it into law.",0.6953076923076922,0.4942307692307693,0.7265384615384615
+S034,16,4,I will proudly sign it into law.,0.659,0.4445,0.5660000000000001
+S034,16,5,So there’s so much at stake.,,,
+S034,16,6,"And I’m traveling the country and everybody here knows across our nation we are witnessing a full-on assault on other hard-fought, hard-won fundamental freedoms and rights.",0.5898333333333333,0.5145000000000001,0.6346666666666666
+S034,16,7,"Like right here in Georgia, the freedom to vote.",0.8093333333333333,0.4163333333333334,0.6869999999999999
+S034,16,8,"The freedom we are seeing in so many places in our country, an attack on the freedom to be safe from gun violence, the freedom to love who you love openly and with pride.",0.7510999999999999,0.5471999999999999,0.731
+S034,16,9,"So, so much is on the line in this election.",0.541,0.18,0.353
+S034,16,10,And this election is not 2016 or 2020.,0.625,0.519,0.651
+S034,17,0,"The stakes are even higher for obvious reasons, including because just a few months ago, the United States Supreme Court basically told the former president, he is effectively immune no matter what he does in the White House.",0.672375,0.49587499999999995,0.71775
+S034,17,1,And just think about this.,0.786,0.408,0.618
+S034,17,2,"So before that ruling just a few months ago at least there was some possibility of threat of consequence for misbehavior, for breaking the law.",0.337,0.5826,0.534
+S034,17,3,But just imagine now Donald Trump with no guardrails.,0.6995,0.598,0.7424999999999999
+S034,17,4,"He who has vowed that he will be a dictator on day one; he who calls Americans who disagree with him the enemy from within, understand where that comes from in history and says he would use the American military to go after American citizens; he who has called for the termination, I quote, “Of the Constitution of the United States of America.” And let us be very clear: Someone who suggests that we should terminate the Constitution of the United States should never again stand behind the seal of the President of the United States of America.",0.5383333333333333,0.4337083333333333,0.6253333333333334
+S034,17,5,Never again.,,,
+S034,17,6,Never again.,,,
+S034,17,7,Never again.,,,
+S034,17,8,"So Georgia, it comes down to this.",0.208,0.33,0.264
+S034,17,9,We are all here together because we know what is at stake.,0.8195,0.3765,0.681
+S034,17,10,We are all here together because we love our country.,0.937,0.4555,0.6655
+S034,17,11,We love our country.,1.0,0.519,0.673
+S034,17,12,And I do believe it is one of the highest forms of patriotism to then fight for the ideals of our country.,0.6671666666666667,0.5588333333333334,0.6591666666666667
+S034,17,13,That’s what this is about.,,,
+S034,17,14,This is about a fight for the promise of America.,0.677,0.6839999999999999,0.7565
+S034,18,0,And the extraordinary great Congressman John Lewis reminded us that “Democracy is not a state.,0.7317500000000001,0.5615,0.7184999999999999
+S034,18,1,It is an act.” It is an act.,,,
+S034,18,2,"So Georgia, now is our time to act.",0.604,0.288,0.609
+S034,18,3,The baton is in our hands.,0.272,0.235,0.519
+S034,18,4,Election day is in 17 days and early voting has already started.,0.6479999999999999,0.44075,0.5585
+S034,18,5,"You guys are setting some records, by the way.",,,
+S034,18,6,And so now is the time to make your plan to vote.,0.6446666666666667,0.416,0.6073333333333334
+S034,18,7,"Make your plan, go to iwillvote.com and get all the information you need.",0.67475,0.45625000000000004,0.5755
+S034,18,8,"And if you have received your ballot in the mail, please do not wait.",0.6485,0.4335,0.512
+S034,18,9,Fill it out and return it right away.,0.6903333333333332,0.4043333333333334,0.6033333333333334
+S034,18,10,"And you know Georgia’s own president, Jimmy Carter voted early.",0.5519999999999999,0.3873333333333333,0.482
+S034,18,11,Bless him.,0.929,0.269,0.588
+S034,18,12,Just days after his 100th birthday.,,,
+S034,19,0,"So look, if Jimmy Carter can vote early, you can too.",0.5593999999999999,0.4042,0.4598
+S034,19,1,"Because folks, the election is here.",0.625,0.519,0.651
+S034,19,2,It’s here.,,,
+S034,19,3,And I need you to continue to do what you do so well.,0.62,0.52425,0.47100000000000003
+S034,19,4,Let’s continue to energize.,0.63,0.427,0.612
+S034,19,5,Let’s continue to organize.,0.63,0.427,0.612
+S034,19,6,Let’s continue to mobilize.,0.63,0.427,0.612
+S034,19,7,And let’s remind folks that your vote is your voice and your voice is your power.,0.6227499999999999,0.40025,0.567
+S034,19,8,"And so, Georgia, I ask you, are you ready to make your voices heard?",0.6616666666666667,0.416,0.529
+S034,19,9,Do we believe in freedom?,0.7255,0.459,0.609
+S034,19,10,Do we believe in opportunity?,0.7255,0.459,0.609
+S034,19,11,Do we believe in the promise of America?,0.758,0.47266666666666673,0.6406666666666666
+S034,19,12,And are we ready to fight for it?,0.6505000000000001,0.628,0.7285
+S034,19,13,"And when we fight, we win.",,,
+S034,20,0,"God bless you, and God bless United States of America.",0.8310000000000001,0.4010000000000001,0.7462

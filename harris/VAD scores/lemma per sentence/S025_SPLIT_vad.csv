@@ -1,0 +1,25 @@
+speech_id,line_id,sentence_id,sentence_text,valence,arousal,dominance
+S025,0,0,Good morning everyone.,0.813,0.3015,0.489
+S025,0,1,Please have a seat.,0.6495,0.335,0.5135
+S025,0,2,Good morning.,0.813,0.3015,0.489
+S025,0,3,So I’m going to start by saying that we are so thankful to all of the leaders who are here for the work that has occurred and will continue to be done to do what is right on behalf of the American people and working people in our country.,0.6775238095238095,0.4130952380952381,0.6010476190476192
+S025,0,4,"I want to thank our president, Joe Biden, a true champion for the working people and families of our nation and a tireless fighter.",0.7538181818181818,0.5685454545454545,0.7183636363636363
+S025,1,0,"So, affordable and accessible high speed internet, not just for some, but for all.",0.7598,0.5258,0.6329999999999999
+S025,1,1,"I want to thank the members of the cabinet who are here and members of Congress, as well as the advocates and community leaders who have fought for years to connect every corner of America with high speed internet.",0.6698888888888889,0.4508888888888889,0.6306666666666667
+S025,1,2,It is good to be here with all of you.,0.7593333333333333,0.2826666666666667,0.5473333333333333
+S025,1,3,So I will begin with a brief story.,0.62425,0.42074999999999996,0.62025
+S025,1,4,"Last year I visited a small town in Louisiana called Sunset, [inaudible 00:01:42], a rural community of about 3000 people outside of Lafayette, a region where some of my extended family live.",0.673,0.3645384615384615,0.5161538461538462
+S025,1,5,Sunset is like many other small towns in America.,0.6381666666666667,0.25966666666666666,0.38400000000000006
+S025,1,6,"It has a main street with a bank, a church and a donut shop.",0.6688333333333333,0.39666666666666667,0.6086666666666667
+S025,1,7,"And Sunset is similar to many rural communities for another reason, almost 40% of households in that area do not have high speed internet in large part, because the fiber optic lines that connect most Americans to the internet just never made it to Sunset.",0.6997727272727272,0.3775,0.5372727272727272
+S025,2,0,But here’s what that means.,0.615,0.373,0.46
+S025,2,1,"In Sunset, I met with parents who cannot apply for remote work jobs, because they do not have a high speed internet connection at home.",0.7176666666666665,0.4558,0.6106
+S025,2,2,"In Sunset, I met with entrepreneurs who struggled to start or grow a small business, because they cannot get online, and I met with students who, when public buildings were closed during the pandemic, had to sit in the parking lot of a local library just to submit their homework over WiFi.",0.63368,0.42016,0.53716
+S025,2,3,And these stories are not uncommon.,0.594,0.35833333333333334,0.5436666666666666
+S025,2,4,"Today, 24 million people in our country do not have access to high speed internet, either because they cannot afford the monthly cost of a plan or because they live in communities that have not yet been fully connected to fiber optic networks.",0.6917916666666667,0.45199999999999996,0.5824166666666667
+S025,3,0,"But let us agree, in the 21st century, in America, high speed internet is not a luxury, it is a necessity.",0.6742000000000001,0.44250000000000006,0.6060000000000001
+S025,3,1,"Every person in our nation, no matter where they live, should be able to access and afford high speed internet.",0.6828181818181819,0.49500000000000005,0.6534545454545454
+S025,3,2,"And that is why our administration invested $65 billion to give millions of families a $30 discount on their monthly internet bills and to lay thousands of miles of new fiber optic lines, including in Sunset, where with the support of local leaders and elected officials, we are connecting 22,000 families with high speed internet.",0.7070645161290325,0.43006451612903224,0.5878387096774195
+S025,3,3,"Today we are here to continue our work together, to connect every person in America with high speed internet.",0.7232000000000001,0.4444,0.6095
+S025,3,4,And now it is my honor to introduce a leader who understands firsthand the urgency and the impact of this work.,0.6709999999999999,0.59125,0.712125
+S025,3,5,"An incredible leader, an incredible dad to his three daughters, Jeff Say.",0.7908571428571429,0.5051428571428572,0.6900000000000001

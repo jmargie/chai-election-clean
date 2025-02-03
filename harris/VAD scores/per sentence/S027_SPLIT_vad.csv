@@ -1,0 +1,27 @@
+speech_id,line_id,sentence_id,sentence_text,valence,arousal,dominance
+S027,0,0,You made tremendous sacrifices.,0.6,0.888,0.773
+S027,0,1,"Training through injuries, birthdays, vacations, and even a pandemic.",0.714,0.776,0.788
+S027,0,2,"You know, all of you, what it means to commit and to persevere.",0.49,0.451,0.47550000000000003
+S027,0,3,"And we know that so often during the course of a long season, sports teams also become a family.",0.6950000000000001,0.495,0.61925
+S027,0,4,You develop lifelong relationships.,0.7969999999999999,0.5,0.7304999999999999
+S027,0,5,You demonstrate teamwork and character.,0.8445,0.521,0.806
+S027,0,6,You make the people around you better in every way.,0.644,0.41000000000000003,0.49
+S027,0,7,You are leaders.,,,
+S027,0,8,"You are role models, and of course you are champions.",0.552,0.26,0.464
+S027,0,9,"And college sports in particular have a special way, a very special way, of bringing people together, connecting us to our home states and our colleges, connecting us to family traditions, friends and fellow fans, connecting us to something bigger.",0.7854545454545453,0.4550909090909091,0.620090909090909
+S027,0,10,"When you take the court, you inspire so many across our country, people you may never meet.",0.7635000000000001,0.45925000000000005,0.46299999999999997
+S027,0,11,"Not only because of how you play, but because of who each of you is.",,,
+S027,0,12,Every day you remind all of us of what we can achieve when we work hard and strive with ambition.,0.6458571428571428,0.5328571428571428,0.6262857142857142
+S027,0,13,Some of you may end up playing professionally.,0.45099999999999996,0.311,0.27149999999999996
+S027,1,0,"Some of you may end up representing our country in the Olympics, in world championships and in World Cups, but all of you represent the best of our country and our communities no matter what you do next.",0.6275999999999999,0.39959999999999996,0.6221
+S027,1,1,"That is why President Biden and I are so optimistic about the future of our country and our world, because of you, because of each of you.",0.8105,0.56,0.81825
+S027,1,2,"You remind us that we are truly stronger together, that our nation is strong when we stand together, understanding what we have in common.",0.7414999999999999,0.4366666666666667,0.6783333333333333
+S027,1,3,"You are the ones that people who come from every corner of our nation, representing every background look at, because we know when we see you, we are at our best when we work together as one team.",0.6347272727272727,0.375,0.5603636363636363
+S027,1,4,"So again, congratulations to you all and to all of the people here who made your journey possible, to your family who supported you, to your coaches who taught and trained you, and to your friends who always have your back.",0.8406666666666667,0.5073333333333334,0.6227777777777779
+S027,1,5,Thank you all.,0.958,0.353,0.526
+S027,2,0,"Now it is my honor to turn things over to one of our incredible student athletes, Logan.",0.6631666666666668,0.44016666666666665,0.586
+S027,2,1,"Logan, you are a star on the court, Division One National Volleyball Player of the Year.",0.6066666666666666,0.49066666666666664,0.5278333333333335
+S027,2,2,You are a star in the classroom as an academic all-American.,0.7176666666666667,0.37666666666666665,0.5783333333333334
+S027,2,3,"You are a leader on issues like racial justice and you are a community leader, and now you are a national champion with your Texas Longhorn teammates.",0.7059999999999998,0.5124285714285713,0.7055714285714287
+S027,2,4,We are so proud of you.,0.906,0.7,0.873
+S027,2,5,"Thank you, Logan.",0.958,0.353,0.526

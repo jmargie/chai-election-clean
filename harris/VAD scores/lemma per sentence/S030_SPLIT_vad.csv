@@ -1,0 +1,329 @@
+speech_id,line_id,sentence_id,sentence_text,valence,arousal,dominance
+S030,0,0,"Hey, everyone.",,,
+S030,0,1,Can we hear it for Eric Price?,0.6336666666666667,0.4213333333333333,0.4776666666666667
+S030,1,0,"Oh, it’s good to be back in Michigan.",0.682,0.3203333333333333,0.47466666666666674
+S030,1,1,Thank you all so very much.,0.958,0.353,0.526
+S030,1,2,Thank you.,0.958,0.353,0.526
+S030,1,3,Thank you so very much.,0.958,0.353,0.526
+S030,2,0,"And, Eric Price, thank you for your leadership of UAW 651, and all the work that you do.",0.7392,0.5324,0.666
+S030,2,1,And I want to thank all the leaders who are here.,0.7829999999999999,0.45425,0.651
+S030,2,2,"This is … I mean, this is, we’ve got thousands of leaders who are here, and I thank them, including all our friends in labor: Shawn Fain, April Verrett; all of the incredible elected leaders, starting with the Governor Whitmer, who is amazing and is my friend, my dear friend; Mayor Neeley; Senator Stabenow; Senator Peters; Representative Slotkin, who we will elect to the United States Senate.",0.6868125,0.44968749999999996,0.67878125
+S030,3,0,And did you all see Magic Johnson?,0.7243333333333334,0.49333333333333335,0.4753333333333334
+S030,3,1,Remember his number: 32?,0.591,0.3265,0.4625
+S030,3,2,Today we got 32 days until the election.,0.7225,0.42200000000000004,0.51725
+S030,4,0,"So, 32 days, 32 days.",0.719,0.269,0.389
+S030,5,0,Okay.,,,
+S030,5,1,We got some business to do.,0.6993333333333333,0.5703333333333332,0.6526666666666667
+S030,5,2,We got some business to do.,0.6993333333333333,0.5703333333333332,0.6526666666666667
+S030,6,0,All right.,0.74,0.352,0.71
+S030,6,1,32 days.,0.719,0.269,0.389
+S030,6,2,And we know we will do it.,0.711,0.439,0.6583333333333333
+S030,6,3,And this is going to be a very tight race until the very end.,0.528,0.3392,0.5016
+S030,6,4,This is going to be a very tight race until the very end.,0.528,0.3392,0.5016
+S030,6,5,"We are the underdog, and we know we have some hard work ahead.",0.5958571428571429,0.4605714285714285,0.588
+S030,6,6,But here’s the thing about us: We like hard work.,0.54725,0.46975,0.518
+S030,6,7,We like hard work.,0.58,0.5523333333333333,0.604
+S030,6,8,Hard work is good work.,0.6695999999999999,0.5016,0.6408
+S030,6,9,Hard work is good work.,0.6695999999999999,0.5016,0.6408
+S030,7,0,"And with your help, in November, we will win.",0.766,0.5243333333333333,0.6943333333333334
+S030,7,1,We will win.,0.8125,0.5509999999999999,0.8115
+S030,7,2,We are not playing around.,0.7410000000000001,0.5025,0.456
+S030,8,0,"So, listen, we know this election is about two very different visions for our nation: one focused on the past, and ours, which is focused on the future.",0.6596428571428571,0.3804285714285714,0.5793571428571429
+S030,8,1,"We are fighting for a future where we tap into the ambitions and the aspirations of the American people and build what I call an opportunity economy so every American has an opportunity to own a home, build wealth, start a business.",0.698,0.5558333333333333,0.6808333333333335
+S030,9,0,And I’m going to speak about small … Do we have small-business owners in the house right here?,0.6543333333333333,0.3551111111111111,0.49733333333333335
+S030,9,1,Right?,0.74,0.352,0.71
+S030,9,2,Okay.,,,
+S030,9,3,"So, on the economy, I’m just going to spend a minute on small businesses.",0.5961666666666666,0.4455,0.4791666666666667
+S030,9,4,Because let me tell you.,0.489,0.3615,0.382
+S030,9,5,"So, growing up, our mother often worked very long hours, and so my sister, Maya, and I, we would go over to Ms.",0.6970000000000001,0.42674999999999996,0.56775
+S030,9,6,Shelton’s house.,0.587,0.135,0.533
+S030,9,7,Ms.,,,
+S030,9,8,"Shelton was from Louisiana, and we called her our second mother.",0.67125,0.37124999999999997,0.52175
+S030,9,9,And Ms.,,,
+S030,9,10,Shelton was a small-business owner.,0.6626666666666667,0.298,0.5313333333333333
+S030,10,0,"So, from being a child, I know who our small-business owners are.",0.7225,0.32583333333333336,0.5441666666666666
+S030,10,1,"They are community leaders, civic leaders.",0.7478,0.39879999999999993,0.7276
+S030,10,2,They mentor.,0.719,0.455,0.777
+S030,10,3,They hire locally.,0.688,0.558,0.556
+S030,10,4,They build up the community.,0.7605,0.448,0.7325
+S030,10,5,They are part of the fabric of the community.,0.6795,0.26449999999999996,0.4795
+S030,10,6,And small-business owners are the backbone of America’s economy.,0.6218,0.3584,0.597
+S030,11,0,"So, in my plan to build an opportunity economy, one of the things I will do is raise the start-up deduction from $5,000 to $50,000 to help entrepreneurs start their small business.",0.6774117647058824,0.4681764705882353,0.6135882352941177
+S030,12,0,You heard Eric talk about it.,0.7965,0.38749999999999996,0.519
+S030,12,1,We need to build more housing in America.,0.6856666666666668,0.47466666666666674,0.5323333333333333
+S030,12,2,"You know, my mother saved up for years to buy our first home.",0.7670000000000001,0.43957142857142856,0.652
+S030,12,3,I was a teenager by the time she saved up enough to do that.,0.6990000000000001,0.42160000000000003,0.5816
+S030,12,4,"And right now, we know there’s a serious housing shortage in our country, and it is part of what is driving up costs.",0.596909090909091,0.3807272727272727,0.5577272727272727
+S030,13,0,"So, we will cut the red tape and work with the private sector to build 3 million new homes and provide first-time homebuyers with a $25,000 down payment assistance so you can just literally get your foot in the door, and you’ll handle the rest.",0.6524347826086957,0.41578260869565214,0.5576521739130434
+S030,14,0,We need to lower the cost of living.,0.51675,0.4744999999999999,0.406
+S030,14,1,"Look, our economy is making good progress.",0.7456666666666667,0.42216666666666663,0.6385
+S030,14,2,"Just this morning, we got a solid jobs report, right?",0.6853333333333333,0.4116666666666666,0.646
+S030,14,3,"Over 250,000 jobs created last month; unemployment fell; and just a few weeks ago, the Federal Reserve cut interest rates, which helps.",0.5325384615384615,0.4176923076923077,0.5034615384615384
+S030,15,0,But there’s still more we need to do.,0.5900000000000001,0.5609999999999999,0.368
+S030,15,1,Prices for everyday things like groceries are still too high.,0.6501428571428571,0.36900000000000005,0.48657142857142854
+S030,15,2,You know it and I know it.,0.765,0.361,0.704
+S030,15,3,"And I have a plan on lowering costs on everything from health care to groceries, including taking on corporate price gouging.",0.6415454545454545,0.4287272727272727,0.5104545454545456
+S030,16,0,"‘Cause as attorney general, I saw what happens where there are few of them; not everybody but those who take advantage of desperate people, in particular in the middle of an emergency, and there needs to be consequence.",0.5446000000000001,0.5233333333333333,0.5362666666666667
+S030,17,0,"I will give a tax cut to 100 million Americans, including $6,000 extending and expanding the Child Tax Credit, so during the first year of a child’s life young parents have the support they need to be able to buy a car seat, to buy a crib, to take care of their child during that first year of their life, knowing it’s about setting them on a path to do everything they have a natural desire to do.",0.70395,0.4625,0.575275
+S030,18,0,"And, look, let me, I say all this to say: I will always put the middle class and working families first.",0.632090909090909,0.3788181818181818,0.5418181818181819
+S030,18,1,"I come from the middle class, and I will never forget where I come from.",0.5303333333333333,0.29983333333333334,0.48033333333333345
+S030,18,2,I will never forget where I come from.,0.513,0.35300000000000004,0.5006666666666667
+S030,19,0,And we know we cannot have a strong middle class without American manufacturing.,0.6947142857142856,0.4198571428571429,0.6102857142857143
+S030,19,1,"So, over the last three and a half years, we have brought manufacturing back to America, creating 730,000 manufacturing jobs.",0.6422,0.4386,0.5666
+S030,19,2,We announced the opening of more than 20 new auto plants in the United States.,0.7031428571428572,0.44542857142857145,0.5815714285714285
+S030,19,3,And we did it by investing in American industry and American workers.,0.67225,0.5640000000000001,0.6845
+S030,20,0,"And I will make sure that America, not China, wins the competition for the 21st century, which is why, under my plan, we will invest in the industries that built America, like steel, iron, and the great American auto industry.",0.6596315789473683,0.4747894736842104,0.7008421052631578
+S030,20,1,"I see you, Shawn.",0.635,0.269,0.312
+S030,21,0,"And we will ensure that the next generation of breakthroughs, from advanced batteries to electric vehicles, are not only invented but built right here in America by American union workers.",0.7081428571428571,0.4850714285714286,0.6786428571428572
+S030,22,0,"And, Michigan, let us be clear: Contrary to what my opponent is suggesting, I will never tell you what kind of car you have to drive.",0.6099230769230769,0.4197692307692308,0.551923076923077
+S030,22,1,But here’s what I will do.,0.6839999999999999,0.478,0.6355
+S030,22,2,"I will invest in communities like Flint, which helped build the auto industry and the UAW.",0.667,0.47177777777777774,0.6288888888888889
+S030,23,0,"We will retool existing factories, hire locally, and work with unions to create good-paying jobs, including jobs that do not require a college degree, because we understand a college degree is not the only measure of whether a worker has skills and experience to get the job done.",0.7104814814814815,0.4695185185185185,0.663925925925926
+S030,24,0,"In fact, part of my plan is to outline all of the federal jobs that should not require a college degree and make that clear.",0.6492500000000001,0.3978333333333333,0.6143333333333335
+S030,24,1,"And when I’m elected, I’m going to challenge the private sector to take on the same approach.",0.620142857142857,0.49400000000000005,0.5698571428571428
+S030,25,0,And then there’s Donald Trump.,0.64,0.716,0.898
+S030,26,0,"So, Donald Trump has a very different approach.",0.65525,0.47275,0.6435
+S030,26,1,"So, Donald Trump makes big promises, and he always fails to deliver.",0.6181666666666668,0.5286666666666666,0.605
+S030,27,0,He said he was the only one who could bring back America’s manufacturing jobs.,0.6004285714285714,0.40128571428571425,0.5321428571428571
+S030,27,1,Remember that?,0.776,0.422,0.454
+S030,28,0,"And then America lost nearly 200,000 manufacturing jobs when he was president, including tens of thousands of jobs in Michigan.",0.6124444444444445,0.46811111111111114,0.5907777777777777
+S030,28,1,"And those losses started before the pandemic, making Donald Trump one of the biggest losers of manufacturing jobs in American history.",0.5211818181818182,0.5317272727272727,0.5758181818181818
+S030,29,0,And his track record for the auto industry was a disaster.,0.4955,0.5003333333333334,0.5581666666666667
+S030,29,1,"He promised workers in Warren that the auto industry would, I’ll quote, “not lose one plant” during his presidency.",0.5923636363636363,0.48563636363636353,0.5345454545454545
+S030,29,2,And then American automakers announced the closure of six auto plants when he was president.,0.5815714285714285,0.37185714285714283,0.5274285714285715
+S030,30,0,We need a medic over here.,0.505,0.5229999999999999,0.39249999999999996
+S030,30,1,We need a medic over here.,0.505,0.5229999999999999,0.39249999999999996
+S030,30,2,Right here.,0.74,0.352,0.71
+S030,31,0,Okay.,,,
+S030,31,1,"Can everyone part so the medic can come through, please?",0.6032,0.3478,0.4822
+S030,31,2,Let’s let the medic through.,0.45133333333333336,0.40599999999999997,0.3996666666666666
+S030,32,0,"So, remembering, again, what Donald Trump talked about versus what he did.",0.5976,0.4992,0.5968
+S030,32,1,"Then automakers, American automakers announced the closure of six plants when he was president, including General Motors in Warren and Stellantis in Detroit.",0.5982,0.40170000000000006,0.5675000000000001
+S030,33,0,Thousands of Michigan autoworkers lost their jobs.,0.5186666666666667,0.5196666666666667,0.4483333333333333
+S030,33,1,"And when it came to building the cars of the future, Donald Trump sat on the sidelines and let China dominate.",0.5966,0.4699,0.6116
+S030,34,0,"And then he talked down to American workers, saying we can’t compete with Chinese workers.",0.612142857142857,0.4695714285714286,0.5640000000000001
+S030,35,0,"And make no mistake, Donald Trump is no friend of labor.",0.617,0.5021666666666667,0.5601666666666666
+S030,35,1,He encouraged automakers to move their plants out of Michigan so they could pay their workers less.,0.6395,0.4925,0.5148333333333334
+S030,36,0,"And when the UAW went on strike to demand higher wages that they deserved, Donald Trump went to a nonunion shop, don’t forget, and he attacked the UAW.",0.5532499999999999,0.5951666666666666,0.5715833333333332
+S030,36,1,"And he said striking and collective bargaining don’t make, quote, “a damn bit of difference.”",0.5141,0.5407,0.5064
+S030,37,0,"Remember how he’s talked about striking workers, that you should fire them.",0.613,0.5993999999999999,0.6048
+S030,37,1,That’s how he talks about union labor.,0.7603333333333332,0.4036666666666666,0.7046666666666667
+S030,37,2,That’s how he talks about workers.,0.776,0.472,0.639
+S030,38,0,"But, Flint, we know strong unions mean higher wages, better health care, and greater dignity for union members and for everyone.",0.7653076923076922,0.42092307692307696,0.6842307692307692
+S030,39,0,"And on top of all of that, Donald Trump signed a $2 trillion tax cut that mostly went to the wealthy and big corporations, not to working people.",0.6145000000000002,0.4916666666666667,0.6221666666666666
+S030,40,0,And now he is making the same empty promises to the people in Michigan that he did before.,0.6065,0.3818333333333333,0.47583333333333333
+S030,40,1,But we will not be fooled.,0.4729999999999999,0.4466666666666666,0.5100000000000001
+S030,40,2,We will not be gaslighted.,0.6839999999999999,0.32399999999999995,0.6445000000000001
+S030,40,3,Donald Trump’s track record is a disaster for working people.,0.5337142857142857,0.5267142857142857,0.5695714285714285
+S030,41,0,"And if he wins again, it will be more of the same.",0.765,0.4473333333333333,0.7256666666666667
+S030,41,1,Check this out.,0.523,0.552,0.602
+S030,41,2,"Two days ago, his running mate, maybe you saw that.",0.5748333333333332,0.4275,0.4709999999999999
+S030,41,3,"No, but … How about that Tim Walz, by the way?",0.48,0.275,0.42
+S030,41,4,That’s right.,0.74,0.352,0.71
+S030,41,5,That’s right.,0.74,0.352,0.71
+S030,42,0,"So, two days ago, Donald Trump’s running mate suggested that if Trump wins, he might let the Grand River assembly plant in Lansing close down, the same plant that our administration helped save earlier this year, along with 650 union jobs.",0.6376666666666666,0.42887499999999995,0.557625
+S030,43,0,"Michigan, we together fought hard for those jobs.",0.60025,0.62725,0.7000000000000001
+S030,43,1,And you deserve a president who won’t put them at risk.,0.5874,0.5359999999999999,0.6537999999999999
+S030,44,0,"And for anybody watching, you know, if you want to learn more about Donald Trump’s plans, just google Project 2025.",0.6872857142857143,0.53,0.7197142857142858
+S030,45,0,It is a detailed and dangerous blueprint for what he will do if he is elected president.,0.573888888888889,0.4488888888888889,0.6186666666666666
+S030,45,1,"Donald Trump will give billionaires and corporations massive tax cuts, attack unions, cut Social Security and Medicare, and impose a Trump sales tax, a 20% tax on everyday basic necessities, which will cost the average family nearly $4,000 a year.",0.5917307692307692,0.4766923076923077,0.6219615384615385
+S030,46,0,"And on top of all this, Donald Trump intends to end the Affordable Care Act even after he tried to repeal it time and time again when he was president and still has no plan to replace it.",0.6015,0.4609375,0.6003750000000001
+S030,47,0,"Now, you know, I have said that I do believe he is an unserious man.",0.7023333333333334,0.36966666666666664,0.5918333333333333
+S030,47,1,"And the consequences of him being president again are absolutely, critically serious.",0.5514,0.4556,0.6586000000000001
+S030,47,2,"‘Cause, think about it.",0.786,0.408,0.618
+S030,47,3,"Even on health care, he has a concept of a plan.",0.728,0.3982,0.6018000000000001
+S030,47,4,"So, he’s going to threaten the health insurance of 45 million people in our country based on a concept?",0.6165555555555555,0.4597777777777778,0.6222222222222222
+S030,48,0,"To take us back, do you remember that, when insurance companies could deny people with preexisting conditions?",0.6447777777777779,0.45566666666666666,0.5234444444444445
+S030,48,1,Remember what that was like?,0.7216666666666667,0.3383333333333333,0.48466666666666663
+S030,49,0,"Well, Michigan, we are not …",0.67,0.24,0.554
+S030,50,0,"And these 32 days out from the election, it’s important that we remind people how we got here.",0.706,0.4711666666666667,0.601
+S030,50,1,Donald Trump handpicked three members of the United States Supreme Court with the intention that they would overturn Roe v.,0.579909090909091,0.503,0.6249999999999999
+S030,50,2,"Wade, and they did.",0.5900000000000001,0.6020000000000001,0.504
+S030,50,3,"And now more than one in three women in America lives in a state with a Trump abortion ban, many with no exceptions even for rape and incest, which is immoral.",0.41333333333333333,0.5665,0.537
+S030,51,0,"And when Congress passes a bill to restore reproductive freedom, as President of the United States, I will proudly sign it into law.",0.6614166666666667,0.4716666666666667,0.7039166666666667
+S030,51,1,Proudly.,,,
+S030,52,0,And here’s what I want to say.,0.621,0.476,0.54
+S030,52,1,"Look, and that’s not our only battle.",0.542,0.6869999999999999,0.7415
+S030,52,2,"Across our nation, we are witnessing a full-on assault on other hard-fought, hard-won freedoms and rights, like the freedom to vote; the freedom to be safe from gun violence; the freedom to join a union; the freedom to love who you love openly and with pride; and the freedom to breathe clean air and drink clean water.",0.6931515151515151,0.46015151515151503,0.6587272727272727
+S030,53,0,"Flint, you know all too well, Flint, that clean water should be a right for everyone, not just for the people who can afford it.",0.6693,0.3464,0.5498
+S030,53,1,"And as president, I will continue to work with communities like Flint to ensure you not only have clean water but the opportunity to recover economically and thrive.",0.7607857142857143,0.4333571428571429,0.6602857142857144
+S030,54,0,"So, Michigan, it all comes down to this.",0.3685,0.2995,0.41100000000000003
+S030,54,1,"We are all here together because we know what is at stake, and we love our country.",0.7261428571428572,0.3934285714285715,0.6137142857142858
+S030,54,2,We love our country.,0.849,0.4565,0.683
+S030,54,3,We love our country.,0.849,0.4565,0.683
+S030,55,0,"So, Election Day is in 32 days.",0.6832499999999999,0.32425000000000004,0.49575
+S030,55,1,And already nearly 2 million ballots are in the hands of Michigan voters alone.,0.5756666666666668,0.3778333333333333,0.5213333333333333
+S030,56,0,"So, if you have received your ballot, please do not wait.",0.5636,0.3802,0.46240000000000003
+S030,56,1,Fill it out and return it today.,0.7123333333333334,0.389,0.4873333333333334
+S030,56,2,"Early voting starts statewide on October 26th, and now is the time to make your plan to vote, because, folks, the election is here.",0.6432727272727273,0.4168181818181818,0.5859090909090909
+S030,56,3,The election is here.,0.6475,0.3795,0.6025
+S030,56,4,"And we need to energize, organize, and mobilize.",0.677,0.68075,0.6457499999999999
+S030,56,5,"And remember: Your vote is your voice, and your voice is your power.",0.6578571428571428,0.394,0.602857142857143
+S030,56,6,"So, Flint, today I ask: Are you ready to make your voices heard?",0.667,0.375625,0.501375
+S030,57,0,Do we believe in freedom?,0.8066666666666666,0.4873333333333334,0.7076666666666668
+S030,58,0,God bless you.,0.8435,0.3935,0.737
+S030,58,1,And God bless the United States of America.,0.7575000000000001,0.3845,0.71525
+S030,59,0,"Hey, everyone.",,,
+S030,59,1,Can we hear it for Eric Price?,0.6336666666666667,0.4213333333333333,0.4776666666666667
+S030,60,0,"Oh, it’s good to be back in Michigan.",0.682,0.3203333333333333,0.47466666666666674
+S030,60,1,Thank you all so very much.,0.958,0.353,0.526
+S030,60,2,Thank you.,0.958,0.353,0.526
+S030,60,3,Thank you so very much.,0.958,0.353,0.526
+S030,61,0,"And, Eric Price, thank you for your leadership of UAW 651, and all the work that you do.",0.7392,0.5324,0.666
+S030,61,1,And I want to thank all the leaders who are here.,0.7829999999999999,0.45425,0.651
+S030,61,2,"This is … I mean, this is, we’ve got thousands of leaders who are here, and I thank them, including all our friends in labor: Shawn Fain, April Verrett; all of the incredible elected leaders, starting with the Governor Whitmer, who is amazing and is my friend, my dear friend; Mayor Neeley; Senator Stabenow; Senator Peters; Representative Slotkin, who we will elect to the United States Senate.",0.6868125,0.44968749999999996,0.67878125
+S030,62,0,And did you all see Magic Johnson?,0.7243333333333334,0.49333333333333335,0.4753333333333334
+S030,62,1,Remember his number: 32?,0.591,0.3265,0.4625
+S030,62,2,Today we got 32 days until the election.,0.7225,0.42200000000000004,0.51725
+S030,63,0,"So, 32 days, 32 days.",0.719,0.269,0.389
+S030,64,0,Okay.,,,
+S030,64,1,We got some business to do.,0.6993333333333333,0.5703333333333332,0.6526666666666667
+S030,64,2,We got some business to do.,0.6993333333333333,0.5703333333333332,0.6526666666666667
+S030,65,0,All right.,0.74,0.352,0.71
+S030,65,1,32 days.,0.719,0.269,0.389
+S030,65,2,And we know we will do it.,0.711,0.439,0.6583333333333333
+S030,65,3,And this is going to be a very tight race until the very end.,0.528,0.3392,0.5016
+S030,65,4,This is going to be a very tight race until the very end.,0.528,0.3392,0.5016
+S030,65,5,"We are the underdog, and we know we have some hard work ahead.",0.5958571428571429,0.4605714285714285,0.588
+S030,65,6,But here’s the thing about us: We like hard work.,0.54725,0.46975,0.518
+S030,65,7,We like hard work.,0.58,0.5523333333333333,0.604
+S030,65,8,Hard work is good work.,0.6695999999999999,0.5016,0.6408
+S030,65,9,Hard work is good work.,0.6695999999999999,0.5016,0.6408
+S030,66,0,"And with your help, in November, we will win.",0.766,0.5243333333333333,0.6943333333333334
+S030,66,1,We will win.,0.8125,0.5509999999999999,0.8115
+S030,66,2,We are not playing around.,0.7410000000000001,0.5025,0.456
+S030,67,0,"So, listen, we know this election is about two very different visions for our nation: one focused on the past, and ours, which is focused on the future.",0.6596428571428571,0.3804285714285714,0.5793571428571429
+S030,67,1,"We are fighting for a future where we tap into the ambitions and the aspirations of the American people and build what I call an opportunity economy so every American has an opportunity to own a home, build wealth, start a business.",0.698,0.5558333333333333,0.6808333333333335
+S030,68,0,And I’m going to speak about small … Do we have small-business owners in the house right here?,0.6543333333333333,0.3551111111111111,0.49733333333333335
+S030,68,1,Right?,0.74,0.352,0.71
+S030,68,2,Okay.,,,
+S030,68,3,"So, on the economy, I’m just going to spend a minute on small businesses.",0.5961666666666666,0.4455,0.4791666666666667
+S030,68,4,Because let me tell you.,0.489,0.3615,0.382
+S030,68,5,"So, growing up, our mother often worked very long hours, and so my sister, Maya, and I, we would go over to Ms.",0.6970000000000001,0.42674999999999996,0.56775
+S030,68,6,Shelton’s house.,0.587,0.135,0.533
+S030,68,7,Ms.,,,
+S030,68,8,"Shelton was from Louisiana, and we called her our second mother.",0.67125,0.37124999999999997,0.52175
+S030,68,9,And Ms.,,,
+S030,68,10,Shelton was a small-business owner.,0.6626666666666667,0.298,0.5313333333333333
+S030,69,0,"So, from being a child, I know who our small-business owners are.",0.7225,0.32583333333333336,0.5441666666666666
+S030,69,1,"They are community leaders, civic leaders.",0.7478,0.39879999999999993,0.7276
+S030,69,2,They mentor.,0.719,0.455,0.777
+S030,69,3,They hire locally.,0.688,0.558,0.556
+S030,69,4,They build up the community.,0.7605,0.448,0.7325
+S030,69,5,They are part of the fabric of the community.,0.6795,0.26449999999999996,0.4795
+S030,69,6,And small-business owners are the backbone of America’s economy.,0.6218,0.3584,0.597
+S030,70,0,"So, in my plan to build an opportunity economy, one of the things I will do is raise the start-up deduction from $5,000 to $50,000 to help entrepreneurs start their small business.",0.6774117647058824,0.4681764705882353,0.6135882352941177
+S030,71,0,You heard Eric talk about it.,0.7965,0.38749999999999996,0.519
+S030,71,1,We need to build more housing in America.,0.6856666666666668,0.47466666666666674,0.5323333333333333
+S030,71,2,"You know, my mother saved up for years to buy our first home.",0.7670000000000001,0.43957142857142856,0.652
+S030,71,3,I was a teenager by the time she saved up enough to do that.,0.6990000000000001,0.42160000000000003,0.5816
+S030,71,4,"And right now, we know there’s a serious housing shortage in our country, and it is part of what is driving up costs.",0.596909090909091,0.3807272727272727,0.5577272727272727
+S030,72,0,"So, we will cut the red tape and work with the private sector to build 3 million new homes and provide first-time homebuyers with a $25,000 down payment assistance so you can just literally get your foot in the door, and you’ll handle the rest.",0.6524347826086957,0.41578260869565214,0.5576521739130434
+S030,73,0,We need to lower the cost of living.,0.51675,0.4744999999999999,0.406
+S030,73,1,"Look, our economy is making good progress.",0.7456666666666667,0.42216666666666663,0.6385
+S030,73,2,"Just this morning, we got a solid jobs report, right?",0.6853333333333333,0.4116666666666666,0.646
+S030,73,3,"Over 250,000 jobs created last month; unemployment fell; and just a few weeks ago, the Federal Reserve cut interest rates, which helps.",0.5325384615384615,0.4176923076923077,0.5034615384615384
+S030,74,0,But there’s still more we need to do.,0.5900000000000001,0.5609999999999999,0.368
+S030,74,1,Prices for everyday things like groceries are still too high.,0.6501428571428571,0.36900000000000005,0.48657142857142854
+S030,74,2,You know it and I know it.,0.765,0.361,0.704
+S030,74,3,"And I have a plan on lowering costs on everything from health care to groceries, including taking on corporate price gouging.",0.6415454545454545,0.4287272727272727,0.5104545454545456
+S030,75,0,"‘Cause as attorney general, I saw what happens where there are few of them; not everybody but those who take advantage of desperate people, in particular in the middle of an emergency, and there needs to be consequence.",0.5446000000000001,0.5233333333333333,0.5362666666666667
+S030,76,0,"I will give a tax cut to 100 million Americans, including $6,000 extending and expanding the Child Tax Credit, so during the first year of a child’s life young parents have the support they need to be able to buy a car seat, to buy a crib, to take care of their child during that first year of their life, knowing it’s about setting them on a path to do everything they have a natural desire to do.",0.70395,0.4625,0.575275
+S030,77,0,"And, look, let me, I say all this to say: I will always put the middle class and working families first.",0.632090909090909,0.3788181818181818,0.5418181818181819
+S030,77,1,"I come from the middle class, and I will never forget where I come from.",0.5303333333333333,0.29983333333333334,0.48033333333333345
+S030,77,2,I will never forget where I come from.,0.513,0.35300000000000004,0.5006666666666667
+S030,78,0,And we know we cannot have a strong middle class without American manufacturing.,0.6947142857142856,0.4198571428571429,0.6102857142857143
+S030,78,1,"So, over the last three and a half years, we have brought manufacturing back to America, creating 730,000 manufacturing jobs.",0.6422,0.4386,0.5666
+S030,78,2,We announced the opening of more than 20 new auto plants in the United States.,0.7031428571428572,0.44542857142857145,0.5815714285714285
+S030,78,3,And we did it by investing in American industry and American workers.,0.67225,0.5640000000000001,0.6845
+S030,79,0,"And I will make sure that America, not China, wins the competition for the 21st century, which is why, under my plan, we will invest in the industries that built America, like steel, iron, and the great American auto industry.",0.6596315789473683,0.4747894736842104,0.7008421052631578
+S030,79,1,"I see you, Shawn.",0.635,0.269,0.312
+S030,80,0,"And we will ensure that the next generation of breakthroughs, from advanced batteries to electric vehicles, are not only invented but built right here in America by American union workers.",0.7081428571428571,0.4850714285714286,0.6786428571428572
+S030,81,0,"And, Michigan, let us be clear: Contrary to what my opponent is suggesting, I will never tell you what kind of car you have to drive.",0.6099230769230769,0.4197692307692308,0.551923076923077
+S030,81,1,But here’s what I will do.,0.6839999999999999,0.478,0.6355
+S030,81,2,"I will invest in communities like Flint, which helped build the auto industry and the UAW.",0.667,0.47177777777777774,0.6288888888888889
+S030,82,0,"We will retool existing factories, hire locally, and work with unions to create good-paying jobs, including jobs that do not require a college degree, because we understand a college degree is not the only measure of whether a worker has skills and experience to get the job done.",0.7104814814814815,0.4695185185185185,0.663925925925926
+S030,83,0,"In fact, part of my plan is to outline all of the federal jobs that should not require a college degree and make that clear.",0.6492500000000001,0.3978333333333333,0.6143333333333335
+S030,83,1,"And when I’m elected, I’m going to challenge the private sector to take on the same approach.",0.620142857142857,0.49400000000000005,0.5698571428571428
+S030,84,0,And then there’s Donald Trump.,0.64,0.716,0.898
+S030,85,0,"So, Donald Trump has a very different approach.",0.65525,0.47275,0.6435
+S030,85,1,"So, Donald Trump makes big promises, and he always fails to deliver.",0.6181666666666668,0.5286666666666666,0.605
+S030,86,0,He said he was the only one who could bring back America’s manufacturing jobs.,0.6004285714285714,0.40128571428571425,0.5321428571428571
+S030,86,1,Remember that?,0.776,0.422,0.454
+S030,87,0,"And then America lost nearly 200,000 manufacturing jobs when he was president, including tens of thousands of jobs in Michigan.",0.6124444444444445,0.46811111111111114,0.5907777777777777
+S030,87,1,"And those losses started before the pandemic, making Donald Trump one of the biggest losers of manufacturing jobs in American history.",0.5211818181818182,0.5317272727272727,0.5758181818181818
+S030,88,0,And his track record for the auto industry was a disaster.,0.4955,0.5003333333333334,0.5581666666666667
+S030,88,1,"He promised workers in Warren that the auto industry would, I’ll quote, “not lose one plant” during his presidency.",0.5923636363636363,0.48563636363636353,0.5345454545454545
+S030,88,2,And then American automakers announced the closure of six auto plants when he was president.,0.5815714285714285,0.37185714285714283,0.5274285714285715
+S030,89,0,We need a medic over here.,0.505,0.5229999999999999,0.39249999999999996
+S030,89,1,We need a medic over here.,0.505,0.5229999999999999,0.39249999999999996
+S030,89,2,Right here.,0.74,0.352,0.71
+S030,90,0,Okay.,,,
+S030,90,1,"Can everyone part so the medic can come through, please?",0.6032,0.3478,0.4822
+S030,90,2,Let’s let the medic through.,0.45133333333333336,0.40599999999999997,0.3996666666666666
+S030,91,0,"So, remembering, again, what Donald Trump talked about versus what he did.",0.5976,0.4992,0.5968
+S030,91,1,"Then automakers, American automakers announced the closure of six plants when he was president, including General Motors in Warren and Stellantis in Detroit.",0.5982,0.40170000000000006,0.5675000000000001
+S030,92,0,Thousands of Michigan autoworkers lost their jobs.,0.5186666666666667,0.5196666666666667,0.4483333333333333
+S030,92,1,"And when it came to building the cars of the future, Donald Trump sat on the sidelines and let China dominate.",0.5966,0.4699,0.6116
+S030,93,0,"And then he talked down to American workers, saying we can’t compete with Chinese workers.",0.612142857142857,0.4695714285714286,0.5640000000000001
+S030,94,0,"And make no mistake, Donald Trump is no friend of labor.",0.617,0.5021666666666667,0.5601666666666666
+S030,94,1,He encouraged automakers to move their plants out of Michigan so they could pay their workers less.,0.6395,0.4925,0.5148333333333334
+S030,95,0,"And when the UAW went on strike to demand higher wages that they deserved, Donald Trump went to a nonunion shop, don’t forget, and he attacked the UAW.",0.5532499999999999,0.5951666666666666,0.5715833333333332
+S030,95,1,"And he said striking and collective bargaining don’t make, quote, “a damn bit of difference.”",0.5141,0.5407,0.5064
+S030,96,0,"Remember how he’s talked about striking workers, that you should fire them.",0.613,0.5993999999999999,0.6048
+S030,96,1,That’s how he talks about union labor.,0.7603333333333332,0.4036666666666666,0.7046666666666667
+S030,96,2,That’s how he talks about workers.,0.776,0.472,0.639
+S030,97,0,"But, Flint, we know strong unions mean higher wages, better health care, and greater dignity for union members and for everyone.",0.7653076923076922,0.42092307692307696,0.6842307692307692
+S030,98,0,"And on top of all of that, Donald Trump signed a $2 trillion tax cut that mostly went to the wealthy and big corporations, not to working people.",0.6145000000000002,0.4916666666666667,0.6221666666666666
+S030,99,0,And now he is making the same empty promises to the people in Michigan that he did before.,0.6065,0.3818333333333333,0.47583333333333333
+S030,99,1,But we will not be fooled.,0.4729999999999999,0.4466666666666666,0.5100000000000001
+S030,99,2,We will not be gaslighted.,0.6839999999999999,0.32399999999999995,0.6445000000000001
+S030,99,3,Donald Trump’s track record is a disaster for working people.,0.5337142857142857,0.5267142857142857,0.5695714285714285
+S030,100,0,"And if he wins again, it will be more of the same.",0.765,0.4473333333333333,0.7256666666666667
+S030,100,1,Check this out.,0.523,0.552,0.602
+S030,100,2,"Two days ago, his running mate, maybe you saw that.",0.5748333333333332,0.4275,0.4709999999999999
+S030,100,3,"No, but … How about that Tim Walz, by the way?",0.48,0.275,0.42
+S030,100,4,That’s right.,0.74,0.352,0.71
+S030,100,5,That’s right.,0.74,0.352,0.71
+S030,101,0,"So, two days ago, Donald Trump’s running mate suggested that if Trump wins, he might let the Grand River assembly plant in Lansing close down, the same plant that our administration helped save earlier this year, along with 650 union jobs.",0.6376666666666666,0.42887499999999995,0.557625
+S030,102,0,"Michigan, we together fought hard for those jobs.",0.60025,0.62725,0.7000000000000001
+S030,102,1,And you deserve a president who won’t put them at risk.,0.5874,0.5359999999999999,0.6537999999999999
+S030,103,0,"And for anybody watching, you know, if you want to learn more about Donald Trump’s plans, just google Project 2025.",0.6872857142857143,0.53,0.7197142857142858
+S030,104,0,It is a detailed and dangerous blueprint for what he will do if he is elected president.,0.573888888888889,0.4488888888888889,0.6186666666666666
+S030,104,1,"Donald Trump will give billionaires and corporations massive tax cuts, attack unions, cut Social Security and Medicare, and impose a Trump sales tax, a 20% tax on everyday basic necessities, which will cost the average family nearly $4,000 a year.",0.5917307692307692,0.4766923076923077,0.6219615384615385
+S030,105,0,"And on top of all this, Donald Trump intends to end the Affordable Care Act even after he tried to repeal it time and time again when he was president and still has no plan to replace it.",0.6015,0.4609375,0.6003750000000001
+S030,106,0,"Now, you know, I have said that I do believe he is an unserious man.",0.7023333333333334,0.36966666666666664,0.5918333333333333
+S030,106,1,"And the consequences of him being president again are absolutely, critically serious.",0.5514,0.4556,0.6586000000000001
+S030,106,2,"‘Cause, think about it.",0.786,0.408,0.618
+S030,106,3,"Even on health care, he has a concept of a plan.",0.728,0.3982,0.6018000000000001
+S030,106,4,"So, he’s going to threaten the health insurance of 45 million people in our country based on a concept?",0.6165555555555555,0.4597777777777778,0.6222222222222222
+S030,107,0,"To take us back, do you remember that, when insurance companies could deny people with preexisting conditions?",0.6447777777777779,0.45566666666666666,0.5234444444444445
+S030,107,1,Remember what that was like?,0.7216666666666667,0.3383333333333333,0.48466666666666663
+S030,108,0,"Well, Michigan, we are not …",0.67,0.24,0.554
+S030,109,0,"And these 32 days out from the election, it’s important that we remind people how we got here.",0.706,0.4711666666666667,0.601
+S030,109,1,Donald Trump handpicked three members of the United States Supreme Court with the intention that they would overturn Roe v.,0.579909090909091,0.503,0.6249999999999999
+S030,109,2,"Wade, and they did.",0.5900000000000001,0.6020000000000001,0.504
+S030,109,3,"And now more than one in three women in America lives in a state with a Trump abortion ban, many with no exceptions even for rape and incest, which is immoral.",0.41333333333333333,0.5665,0.537
+S030,110,0,"And when Congress passes a bill to restore reproductive freedom, as President of the United States, I will proudly sign it into law.",0.6614166666666667,0.4716666666666667,0.7039166666666667
+S030,110,1,Proudly.,,,
+S030,111,0,And here’s what I want to say.,0.621,0.476,0.54
+S030,111,1,"Look, and that’s not our only battle.",0.542,0.6869999999999999,0.7415
+S030,111,2,"Across our nation, we are witnessing a full-on assault on other hard-fought, hard-won freedoms and rights, like the freedom to vote; the freedom to be safe from gun violence; the freedom to join a union; the freedom to love who you love openly and with pride; and the freedom to breathe clean air and drink clean water.",0.6931515151515151,0.46015151515151503,0.6587272727272727
+S030,112,0,"Flint, you know all too well, Flint, that clean water should be a right for everyone, not just for the people who can afford it.",0.6693,0.3464,0.5498
+S030,112,1,"And as president, I will continue to work with communities like Flint to ensure you not only have clean water but the opportunity to recover economically and thrive.",0.7607857142857143,0.4333571428571429,0.6602857142857144
+S030,113,0,"So, Michigan, it all comes down to this.",0.3685,0.2995,0.41100000000000003
+S030,113,1,"We are all here together because we know what is at stake, and we love our country.",0.7261428571428572,0.3934285714285715,0.6137142857142858
+S030,113,2,We love our country.,0.849,0.4565,0.683
+S030,113,3,We love our country.,0.849,0.4565,0.683
+S030,114,0,"So, Election Day is in 32 days.",0.6832499999999999,0.32425000000000004,0.49575
+S030,114,1,And already nearly 2 million ballots are in the hands of Michigan voters alone.,0.5756666666666668,0.3778333333333333,0.5213333333333333
+S030,115,0,"So, if you have received your ballot, please do not wait.",0.5636,0.3802,0.46240000000000003
+S030,115,1,Fill it out and return it today.,0.7123333333333334,0.389,0.4873333333333334
+S030,115,2,"Early voting starts statewide on October 26th, and now is the time to make your plan to vote, because, folks, the election is here.",0.6432727272727273,0.4168181818181818,0.5859090909090909
+S030,115,3,The election is here.,0.6475,0.3795,0.6025
+S030,115,4,"And we need to energize, organize, and mobilize.",0.677,0.68075,0.6457499999999999
+S030,115,5,"And remember: Your vote is your voice, and your voice is your power.",0.6578571428571428,0.394,0.602857142857143
+S030,115,6,"So, Flint, today I ask: Are you ready to make your voices heard?",0.667,0.375625,0.501375
+S030,116,0,Do we believe in freedom?,0.8066666666666666,0.4873333333333334,0.7076666666666668
+S030,117,0,God bless you.,0.8435,0.3935,0.737
+S030,117,1,And God bless the United States of America.,0.7575000000000001,0.3845,0.71525

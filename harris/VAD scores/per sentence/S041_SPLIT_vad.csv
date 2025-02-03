@@ -1,0 +1,151 @@
+speech_id,line_id,sentence_id,sentence_text,valence,arousal,dominance
+S041,0,0,"I also want to thank the other champions for reproductive freedom who are here, Secretary Xavier Becerra, who is here.",0.742,0.4665000000000001,0.6175
+S041,0,1,Congresswoman Alma Adams.,,,
+S041,0,2,"Congressman Jeff Jackson, who tells a real good story.",0.6983333333333333,0.44966666666666666,0.7093333333333334
+S041,0,3,North Carolina Attorney General Josh Stein.,0.6549999999999999,0.4443333333333333,0.6856666666666666
+S041,0,4,"And Ethel Isaacs Williams, the national president of The Links, Incorporated.",0.6875,0.4935,0.8180000000000001
+S041,1,0,Thank you all.,0.958,0.353,0.526
+S041,1,1,"Thank you, thank you, thank you all.",0.9579999999999999,0.353,0.526
+S041,1,2,"Oh, it’s good to be back in North Carolina, I can tell you that.",0.6316666666666667,0.321,0.46416666666666667
+S041,1,3,It certainly is.,,,
+S041,1,4,"Well, let me start by thanking Dr.",0.676,0.447,0.5179999999999999
+S041,1,5,Amy Bryant.,,,
+S041,1,6,"You have heard from her, you know her, she’s extraordinary.",0.761,0.375,0.6485
+S041,1,7,"Like so many of our medical health professionals, these are very trying times.",0.7456666666666667,0.38433333333333336,0.5376666666666666
+S041,1,8,"And I was talking with some folks backstage about the fact that in times like this, in times of struggle, in times of hardship, these moments also reveal the heroes among us, the people who have the courage to stand strong in service of others, and truly, Dr.",0.646,0.42950000000000005,0.5656666666666667
+S041,1,9,Bryant is one of those people.,0.542,0.292,0.37
+S041,1,10,"So thank you for your introduction, and all that you do for your patients here in North Carolina.",0.7196666666666668,0.38533333333333336,0.504
+S041,1,11,"I also want to thank my husband, the first second gentleman of the United States.",0.7246666666666667,0.4291666666666667,0.6094999999999999
+S041,1,12,"I want to thank my longstanding and dear friend, the governor of North Carolina, Roy Cooper.",0.708,0.4734,0.6274000000000001
+S041,1,13,"I think many of you may know, Roy and I actually served together when I was Attorney General of California and he was Attorney General of North Carolina.",0.720375,0.4355,0.6481250000000001
+S041,1,14,"I have known him for a long time, he is an extraordinary leader, who always stands up for the rights and the freedoms of the people of North Carolina.",0.6804,0.425,0.5892000000000001
+S041,1,15,"Roy, thank you.",0.958,0.353,0.526
+S041,2,0,"We are here today because one year ago today, the United States Supreme Court, the highest court in our land, General Stein, the court of Thurgood, the court of RBG, took a constitutional right that had been recognized From the people of America, from the women of America, a fundamental right, a basic freedom.",0.6497058823529411,0.4632941176470588,0.6748823529411764
+S041,2,1,"And I know most of us here remember where we were on that day a year ago when the court decided Dobbs, June 24th, 2022.",0.5996666666666667,0.3975,0.5321666666666667
+S041,2,2,"I was actually on my way traveling from Washington, DC to a maternal health event in Illinois when I heard the news.",0.7814,0.5084,0.5702
+S041,2,3,"Outraged, I called my husband, Doug, because there were a collection of words that were coming to mind that would not have been proper for me to speak with some other people.",0.6689999999999999,0.3496666666666666,0.524888888888889
+S041,2,4,"And together he and I talked, we talked about our daughter, we talked about my goddaughters, about my niece and her daughters.",0.8225,0.356,0.529
+S041,2,5,And I couldn’t help but think that their generation would have fewer rights than my generation or my mother’s generation.,0.7525000000000001,0.44,0.578
+S041,2,6,"And so the three words that came to me that I publicly spoke were, “How dare they?",0.6829999999999999,0.4286,0.5298
+S041,2,7,How dare they?,0.677,0.788,0.684
+S041,2,8,How dare they?” How dare they attack basic healthcare?,0.5707500000000001,0.6565,0.6082500000000001
+S041,2,9,How dare they attack our fundamental rights?,0.557,0.7193333333333333,0.7523333333333334
+S041,2,10,How dare they attack our freedom?,0.48150000000000004,0.868,0.677
+S041,2,11,"And sadly, one year ago, we accurately predicted what would happen in a world without Roe.",0.5751999999999999,0.4104,0.5025999999999999
+S041,2,12,We knew this decision would create a healthcare crisis in America.,0.5826,0.5426,0.6232
+S041,2,13,"We knew that old abortion bans would immediately go back into effect, one which was written in 1849.",0.4595714285714286,0.4684285714285714,0.44099999999999995
+S041,2,14,"Now, check this out, 1849.",0.523,0.552,0.602
+S041,2,15,"1849, before women had the right to vote, 1849, before the elevator, the telephone, and even the light bulb had been invented.",0.6910000000000002,0.2933333333333333,0.5096666666666667
+S041,2,16,"And now we know in the midst of this healthcare crisis, extremists, so- called leaders in states across our nation have proposed or passed more than 350 new laws to restrict these freedoms and the right to have access to reproductive healthcare.",0.6575454545454544,0.4278181818181819,0.629909090909091
+S041,2,17,"Right now in our country, 23 million women of reproductive age live in a state with an extreme abortion ban in effect.",0.5372222222222223,0.5645555555555556,0.6385555555555555
+S041,2,18,"23 million women, which means right now in our country, 1 in 3 women of reproductive age live in a state with a ban.",0.7005714285714287,0.4564285714285714,0.6594285714285715
+S041,2,19,"States like Arizona, Florida, Georgia, Texas, and Wisconsin.",0.719,0.353,0.446
+S041,2,20,Some with no exceptions even for survivors of the crimes of rape and incest.,0.062,0.856,0.527
+S041,3,0,"Now, many of you know, I started my career as a prosecutor intent on protecting, in particular women and children who were the subject and survivors of violence.",0.6268333333333332,0.4946666666666666,0.5745
+S041,3,1,It’s immoral that so-called leaders would not understand and have some compassion for what those exceptions should be.,0.5776,0.4109999999999999,0.5114
+S041,3,2,"Some of the laws are banning at or before six weeks, the right to have an access to have an abortion.",0.6936,0.3512,0.5468
+S041,4,0,"Now, what most of us here know is that many women don’t even know they are pregnant at six weeks, which by the way, tells us most of these politicians don’t even understand how a woman’s body actually works.",0.7081666666666666,0.414,0.5716666666666667
+S041,4,1,They don’t get it.,0.74,0.594,0.667
+S041,4,2,They don’t get it.,0.74,0.594,0.667
+S041,4,3,"And next week, overruling the will of the people, North Carolina will be the latest state with an extreme ban in spite of the best efforts of Governor Roy Cooper.",0.467,0.48922222222222217,0.6263333333333334
+S041,4,4,"And so, over the past 365 days, the women",0.49,0.422,0.311
+S041,5,0,"This is a room full of leaders, a room full of leaders.",0.6655,0.269,0.5745
+S041,5,1,So we gather here with knowledge and a deep and profound belief that America is a promise.,0.7272000000000001,0.46679999999999994,0.6982
+S041,5,2,A promise.,,,
+S041,5,3,A promise of freedom and freedom for all.,0.9203333333333332,0.5293333333333333,0.8380000000000001
+S041,5,4,"A promise that each person can determine their own future, dream with ambition, and live with dignity.",0.7444999999999999,0.40349999999999997,0.589
+S041,5,5,A promise that every person truly has the ability to thrive.,0.7813333333333333,0.45766666666666667,0.7053333333333333
+S041,5,6,"Since the founding of our country, we all know generations of Americans have struggled, sacrificed, and bled to make that promise real.",0.7454000000000001,0.41479999999999995,0.6758
+S041,5,7,They spoke out at Seneca Falls.,0.635,0.433,0.483
+S041,5,8,They sat in at a lunch counter in Greensboro.,0.6595,0.44399999999999995,0.646
+S041,5,9,They organized farm workers in California.,0.7985,0.332,0.5215
+S041,5,10,They fought for equality at the Stonewall Inn.,0.6175,0.381,0.6855
+S041,5,11,"And in the relay race of history, the baton they carried is now in our hands.",0.523,0.39625,0.5635000000000001
+S041,5,12,"We, all of us, are now called upon to advance the promise of freedom, including the freedom of every woman to make decisions about her own body.",0.7697999999999999,0.4628,0.6930000000000001
+S041,5,13,Not the government telling her what to do.,0.573,0.48550000000000004,0.6885
+S041,6,0,"I know these stories are so hard to hear, so difficult to tell, but we cannot in our nation, allow people to silently suffer without telling their stories in a way that hopefully understands the importance of uplifting their voices in support and in love, and with a sense of empathy and agreement that they shouldn’t have to have those kinds of experiences.",0.6146470588235294,0.47017647058823536,0.5602941176470588
+S041,7,0,And Anya’s here today with her husband Derek.,0.7885,0.403,0.5085
+S041,7,1,I want to thank you for telling your story.,0.7826666666666666,0.47866666666666663,0.5503333333333335
+S041,7,2,I talked with Anya and Derek.,,,
+S041,7,3,My husband and I talked with them before we all came out.,0.771,0.5,0.655
+S041,7,4,"And I’ll say it to you in front of all the friends, what we talked about backstage if you don’t mind, which is you are a loving couple and you have the great blessing of having that support in your family, and in spite of the pain that you have personally experienced, the kind of courage you have shown to be a voice for so many people who can’t be here or feel alone, is so important.",0.692157894736842,0.4527894736842105,0.5992105263157894
+S041,7,5,And we thank you for your courage and we thank you for your leadership.,0.9153333333333332,0.478,0.6336666666666667
+S041,8,0,And I guess the point of this is that this should not be the subject of some political discourse.,0.5498,0.394,0.5720000000000001
+S041,8,1,"These are, we’re talking about real people every day in our country.",0.6806666666666666,0.393,0.5353333333333333
+S041,8,2,"Real people every day who are being subjected to judgment, being made to feel as though they should be silent.",0.6333333333333333,0.42350000000000004,0.4961666666666667
+S041,8,3,We can’t stand for that.,0.6,0.324,0.509
+S041,8,4,We can’t tolerate that.,0.724,0.43,0.588
+S041,8,5,It’s just not right.,,,
+S041,9,0,"Over these past 365 days, doctors and nurses have also experienced this chaos and confusion and fear.",0.45779999999999993,0.6028,0.4936
+S041,9,1,"They are not only afraid to lose their medical license, which they might.",0.236,0.562,0.3456666666666666
+S041,9,2,"These medical professionals, people who have dedicated themselves to the care of perfect strangers, have told me that they fear being prosecuted and going to jail.",0.6404285714285715,0.46171428571428574,0.5664285714285715
+S041,9,3,"And be clear, in Texas and Alabama, doctors and nurses could go to prison for life.",0.43066666666666675,0.4526666666666667,0.4963333333333333
+S041,9,4,"Can you imagine someone passing a law saying life imprisonment for a healthcare provider, doing what in their medical judgment is the right thing to do?",0.6016363636363636,0.44654545454545463,0.6083636363636363
+S041,9,5,"In these past 365 days, extreme laws creating chaos and confusion and fear, laws that have also impaired access to other basic women’s healthcare issues.",0.4575,0.4856000000000001,0.43950000000000006
+S041,9,6,"Because you understand, everybody here knows reproductive care clinics have been forced to close.",0.6090000000000001,0.521,0.60175
+S041,9,7,Those clinics that offer routine checkups for so many people in the community.,0.573,0.4546666666666666,0.47633333333333333
+S041,9,8,Trusted by the community.,,,
+S041,9,9,They offer referrals from mammograms and other cancer screenings.,0.4246666666666667,0.5563333333333333,0.4613333333333333
+S041,9,10,"The impact to women’s health issues broadly, is very real.",0.702,0.6555,0.6635
+S041,10,0,"So one year after the Dobbs decision, we have also seen many women question whether they can even move to any of these states that are passing these extreme laws.",0.555625,0.43500000000000005,0.530125
+S041,10,1,"They’re asking their friends, their families, should I consider going to that state when deciding where to go to school, where to take a job, where to raise a family?",0.6923999999999999,0.4702,0.5479999999999999
+S041,11,0,"And North Carolina, please let us do note the hypocrisy at play with these extremists so-called leaders.",0.5316666666666667,0.43783333333333335,0.40616666666666673
+S041,11,1,The hypocrisy.,,,
+S041,11,2,Because the very people who claim to care about the health of women and babies are the same people who do not treat the maternal mortality crisis as the crisis it is.,0.532909090909091,0.5673636363636363,0.5009090909090909
+S041,11,3,The hypocrisy.,,,
+S041,11,4,"In the top 10 states in our country with the highest rates of maternal mortality, you see these bans in effect.",0.7422000000000001,0.42400000000000004,0.5805999999999999
+S041,11,5,The hypocrisy.,,,
+S041,11,6,"Just consider over half of the counties in Georgia, Oklahoma, and Texas have no OBGYN.",0.6446666666666667,0.34366666666666673,0.48266666666666663
+S041,11,7,I did not say a few.,0.571,0.31,0.482
+S041,11,8,"I said none, not one.",,,
+S041,11,9,"So as we clearly see the moment we are in and we are united in this movement, we must also understand the larger context.",0.6528333333333333,0.42416666666666664,0.5751666666666666
+S041,11,10,This fight is not only about the people of one particular state.,0.55975,0.49050000000000005,0.5577500000000001
+S041,11,11,"These extremists plan to take their agenda, national.",0.737,0.5385,0.5405
+S041,12,0,Women of our nation have suffered under the consequences of these laws.,0.6755,0.41600000000000004,0.707
+S041,12,1,"Laws that in design and effect have created chaos, confusion, and fear.",0.7076666666666668,0.41133333333333333,0.611
+S041,12,2,"Laws that have denied the women of our country care, even when their life and health were at risk.",0.6992,0.48579999999999995,0.5988
+S041,12,3,"Women like Kristen from Texas, who during her miscarriage was rushed to the emergency room, who was turned away after the hospital consulted with their lawyers about criminal liability under her state’s extreme ban.",0.362375,0.654875,0.57025
+S041,12,4,"Kristen, who only received care after she developed sepsis, an infection that could have killed her.",0.55375,0.4825,0.51525
+S041,12,5,"Women like Anya from Florida, who after her water broke prematurely, was also rushed to the emergency room, who was then told sadly for she and her husband, that she would lose her pregnancy and she could die, who was also turned away and refused treatment because of that states extreme law and who hours later nearly bled to death in a public bathroom after a miscarriage.",0.4418125,0.515125,0.47575
+S041,13,0,"So, let’s see the big picture at play here.",0.74075,0.48250000000000004,0.486
+S041,13,1,"And, of course, a year after Dobbs, it is clear where this is headed.",0.6995,0.3055,0.494
+S041,13,2,Extremist Republicans in Congress have proposed to ban abortion nationwide.,0.3585,0.573,0.58
+S041,13,3,Nationwide.,,,
+S041,13,4,But I have news for them: We’re not having that.,0.6950000000000001,0.4845,0.6014999999999999
+S041,13,5,We’re not having that.,,,
+S041,13,6,We’re not standing for that.,0.604,0.317,0.425
+S041,13,7,We won’t let that happen.,0.427,0.373,0.307
+S041,13,8,"And, by the way, the majority of Americans are with us.",0.684,0.56,0.93
+S041,13,9,"The majority of Americans, I do believe, agree that one does not have to abandon their faith or deeply held beliefs to agree the government should not be telling her what to do with her body.",0.6529999999999999,0.40058333333333335,0.5828333333333333
+S041,13,10,"If she chooses, she will talk with her pastor, her priest, her rabbi.",0.7655,0.377,0.6645
+S041,13,11,But it should not be the government telling her what to do.,0.6053333333333333,0.4036666666666667,0.6436666666666667
+S041,14,0,"And I do believe that the majority of Americans agree that an important attribute of a true leader is the ability to have empathy, to truly have some curiosity and concern and care for the struggles of other people.",0.7311999999999999,0.4801333333333334,0.6476
+S041,14,1,"This having been the approach, by the way, of people from Kentucky to California, voters of every party, who just last year protected reproductive rights.",0.6925,0.4165,0.62
+S041,15,0,"And so, while Americans make their voices heard across our nation, President Biden and I will continue to do our part.",0.6718,0.485,0.6672
+S041,15,1,"Our administration has taken action to protect access to emergency medical care, to support women forced to travel out of state for care, and to protect women’s privacy.",0.6374545454545455,0.6070000000000001,0.6598181818181819
+S041,15,2,"But we know this fight will not truly be won until we secure this right for every American, which means, ultimately, the United States Congress must put back in place what the Supreme Court took away.",0.6219999999999999,0.4533571428571429,0.6822857142857143
+S041,15,3,And have the courage to stand for freedom in every way.,0.7889999999999999,0.49625,0.714
+S041,15,4,The United States Congress must pass legislation to restore the protections of Roe v.,0.562,0.41014285714285714,0.6105714285714285
+S041,15,5,Wade.,,,
+S041,15,6,"And when they do, President Joe Biden will sign it.",0.665,0.5036666666666667,0.7016666666666667
+S041,16,0,"So, North Carolina, all that to say also that elections matter and organizing works.",0.5296666666666666,0.306,0.498
+S041,16,1,"So, together, let us continue to build this movement to-",0.621,0.5,0.59575
+S041,17,0,"So, North Carolina, let’s stand because we believe medical decisions should be made by a woman and her doctor, not politicians.",0.633,0.3124,0.5622
+S041,17,1,"Stand if you want to end the crisis of maternal mortality, to institute national family and parent paid leave.",0.6228888888888889,0.45866666666666667,0.6047777777777779
+S041,17,2,Stand to pass the affordable child care and to uphold the rights of all people to own their future.,0.699,0.371,0.47685714285714287
+S041,17,3,Stand if you love our country.,0.8,0.4215,0.591
+S041,17,4,"Because we are fueled by our love of country, and we stand knowing what we must fight for and what’s at stake.",0.6744,0.48919999999999997,0.618
+S041,17,5,"And, again, I will say: When we fight, we win.",0.698,0.408,0.735
+S041,17,6,Thank you.,0.958,0.353,0.526
+S041,18,0,A movement … I love you.,0.8280000000000001,0.5865,0.6655
+S041,18,1,"Let’s build our movement, a movement to secure the rights every American.",0.757,0.5266666666666667,0.7926666666666667
+S041,18,2,"Today, 365 days after the Dobbs decision, people in states across our nation are making their voices heard.",0.599,0.4215,0.6605
+S041,18,3,"For example, in Florida and Ohio, folks are collecting signatures and registering people to vote to secure reproductive freedom on their ballot.",0.7537999999999999,0.4856,0.7647999999999999
+S041,18,4,"Across our nation, people are speaking out.",0.6785,0.495,0.5375
+S041,18,5,They’re raising money to support reproductive freedom.,0.79,0.55075,0.7657499999999999
+S041,18,6,And just look around.,0.719,0.429,0.615
+S041,18,7,Just look around.,0.719,0.429,0.615
+S041,18,8,"Together, here, people of every background.",0.604,0.4,0.5
+S041,18,9,I wish you could see what I’m looking at.,0.7030000000000001,0.426,0.47950000000000004
+S041,18,10,"People of every background, every age, from everywhere, together, are standing in defense of fundamental, foundational principles for our country; standing in defense for freedom and democracy, for civil rights and human rights and women’s rights.",0.6745555555555556,0.42833333333333334,0.6467777777777778
+S041,18,11,"And I do believe that when you know what you stand for, you know what to fight for.",0.6853333333333333,0.472,0.6573333333333333

@@ -1,0 +1,261 @@
+speech_id,line_id,sentence_id,sentence_text,valence,arousal,dominance
+S028,0,0,"Let me just say, it’s good to be here with all of the friends, all of the leaders who are here.",0.7197142857142858,0.3747142857142857,0.5688571428571428
+S028,0,1,"I want to thank former Governor Ed Rendell, Senator Bob Casey, who we will re-elect this November, Senator John Fetterman, Mayor Sherrell Parker, and Chairman Jamie Harrison.",0.5884444444444444,0.48444444444444446,0.7236666666666667
+S028,0,2,"It is so good to be here with your incredible governor, Josh Shapiro.",0.727,0.4654,0.6956
+S028,0,3,"I’ll say Josh is a dear, dear friend, and an extraordinary leader.",0.8155714285714286,0.44871428571428573,0.6647142857142857
+S028,0,4,"He and I have been spending a lot of time together over the years, and I told Josh, look, I am so, so invested in our friendship in doing this together because together with Josh Shapiro, we will win Pennsylvania.",0.7066470588235294,0.4040588235294118,0.5940588235294116
+S028,0,5,We’ll win Pennsylvania.,0.927,0.694,0.888
+S028,0,6,"I thank you, Josh.",0.958,0.353,0.526
+S028,0,7,I thank you.,0.958,0.353,0.526
+S028,1,0,"Philadelphia, I launched my campaign for the President of the United States a mere two weeks ago, and it’s been a bit of a whirlwind.",0.5469166666666666,0.44283333333333336,0.5470833333333333
+S028,1,1,"Just last night, the delegates to the Democratic National Convention finished voting, and so I stand before you today to proudly announce I am now officially the Democratic nominee for President of the United States.",0.6694375,0.4616875,0.6577500000000001
+S028,1,2,Now we got some work to do.,0.7096666666666667,0.5793333333333334,0.651
+S028,1,3,We need to move to the general election and win that.,0.7104,0.5836,0.6524
+S028,1,4,"To all the friends, listen, we also need to level set.",0.6706,0.44060000000000005,0.4782
+S028,1,5,"We are the underdogs in this race, but we have the momentum and I know exactly what we are up against.",0.623857142857143,0.40228571428571425,0.5681428571428572
+S028,2,0,"Now, many of you know, before I was elected vice president or elected a United States Senator, I was an elected attorney general and before that, elected district attorney.",0.6220000000000001,0.4768125,0.696125
+S028,2,1,"Before that, I was a courtroom prosecutor.",0.5016666666666667,0.467,0.7456666666666667
+S028,2,2,"In those roles, I took on perpetrators of all kinds.",0.63175,0.4505,0.492
+S028,2,3,"Predators who abused women, fraudsters who scammed consumers, cheaters who broke the rules for their own gain, so hear me when I say I know Donald Trump’s type.",0.4783333333333333,0.5718333333333333,0.55825
+S028,3,0,"Wait, let me just say… Let me say, hold on, hold on, hold on.",0.4455,0.300375,0.36674999999999996
+S028,3,1,"This campaign, our campaign, is not just a fight against Donald Trump.",0.6090000000000001,0.6567999999999999,0.7814000000000001
+S028,3,2,"Our campaign, this campaign, is a fight for the future.",0.6586000000000001,0.6424000000000001,0.7590000000000001
+S028,3,3,It’s a fight for the future.,0.7095,0.756,0.7975000000000001
+S028,3,4,"Pennsylvania, we fight for a future with affordable housing, affordable healthcare, affordable childcare, paid leave.",0.7093333333333334,0.4783333333333334,0.5757777777777778
+S028,3,5,"We fight for a future where we build a broad-based economy where every American has the opportunity to own a home, to start a business, and to build wealth.",0.757,0.5369166666666666,0.7323333333333334
+S028,4,0,"We fight for a future where we bring down prices that are still too high and lower the cost of living for America’s families so that they have a chance not just to get by, but to get ahead.",0.649875,0.49262500000000004,0.5760000000000001
+S028,4,1,We fight for a future where we defend our most fundamental freedoms.,0.7588,0.64,0.8146000000000001
+S028,4,2,"The freedom to vote, the freedom to be safe from gun violence, the freedom to love who you love openly and with pride, and the freedom of a woman to make decisions about her own body, not having her government tell her what to do.",0.69975,0.51715,0.70435
+S028,4,3,I love you too.,1.0,0.519,0.673
+S028,5,0,Here’s the thing.,0.449,0.222,0.26
+S028,5,1,"Since the day that I announced my candidacy, I’ve set out to find a partner who can help build this brighter future.",0.7075454545454545,0.5092727272727273,0.6210000000000001
+S028,5,2,A leader who will help unite our nation and move us forward.,0.7297142857142856,0.47685714285714287,0.7102857142857142
+S028,5,3,"A fighter for the middle class, a patriot who believes, as I do, in the extraordinary promise of America.",0.7206250000000001,0.5015000000000001,0.6735
+S028,5,4,"A promise of freedom, opportunity, and justice not just for some, but for all.",0.8724999999999998,0.58175,0.80725
+S028,6,0,"Pennsylvania, I’m here today because I found such a leader.",0.824,0.4446666666666667,0.5926666666666667
+S028,6,1,Governor Tim Walz of the great state of Minnesota.,0.6733333333333333,0.556,0.7826666666666667
+S028,6,2,"To those who know him best, Tim is more than a governor.",0.645,0.428,0.7306666666666667
+S028,6,3,"To his wife, Gwen, he is a husband.",0.7756666666666666,0.4566666666666667,0.5973333333333334
+S028,6,4,"To his kids, Hope and Gus, he is a dad.",0.8227500000000001,0.36724999999999997,0.624
+S028,6,5,"To his fellow veterans, he is Sergeant Major Walz.",0.6134000000000001,0.42140000000000005,0.7180000000000001
+S028,6,6,"To the people of Southern Minnesota, for 12 years, he was Congressman.",0.5834,0.34199999999999997,0.5618000000000001
+S028,6,7,"To his former high school students, he was Mr.",0.68825,0.37275,0.5845
+S028,6,8,"Walz, and to his former high school football players, he was Coach.",0.6773333333333333,0.5740000000000001,0.627
+S028,6,9,Coach.,0.633,0.823,0.735
+S028,6,10,Coach.,0.633,0.823,0.735
+S028,6,11,"In 91 days, the nation will know Coach Walz by another name, Vice President of the United States.",0.6298,0.4755,0.6639
+S028,6,12,"America, for some folks, they’re just getting to know Coach Walz’s story.",0.6908000000000001,0.5234,0.6484
+S028,6,13,"I’ll tell you, he is the proud product of a middle class family in rural Nebraska.",0.677125,0.35075,0.550625
+S028,6,14,"He is a veteran who served our nation in uniform for more than two decades as a member of the Army National Guard, and he went to college on the GI Bill.",0.577,0.40271428571428564,0.6294285714285716
+S028,6,15,"He is someone who, long before he entered politics, worked as a teacher.",0.608,0.4318333333333333,0.6811666666666666
+S028,6,16,"When Coach Walz and his wife, Gwen, moved from his native Nebraska to Minnesota nearly 30 years ago, they both took jobs at the local high school coach.",0.6699999999999999,0.5195833333333333,0.5924166666666667
+S028,6,17,"Walz taught social studies, Gwen taught English.",0.77175,0.42325,0.6665
+S028,7,0,"After school, Tim was the linebacker’s coach for the football team, where I’ve heard the stories about he had a lnack for using the game of football to teach life lessons.",0.7053999999999999,0.5466,0.6152666666666667
+S028,7,1,He saw the potential in kids who sometimes didn’t even see it in themselves.,0.6528,0.49660000000000004,0.5246
+S028,7,2,"Under those Friday night lights, Coach Walz motivated his players to believe they could achieve anything and together, they defied the odds… Hear this out, going from a winless record to the school’s first ever state championship.",0.6613888888888888,0.5317222222222223,0.6325
+S028,8,0,"Good evening, Philadelphia!",0.698,0.27649999999999997,0.42600000000000005
+S028,8,1,Good evening.,0.698,0.27649999999999997,0.42600000000000005
+S028,8,2,Good evening.,0.698,0.27649999999999997,0.42600000000000005
+S028,8,3,Good evening.,0.698,0.27649999999999997,0.42600000000000005
+S028,8,4,"Good evening, everyone.",0.698,0.27649999999999997,0.42600000000000005
+S028,8,5,Good evening.,0.698,0.27649999999999997,0.42600000000000005
+S028,8,6,Good evening.,0.698,0.27649999999999997,0.42600000000000005
+S028,8,7,"Ooh, it’s good to be back in Pennsylvania.",0.682,0.3203333333333333,0.47466666666666674
+S028,8,8,"Let me say on behalf of myself and the first second gentleman of the United States, my husband, Doug Emhoff, thank you for the warm welcome.",0.6969090909090909,0.3911818181818182,0.5778181818181817
+S028,9,0,"And as I think everyone here can see, Tim Walz was the kind of teacher and mentor that every child in America dreams of having and that every kid deserves.",0.7705000000000001,0.37741666666666673,0.5554166666666668
+S028,9,1,"The kind of coach, because he’s the kind of person, who makes people feel like they belong and then inspires them to dream big.",0.7609166666666667,0.43483333333333335,0.5880833333333334
+S028,9,2,And that’s the kind of Vice President he will be.,0.6517999999999999,0.45760000000000006,0.6719999999999999
+S028,9,3,And that’s the kind of Vice President America deserves.,0.67325,0.519,0.6709999999999999
+S028,10,0,So it was Coach Walz’s students who actually helped him decide to run for office.,0.6049999999999999,0.4972857142857143,0.5990000000000001
+S028,10,1,And he served 12 years in Congress representing a purple district as he reached across the aisle to get things done.,0.613090909090909,0.40927272727272723,0.5559999999999999
+S028,10,2,"He was the highest ranking enlisted man to ever serve in the United States Congress, and the top Democrat on the Veterans Committee, and he was known as one of Capitol Hill’s best marksman, winning a bipartisan sharp shooting contest year after year.",0.6027916666666666,0.4586666666666666,0.628875
+S028,11,0,"In Washington, Tim worked to raise the minimum §wage, to protect the freedom of workers to join a union, and he cast one of the critical votes to pass the Affordable Care Act, which of course gave health insurance to tens of millions of Americans.",0.6925714285714286,0.47800000000000004,0.6097142857142858
+S028,11,1,"I’m going to tell you, when we win, Tim and I will continue to make the Affordable Care Act even stronger.",0.7137,0.4957,0.6239000000000001
+S028,11,2,We will.,0.698,0.408,0.735
+S028,12,0,Now let’s talk about what we’re dealing with on the other side.,0.579,0.33039999999999997,0.4306
+S028,12,1,"So on that last topic, if Donald Trump gets the chance, he will end the Affordable Care Act and take us back to a time when insurance companies have the power to deny people with pre-existing conditions.",0.6468947368421053,0.4654736842105264,0.5870526315789474
+S028,12,2,You remember what that was like?,0.7216666666666667,0.3383333333333333,0.48466666666666663
+S028,12,3,"Children with asthma, breast cancer survivors, grandparents with diabetes.",0.43133333333333335,0.572,0.4641666666666666
+S028,12,4,"Well, Governor Walz and I will not let that happen because we believe healthcare should be a right and not just a privilege for those who can afford it.",0.6684545454545453,0.4593636363636364,0.632090909090909
+S028,12,5,"As governor, Tim has continued to fight for working families.",0.6885,0.5579999999999999,0.6758333333333334
+S028,12,6,"He secured paid leave for workers in Minnesota and he refused as governor to allow any student in their public schools to go hungry, so he made school breakfast and lunch free for every child.",0.6343888888888889,0.4662777777777778,0.539888888888889
+S028,12,7,"And Tim Walz and I, we agree about many things including when our middle class is strong, America is strong.",0.7114444444444445,0.36988888888888893,0.5723333333333334
+S028,12,8,And strengthening in the middle class will be my defining goal as I am President of the United States.,0.6911818181818181,0.37545454545454543,0.661
+S028,13,0,"So Pennsylvania, ours is a fight for the future of the middle class, and it is a fight for freedom.",0.671625,0.484375,0.654875
+S028,13,1,"In this moment, we are witnessing a full-on attack against hard fought, hard won freedoms and rights.",0.5904545454545455,0.5746363636363636,0.6885454545454546
+S028,13,2,Take reproductive freedom.,0.8556666666666666,0.5616666666666666,0.703
+S028,13,3,"Now think about this, Donald Trump said he wants to punish women.",0.5458000000000001,0.5768000000000001,0.6412
+S028,13,4,"And as a result of his actions today in America, one out of three women live in a state with a Trump abortion ban, one out of three.",0.5898333333333333,0.49133333333333323,0.5298333333333333
+S028,13,5,"Some of these bans go back to the 1800s, even before women had a right to vote.",0.5288333333333334,0.45399999999999996,0.5531666666666667
+S028,13,6,Think about that.,0.786,0.408,0.618
+S028,14,0,"Well, Tim and I have a message for Trump and others who want to turn back the clock on our fundamental freedoms: we’re not going back.",0.62175,0.421,0.548
+S028,14,1,We’re not going back.,0.474,0.397,0.39
+S028,14,2,We’re not going back.,0.474,0.397,0.39
+S028,14,3,We’re not going back.,0.474,0.397,0.39
+S028,14,4,We’re not going back.,0.474,0.397,0.39
+S028,14,5,We’re not going back.,0.474,0.397,0.39
+S028,14,6,"And so let me say, about Tim Walz, he has shown up to stand against these attacks long before he stood on the stage with me.",0.5607777777777777,0.4553333333333333,0.5338888888888889
+S028,14,7,"After Roe was overturned, he was the first governor in the country to sign a new law that enshrined reproductive freedom as a fundamental right.",0.6683571428571428,0.47764285714285715,0.6775
+S028,14,8,"And with Tim Walz by my side, when I am President of the United States and we win majorities in the United States Congress, we will pass a bill to restore reproductive freedom, and I will properly sign it into law.",0.6683157894736842,0.45268421052631586,0.7018947368421052
+S028,15,0,Tim Walz has also defended the sacred freedom to vote.,0.7607999999999999,0.4518000000000001,0.7182000000000001
+S028,15,1,"As Governor, he signed the most significant expansion of voting rights in Minnesota in over 50 years.",0.6758571428571428,0.5307142857142857,0.6985714285714285
+S028,15,2,"And with Governor Walz’s help when I am President, we are going to finally pass the John Lewis Voting Rights Act and the Freedom to Vote Act.",0.6382000000000001,0.4828,0.6383333333333333
+S028,15,3,We’re going to get it done.,0.64,0.5276666666666666,0.549
+S028,15,4,"So Tim is a hunter and a gun owner who believes, as the majority of gun owners do that, we need reasonable gun safety laws in America.",0.5678571428571428,0.584642857142857,0.7219285714285714
+S028,15,5,"So as governor, he expanded background checks and increased penalties for illegal firearm sales.",0.4135555555555556,0.6088888888888889,0.6122222222222222
+S028,15,6,"And together, when we win in November, we are finally going to pass universal background checks, red flag laws and an assault weapons ban.",0.5282666666666667,0.5053333333333333,0.6
+S028,16,0,"Through his work, Tim, the way I think about it, he really does shine a light on a brighter future that we can build together.",0.7620909090909092,0.4841818181818183,0.6473636363636364
+S028,16,1,"In his state, he has been a model chief executive.",0.6366666666666667,0.38833333333333336,0.7061666666666667
+S028,16,2,"And with his experience, I’m telling you, Tim Walz will be ready on day one.",0.7064285714285713,0.3794285714285714,0.5897142857142857
+S028,16,3,"In fact, when you compare his resume, shall we, to Trump’s running mate, well, some might say it’s like it’s a matchup between the varsity team and the JV squad.",0.6495833333333333,0.49641666666666673,0.6034166666666666
+S028,16,4,"So Pennsylvania, ultimately in this election, we each face a question, what kind of country do we want to live in?",0.6586666666666666,0.4532222222222222,0.588
+S028,16,5,"A country of freedom, compassion and rule of law?",0.7417999999999999,0.4426,0.703
+S028,16,6,"Or a country of chaos, fear and hate?",0.2045,0.73975,0.4472499999999999
+S028,16,7,"And here’s the beauty of our democracy, we each have the power to answer that question.",0.6741666666666667,0.49033333333333334,0.7000000000000001
+S028,16,8,We each have the power to answer that question.,0.6307499999999999,0.4605,0.6789999999999999
+S028,16,9,The power is with the people.,0.6643333333333333,0.4366666666666667,0.669
+S028,16,10,"We love our country, and I believe it is the highest form of patriotism to fight for the ideals of our country.",0.7169000000000001,0.47990000000000005,0.6834
+S028,16,11,That is how we preserve the promise of America.,0.7766666666666667,0.39033333333333337,0.6709999999999999
+S028,16,12,"And after all, the promise of America is what makes it possible?",0.71625,0.369,0.5715
+S028,16,13,"For two middle-class kids, one, a daughter of Oakland, California who was raised by a working mother, the other, a son of the Nebraska Plains who grew up working on a farm, it’s the promise of America because only in America, only in America, is it possible for them together to make it all the way to the White House.",0.6939545454545455,0.34954545454545455,0.5030454545454545
+S028,16,14,Only in America.,,,
+S028,16,15,Only in America.,,,
+S028,16,16,Only in America.,,,
+S028,17,0,"And so with Tim Walz by my side and with all of you at our side, let us fight for the promise of our future.",0.5911666666666666,0.49350000000000005,0.5660000000000001
+S028,17,1,"And with that, I ask Pennsylvania, are you ready to make your voices heard?",0.6681666666666667,0.37666666666666665,0.5188333333333334
+S028,17,2,Do we believe in freedom?,0.8066666666666666,0.4873333333333334,0.7076666666666668
+S028,17,3,Do we believe in opportunity?,0.7963333333333334,0.5543333333333333,0.6836666666666668
+S028,17,4,Do we believe in the promise of America?,0.758,0.47266666666666673,0.6406666666666666
+S028,17,5,And are we ready to fight for it?,0.657,0.49866666666666665,0.6703333333333333
+S028,17,6,"And when we fight, we win.",0.7290000000000001,0.7809999999999999,0.8485
+S028,17,7,"And now welcome the next Vice President of the United States, Tim Walz.",0.6428,0.5412,0.7008
+S028,18,0,"Let me just say, it’s good to be here with all of the friends, all of the leaders who are here.",0.7197142857142858,0.3747142857142857,0.5688571428571428
+S028,18,1,"I want to thank former Governor Ed Rendell, Senator Bob Casey, who we will re-elect this November, Senator John Fetterman, Mayor Sherrell Parker, and Chairman Jamie Harrison.",0.5884444444444444,0.48444444444444446,0.7236666666666667
+S028,18,2,"It is so good to be here with your incredible governor, Josh Shapiro.",0.727,0.4654,0.6956
+S028,18,3,"I’ll say Josh is a dear, dear friend, and an extraordinary leader.",0.8155714285714286,0.44871428571428573,0.6647142857142857
+S028,18,4,"He and I have been spending a lot of time together over the years, and I told Josh, look, I am so, so invested in our friendship in doing this together because together with Josh Shapiro, we will win Pennsylvania.",0.7066470588235294,0.4040588235294118,0.5940588235294116
+S028,18,5,We’ll win Pennsylvania.,0.927,0.694,0.888
+S028,18,6,"I thank you, Josh.",0.958,0.353,0.526
+S028,18,7,I thank you.,0.958,0.353,0.526
+S028,19,0,"Philadelphia, I launched my campaign for the President of the United States a mere two weeks ago, and it’s been a bit of a whirlwind.",0.5469166666666666,0.44283333333333336,0.5470833333333333
+S028,19,1,"Just last night, the delegates to the Democratic National Convention finished voting, and so I stand before you today to proudly announce I am now officially the Democratic nominee for President of the United States.",0.6694375,0.4616875,0.6577500000000001
+S028,19,2,Now we got some work to do.,0.7096666666666667,0.5793333333333334,0.651
+S028,19,3,We need to move to the general election and win that.,0.7104,0.5836,0.6524
+S028,19,4,"To all the friends, listen, we also need to level set.",0.6706,0.44060000000000005,0.4782
+S028,19,5,"We are the underdogs in this race, but we have the momentum and I know exactly what we are up against.",0.623857142857143,0.40228571428571425,0.5681428571428572
+S028,20,0,"Now, many of you know, before I was elected vice president or elected a United States Senator, I was an elected attorney general and before that, elected district attorney.",0.6220000000000001,0.4768125,0.696125
+S028,20,1,"Before that, I was a courtroom prosecutor.",0.5016666666666667,0.467,0.7456666666666667
+S028,20,2,"In those roles, I took on perpetrators of all kinds.",0.63175,0.4505,0.492
+S028,20,3,"Predators who abused women, fraudsters who scammed consumers, cheaters who broke the rules for their own gain, so hear me when I say I know Donald Trump’s type.",0.4783333333333333,0.5718333333333333,0.55825
+S028,21,0,"Wait, let me just say… Let me say, hold on, hold on, hold on.",0.4455,0.300375,0.36674999999999996
+S028,21,1,"This campaign, our campaign, is not just a fight against Donald Trump.",0.6090000000000001,0.6567999999999999,0.7814000000000001
+S028,21,2,"Our campaign, this campaign, is a fight for the future.",0.6586000000000001,0.6424000000000001,0.7590000000000001
+S028,21,3,It’s a fight for the future.,0.7095,0.756,0.7975000000000001
+S028,21,4,"Pennsylvania, we fight for a future with affordable housing, affordable healthcare, affordable childcare, paid leave.",0.7093333333333334,0.4783333333333334,0.5757777777777778
+S028,21,5,"We fight for a future where we build a broad-based economy where every American has the opportunity to own a home, to start a business, and to build wealth.",0.757,0.5369166666666666,0.7323333333333334
+S028,22,0,"We fight for a future where we bring down prices that are still too high and lower the cost of living for America’s families so that they have a chance not just to get by, but to get ahead.",0.649875,0.49262500000000004,0.5760000000000001
+S028,22,1,We fight for a future where we defend our most fundamental freedoms.,0.7588,0.64,0.8146000000000001
+S028,22,2,"The freedom to vote, the freedom to be safe from gun violence, the freedom to love who you love openly and with pride, and the freedom of a woman to make decisions about her own body, not having her government tell her what to do.",0.69975,0.51715,0.70435
+S028,22,3,I love you too.,1.0,0.519,0.673
+S028,23,0,Here’s the thing.,0.449,0.222,0.26
+S028,23,1,"Since the day that I announced my candidacy, I’ve set out to find a partner who can help build this brighter future.",0.7075454545454545,0.5092727272727273,0.6210000000000001
+S028,23,2,A leader who will help unite our nation and move us forward.,0.7297142857142856,0.47685714285714287,0.7102857142857142
+S028,23,3,"A fighter for the middle class, a patriot who believes, as I do, in the extraordinary promise of America.",0.7206250000000001,0.5015000000000001,0.6735
+S028,23,4,"A promise of freedom, opportunity, and justice not just for some, but for all.",0.8724999999999998,0.58175,0.80725
+S028,24,0,"Pennsylvania, I’m here today because I found such a leader.",0.824,0.4446666666666667,0.5926666666666667
+S028,24,1,Governor Tim Walz of the great state of Minnesota.,0.6733333333333333,0.556,0.7826666666666667
+S028,24,2,"To those who know him best, Tim is more than a governor.",0.645,0.428,0.7306666666666667
+S028,24,3,"To his wife, Gwen, he is a husband.",0.7756666666666666,0.4566666666666667,0.5973333333333334
+S028,24,4,"To his kids, Hope and Gus, he is a dad.",0.8227500000000001,0.36724999999999997,0.624
+S028,24,5,"To his fellow veterans, he is Sergeant Major Walz.",0.6134000000000001,0.42140000000000005,0.7180000000000001
+S028,24,6,"To the people of Southern Minnesota, for 12 years, he was Congressman.",0.5834,0.34199999999999997,0.5618000000000001
+S028,24,7,"To his former high school students, he was Mr.",0.68825,0.37275,0.5845
+S028,24,8,"Walz, and to his former high school football players, he was Coach.",0.6773333333333333,0.5740000000000001,0.627
+S028,24,9,Coach.,0.633,0.823,0.735
+S028,24,10,Coach.,0.633,0.823,0.735
+S028,24,11,"In 91 days, the nation will know Coach Walz by another name, Vice President of the United States.",0.6298,0.4755,0.6639
+S028,24,12,"America, for some folks, they’re just getting to know Coach Walz’s story.",0.6908000000000001,0.5234,0.6484
+S028,24,13,"I’ll tell you, he is the proud product of a middle class family in rural Nebraska.",0.677125,0.35075,0.550625
+S028,24,14,"He is a veteran who served our nation in uniform for more than two decades as a member of the Army National Guard, and he went to college on the GI Bill.",0.577,0.40271428571428564,0.6294285714285716
+S028,24,15,"He is someone who, long before he entered politics, worked as a teacher.",0.608,0.4318333333333333,0.6811666666666666
+S028,24,16,"When Coach Walz and his wife, Gwen, moved from his native Nebraska to Minnesota nearly 30 years ago, they both took jobs at the local high school coach.",0.6699999999999999,0.5195833333333333,0.5924166666666667
+S028,24,17,"Walz taught social studies, Gwen taught English.",0.77175,0.42325,0.6665
+S028,25,0,"After school, Tim was the linebacker’s coach for the football team, where I’ve heard the stories about he had a lnack for using the game of football to teach life lessons.",0.7053999999999999,0.5466,0.6152666666666667
+S028,25,1,He saw the potential in kids who sometimes didn’t even see it in themselves.,0.6528,0.49660000000000004,0.5246
+S028,25,2,"Under those Friday night lights, Coach Walz motivated his players to believe they could achieve anything and together, they defied the odds… Hear this out, going from a winless record to the school’s first ever state championship.",0.6613888888888888,0.5317222222222223,0.6325
+S028,26,0,"Good evening, Philadelphia!",0.698,0.27649999999999997,0.42600000000000005
+S028,26,1,Good evening.,0.698,0.27649999999999997,0.42600000000000005
+S028,26,2,Good evening.,0.698,0.27649999999999997,0.42600000000000005
+S028,26,3,Good evening.,0.698,0.27649999999999997,0.42600000000000005
+S028,26,4,"Good evening, everyone.",0.698,0.27649999999999997,0.42600000000000005
+S028,26,5,Good evening.,0.698,0.27649999999999997,0.42600000000000005
+S028,26,6,Good evening.,0.698,0.27649999999999997,0.42600000000000005
+S028,26,7,"Ooh, it’s good to be back in Pennsylvania.",0.682,0.3203333333333333,0.47466666666666674
+S028,26,8,"Let me say on behalf of myself and the first second gentleman of the United States, my husband, Doug Emhoff, thank you for the warm welcome.",0.6969090909090909,0.3911818181818182,0.5778181818181817
+S028,27,0,"And as I think everyone here can see, Tim Walz was the kind of teacher and mentor that every child in America dreams of having and that every kid deserves.",0.7705000000000001,0.37741666666666673,0.5554166666666668
+S028,27,1,"The kind of coach, because he’s the kind of person, who makes people feel like they belong and then inspires them to dream big.",0.7609166666666667,0.43483333333333335,0.5880833333333334
+S028,27,2,And that’s the kind of Vice President he will be.,0.6517999999999999,0.45760000000000006,0.6719999999999999
+S028,27,3,And that’s the kind of Vice President America deserves.,0.67325,0.519,0.6709999999999999
+S028,28,0,So it was Coach Walz’s students who actually helped him decide to run for office.,0.6049999999999999,0.4972857142857143,0.5990000000000001
+S028,28,1,And he served 12 years in Congress representing a purple district as he reached across the aisle to get things done.,0.613090909090909,0.40927272727272723,0.5559999999999999
+S028,28,2,"He was the highest ranking enlisted man to ever serve in the United States Congress, and the top Democrat on the Veterans Committee, and he was known as one of Capitol Hill’s best marksman, winning a bipartisan sharp shooting contest year after year.",0.6027916666666666,0.4586666666666666,0.628875
+S028,29,0,"In Washington, Tim worked to raise the minimum §wage, to protect the freedom of workers to join a union, and he cast one of the critical votes to pass the Affordable Care Act, which of course gave health insurance to tens of millions of Americans.",0.6925714285714286,0.47800000000000004,0.6097142857142858
+S028,29,1,"I’m going to tell you, when we win, Tim and I will continue to make the Affordable Care Act even stronger.",0.7137,0.4957,0.6239000000000001
+S028,29,2,We will.,0.698,0.408,0.735
+S028,30,0,Now let’s talk about what we’re dealing with on the other side.,0.579,0.33039999999999997,0.4306
+S028,30,1,"So on that last topic, if Donald Trump gets the chance, he will end the Affordable Care Act and take us back to a time when insurance companies have the power to deny people with pre-existing conditions.",0.6468947368421053,0.4654736842105264,0.5870526315789474
+S028,30,2,You remember what that was like?,0.7216666666666667,0.3383333333333333,0.48466666666666663
+S028,30,3,"Children with asthma, breast cancer survivors, grandparents with diabetes.",0.43133333333333335,0.572,0.4641666666666666
+S028,30,4,"Well, Governor Walz and I will not let that happen because we believe healthcare should be a right and not just a privilege for those who can afford it.",0.6684545454545453,0.4593636363636364,0.632090909090909
+S028,30,5,"As governor, Tim has continued to fight for working families.",0.6885,0.5579999999999999,0.6758333333333334
+S028,30,6,"He secured paid leave for workers in Minnesota and he refused as governor to allow any student in their public schools to go hungry, so he made school breakfast and lunch free for every child.",0.6343888888888889,0.4662777777777778,0.539888888888889
+S028,30,7,"And Tim Walz and I, we agree about many things including when our middle class is strong, America is strong.",0.7114444444444445,0.36988888888888893,0.5723333333333334
+S028,30,8,And strengthening in the middle class will be my defining goal as I am President of the United States.,0.6911818181818181,0.37545454545454543,0.661
+S028,31,0,"So Pennsylvania, ours is a fight for the future of the middle class, and it is a fight for freedom.",0.671625,0.484375,0.654875
+S028,31,1,"In this moment, we are witnessing a full-on attack against hard fought, hard won freedoms and rights.",0.5904545454545455,0.5746363636363636,0.6885454545454546
+S028,31,2,Take reproductive freedom.,0.8556666666666666,0.5616666666666666,0.703
+S028,31,3,"Now think about this, Donald Trump said he wants to punish women.",0.5458000000000001,0.5768000000000001,0.6412
+S028,31,4,"And as a result of his actions today in America, one out of three women live in a state with a Trump abortion ban, one out of three.",0.5898333333333333,0.49133333333333323,0.5298333333333333
+S028,31,5,"Some of these bans go back to the 1800s, even before women had a right to vote.",0.5288333333333334,0.45399999999999996,0.5531666666666667
+S028,31,6,Think about that.,0.786,0.408,0.618
+S028,32,0,"Well, Tim and I have a message for Trump and others who want to turn back the clock on our fundamental freedoms: we’re not going back.",0.62175,0.421,0.548
+S028,32,1,We’re not going back.,0.474,0.397,0.39
+S028,32,2,We’re not going back.,0.474,0.397,0.39
+S028,32,3,We’re not going back.,0.474,0.397,0.39
+S028,32,4,We’re not going back.,0.474,0.397,0.39
+S028,32,5,We’re not going back.,0.474,0.397,0.39
+S028,32,6,"And so let me say, about Tim Walz, he has shown up to stand against these attacks long before he stood on the stage with me.",0.5607777777777777,0.4553333333333333,0.5338888888888889
+S028,32,7,"After Roe was overturned, he was the first governor in the country to sign a new law that enshrined reproductive freedom as a fundamental right.",0.6683571428571428,0.47764285714285715,0.6775
+S028,32,8,"And with Tim Walz by my side, when I am President of the United States and we win majorities in the United States Congress, we will pass a bill to restore reproductive freedom, and I will properly sign it into law.",0.6683157894736842,0.45268421052631586,0.7018947368421052
+S028,33,0,Tim Walz has also defended the sacred freedom to vote.,0.7607999999999999,0.4518000000000001,0.7182000000000001
+S028,33,1,"As Governor, he signed the most significant expansion of voting rights in Minnesota in over 50 years.",0.6758571428571428,0.5307142857142857,0.6985714285714285
+S028,33,2,"And with Governor Walz’s help when I am President, we are going to finally pass the John Lewis Voting Rights Act and the Freedom to Vote Act.",0.6382000000000001,0.4828,0.6383333333333333
+S028,33,3,We’re going to get it done.,0.64,0.5276666666666666,0.549
+S028,33,4,"So Tim is a hunter and a gun owner who believes, as the majority of gun owners do that, we need reasonable gun safety laws in America.",0.5678571428571428,0.584642857142857,0.7219285714285714
+S028,33,5,"So as governor, he expanded background checks and increased penalties for illegal firearm sales.",0.4135555555555556,0.6088888888888889,0.6122222222222222
+S028,33,6,"And together, when we win in November, we are finally going to pass universal background checks, red flag laws and an assault weapons ban.",0.5282666666666667,0.5053333333333333,0.6
+S028,34,0,"Through his work, Tim, the way I think about it, he really does shine a light on a brighter future that we can build together.",0.7620909090909092,0.4841818181818183,0.6473636363636364
+S028,34,1,"In his state, he has been a model chief executive.",0.6366666666666667,0.38833333333333336,0.7061666666666667
+S028,34,2,"And with his experience, I’m telling you, Tim Walz will be ready on day one.",0.7064285714285713,0.3794285714285714,0.5897142857142857
+S028,34,3,"In fact, when you compare his resume, shall we, to Trump’s running mate, well, some might say it’s like it’s a matchup between the varsity team and the JV squad.",0.6495833333333333,0.49641666666666673,0.6034166666666666
+S028,34,4,"So Pennsylvania, ultimately in this election, we each face a question, what kind of country do we want to live in?",0.6586666666666666,0.4532222222222222,0.588
+S028,34,5,"A country of freedom, compassion and rule of law?",0.7417999999999999,0.4426,0.703
+S028,34,6,"Or a country of chaos, fear and hate?",0.2045,0.73975,0.4472499999999999
+S028,34,7,"And here’s the beauty of our democracy, we each have the power to answer that question.",0.6741666666666667,0.49033333333333334,0.7000000000000001
+S028,34,8,We each have the power to answer that question.,0.6307499999999999,0.4605,0.6789999999999999
+S028,34,9,The power is with the people.,0.6643333333333333,0.4366666666666667,0.669
+S028,34,10,"We love our country, and I believe it is the highest form of patriotism to fight for the ideals of our country.",0.7169000000000001,0.47990000000000005,0.6834
+S028,34,11,That is how we preserve the promise of America.,0.7766666666666667,0.39033333333333337,0.6709999999999999
+S028,34,12,"And after all, the promise of America is what makes it possible?",0.71625,0.369,0.5715
+S028,34,13,"For two middle-class kids, one, a daughter of Oakland, California who was raised by a working mother, the other, a son of the Nebraska Plains who grew up working on a farm, it’s the promise of America because only in America, only in America, is it possible for them together to make it all the way to the White House.",0.6939545454545455,0.34954545454545455,0.5030454545454545
+S028,34,14,Only in America.,,,
+S028,34,15,Only in America.,,,
+S028,34,16,Only in America.,,,
+S028,35,0,"And so with Tim Walz by my side and with all of you at our side, let us fight for the promise of our future.",0.5911666666666666,0.49350000000000005,0.5660000000000001
+S028,35,1,"And with that, I ask Pennsylvania, are you ready to make your voices heard?",0.6681666666666667,0.37666666666666665,0.5188333333333334
+S028,35,2,Do we believe in freedom?,0.8066666666666666,0.4873333333333334,0.7076666666666668
+S028,35,3,Do we believe in opportunity?,0.7963333333333334,0.5543333333333333,0.6836666666666668
+S028,35,4,Do we believe in the promise of America?,0.758,0.47266666666666673,0.6406666666666666
+S028,35,5,And are we ready to fight for it?,0.657,0.49866666666666665,0.6703333333333333
+S028,35,6,"And when we fight, we win.",0.7290000000000001,0.7809999999999999,0.8485
+S028,35,7,"And now welcome the next Vice President of the United States, Tim Walz.",0.6428,0.5412,0.7008

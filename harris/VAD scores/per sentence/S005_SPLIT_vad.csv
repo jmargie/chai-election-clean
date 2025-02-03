@@ -1,0 +1,307 @@
+speech_id,line_id,sentence_id,sentence_text,valence,arousal,dominance
+S005,0,0,"As a prosecutor, when I had a case, I charged it not in the name of the victim, but in the name of the people, for a simple reason.",0.5996666666666667,0.24333333333333332,0.3813333333333333
+S005,0,1,"In our system of justice, a harm against any one of us is a harm against all of us.",0.32575,0.499,0.495
+S005,0,2,"And I would often explain this to console survivors of crime, to remind them, no one should be made to fight alone.",0.6144285714285713,0.44885714285714284,0.5534285714285715
+S005,0,3,We are all in this together.,,,
+S005,0,4,"And every day in the courtroom, I stood proudly before a judge and I said five words.",0.5796666666666667,0.3646666666666667,0.5146666666666667
+S005,0,5,"“Kamala Harris, for the people.”",,,
+S005,1,0,"And to be clear, my entire career, I’ve only had one client, the people, and so on behalf of the people; on behalf of every American, regardless of party, race, gender, or the language your grandmother speaks; on behalf of my mother and everyone who has ever set out on their own unlikely journey; on behalf of Americans like the people I grew up with, people who work hard, chase their dreams and look out for one another; on behalf of everyone whose story could only be written in the greatest nation on earth, I accept your nomination to be President of the United States of America.",0.6639615384615384,0.4124230769230769,0.6068461538461538
+S005,1,1,"And with this election, our nation… Our nation, with this election, has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past, a chance to chart a new way forward, not as members of any one party or faction, but as Americans.",0.6712,0.5228999999999999,0.49749999999999994
+S005,2,0,"And let me say, I know there are people of various political views watching tonight, and I want you to know, I promise to be a president for all Americans.",0.6093333333333333,0.4626666666666666,0.6174444444444444
+S005,2,1,"You can always trust me to put country above party and self, to hold sacred America’s fundamental principles, from the rule of law, to free and fair elections, to the peaceful transfer of power.",0.7345384615384616,0.4390769230769231,0.6109230769230769
+S005,2,2,I will be a president who unites us around our highest aspirations.,0.704,0.47750000000000004,0.743
+S005,2,3,"A president who leads and listens, who is realistic, practical, and has common sense, and always fights for the American people.",0.46925,0.535,0.6545000000000001
+S005,3,0,"From the courthouse to the White House, that has been my life’s work.",0.571,0.503,0.818
+S005,3,1,"As a young courtroom prosecutor in Oakland, California, I stood up for women and children against predators who abused them.",0.42824999999999996,0.64325,0.5882499999999999
+S005,3,2,"As Attorney General of California, I took on the big banks, delivered $ 20 billion for middle class families who faced foreclosure, and helped pass a Homeowner Bill of Rights, one of the first of its kind in the nation.",0.64125,0.4046666666666667,0.6381666666666667
+S005,4,0,I stood up for veterans and students being scammed by big for-profit colleges.,0.802,0.588,0.812
+S005,4,1,"For workers who are being cheated out of their wages, the wages they were due.",0.776,0.44,0.62
+S005,4,2,For seniors facing elder abuse.,0.526,0.2795,0.506
+S005,4,3,"I fought against the cartels who traffic in guns and drugs and human beings, who threaten the security of our border and the safety of our communities.",0.4731428571428572,0.5448571428571429,0.5991428571428571
+S005,5,0,"And I will tell you, these fights were not easy, and neither were the elections that put me in those offices.",0.45975000000000005,0.519,0.6034999999999999
+S005,5,1,We were underestimated at practically every turn.,0.622,0.402,0.588
+S005,5,2,"But we never gave up, because the future is always worth fighting for.",0.684,0.6796666666666665,0.8193333333333334
+S005,5,3,"And that’s the fight we are in right now, a fight for America’s future.",0.6006666666666667,0.6960000000000001,0.7760000000000001
+S005,6,0,"Fellow Americans, this election is not only the most important of our lives, it is one of the most important in the life of our nation.",0.7473333333333333,0.49733333333333335,0.6811666666666666
+S005,6,1,"In many ways, Donald Trump is an unserious man.",0.64,0.716,0.898
+S005,6,2,But the consequences of putting Donald Trump back in the White House are extremely serious.,0.575,0.5077499999999999,0.66325
+S005,6,3,"Consider not only the chaos and calamity when he was in office, but also the gravity of what has happened since he lost the last election.",0.30480000000000007,0.6768000000000001,0.3962
+S005,7,0,Donald Trump tried to throw away your votes.,0.492,0.743,0.7605
+S005,7,1,"When he failed, he sent an armed mob to the United States Capitol, where they assaulted law enforcement officers.",0.5197999999999999,0.626,0.7417999999999999
+S005,7,2,"When politicians in his own party begged him to call off the mob and send help, he did the opposite.",0.62525,0.68375,0.55225
+S005,7,3,He fanned the flames.,,,
+S005,7,4,"And now, for an entirely different set of crimes, he was found guilty of fraud by a jury of everyday Americans, and separately found liable for committing sexual abuse.",0.5285454545454544,0.5516363636363636,0.5392727272727272
+S005,8,0,And consider what he intends to do if we give him power again.,0.704,0.483,0.642
+S005,8,1,Consider his explicit intent to set free violent extremists who assaulted those law enforcement officers at the Capitol.,0.5815000000000001,0.5755,0.64425
+S005,8,2,"His explicit intent to jail journalists, political opponents, and anyone he sees as the enemy.",0.38825000000000004,0.70075,0.64725
+S005,8,3,His explicit intent to deploy our active duty military against our own citizens.,0.573,0.6189999999999999,0.6793333333333332
+S005,9,0,"Consider the power he will have, especially after the United States Supreme Court just ruled that he would be immune from criminal prosecution.",0.5979,0.5299999999999999,0.7141
+S005,9,1,"Just imagine Donald Trump with no guardrails, and how he would use the immense powers of the presidency of the United States, not to improve your life, not to strengthen our national security, but to serve the only client he has ever had, himself.",0.6816666666666666,0.531,0.6903333333333334
+S005,10,0,And we know what a second Trump term would look like.,0.5928333333333333,0.3971666666666666,0.582
+S005,10,1,"It’s all laid out in Project 2025, written by his closest advisors, and its sum total is to pull our country back to the past.",0.639142857142857,0.39300000000000007,0.5727142857142856
+S005,10,2,"But America, we are not going back.",,,
+S005,10,3,We are not going back.,,,
+S005,10,4,We are not going back.,,,
+S005,11,0,We are not going back to when Donald Trump tried to cut Social Security and Medicare.,0.6422000000000001,0.45779999999999993,0.6124
+S005,11,1,"We are not going back to when he tried to get rid of the Affordable Care Act, when insurance companies could deny people with pre-existing conditions.",0.5718749999999999,0.43725,0.49612500000000004
+S005,11,2,We are not going to let him eliminate the Department of Education that funds our public schools.,0.5868333333333333,0.41933333333333334,0.5396666666666666
+S005,11,3,We are not going to let him end programs like Head Start that provide preschool and child care for our children.,0.6262222222222222,0.4117777777777778,0.46755555555555556
+S005,11,4,"America, we are not going back.",,,
+S005,12,0,And…,,,
+S005,13,0,"Whether you live in a rural area, small town, or big city.",0.6965000000000001,0.42774999999999996,0.504
+S005,13,1,"And as president, I will bring together labor, and workers, and small business owners, and entrepreneurs, and American companies to create jobs to grow our economy and to lower the cost of everyday needs like healthcare, and housing, and groceries.",0.6559166666666667,0.42766666666666664,0.555
+S005,13,2,"We will provide access to capital for small business owners, and entrepreneurs, and founders.",0.6658333333333334,0.44516666666666665,0.6131666666666667
+S005,13,3,And we will end America’s housing shortage and protect Social Security and Medicare.,0.6045714285714286,0.4228571428571429,0.5782857142857143
+S005,13,4,"Now, compare that to Donald Trump, because I think everyone here knows, he doesn’t actually fight for the middle class.",0.5817500000000001,0.46025,0.56275
+S005,13,5,He doesn’t actually fight for the middle class.,0.49450000000000005,0.5125,0.5545
+S005,13,6,"Instead, he fights for himself and his billionaire friends.",0.43800000000000006,0.7935000000000001,0.8175
+S005,13,7,And he will give them another round of tax breaks that will add up to $5 trillion to the national debt.,0.622,0.419,0.581875
+S005,13,8,"And all the while, he intends to enact what, in effect, is a national sales tax, call it a Trump tax, that would raise prices on middle class families by almost $4,000 a year.",0.638,0.48,0.591375
+S005,14,0,"Well, instead of a Trump tax hike, we will pass a middle- class tax cut that will benefit more than 100 million Americans.",0.5893999999999999,0.46909999999999996,0.6331
+S005,14,1,"Friends, I believe, America cannot truly be prosperous unless Americans are fully able to make their own decisions about their own lives, especially on matters of heart and home.",0.7796666666666666,0.45616666666666666,0.701
+S005,14,2,"But tonight in America, too many women are not able to make those decisions.",0.7350000000000001,0.45999999999999996,0.645
+S005,14,3,And let’s be clear about how we got here.,0.7635000000000001,0.2835,0.5635
+S005,14,4,Donald Trump hand-picked members of the United States Supreme Court to take away reproductive freedom.,0.7183333333333334,0.6261666666666666,0.781
+S005,14,5,And now he brags about it.,,,
+S005,14,6,"In his words, quote, “I did it and I’m proud to have done it.” End quote.",0.6203333333333333,0.47933333333333333,0.588
+S005,15,0,"Well, I’ll tell you, over the past two years, I’ve traveled across our country and women have told me their stories.",0.6032,0.35100000000000003,0.49160000000000004
+S005,15,1,Husbands and fathers have shared theirs.,0.757,0.389,0.593
+S005,15,2,"Stories of women miscarrying in a parking lot, developing sepsis, losing the ability to ever again have children.",0.6636,0.5282,0.5711999999999999
+S005,15,3,All because doctors are afraid they may go to jail for caring for their patients.,0.3906,0.5711999999999999,0.3828
+S005,15,4,Couples just trying to grow their family cut off in the middle of IVF treatments.,0.7075,0.41125,0.52275
+S005,15,5,"Children who have survived sexual assault, potentially being forced to carry a pregnancy to term.",0.6255000000000001,0.626,0.5325000000000001
+S005,15,6,This is what’s happening in our country because of Donald Trump.,0.6719999999999999,0.4615,0.624
+S005,15,7,"And understand, he is not done.",,,
+S005,15,8,"As a part of his agenda, he and his allies would limit access to birth control, ban medication abortion, and enact a nationwide abortion ban with or without Congress.",0.5041818181818182,0.5125454545454545,0.5106363636363637
+S005,15,9,"And get this, get this, he plans to create a national anti-abortion coordinator and force states to report on women’s miscarriages and abortions.",0.7012857142857143,0.5492857142857143,0.730857142857143
+S005,15,10,"Simply put, they are out of their minds.",0.535,0.148,0.393
+S005,16,0,And one must ask.,0.475,0.33699999999999997,0.40549999999999997
+S005,16,1,"One must ask, why exactly is it that they don’t trust women?",0.6126666666666667,0.40700000000000003,0.5173333333333333
+S005,16,2,"Well, we trust women.",0.888,0.547,0.741
+S005,16,3,We trust women.,0.888,0.547,0.741
+S005,16,4,"And when Congress passes a bill to restore reproductive freedom, as president of the United States, I will proudly sign it into law.",0.6445000000000001,0.48524999999999996,0.7201249999999999
+S005,16,5,"In this election, many other fundamental freedoms are at stake.",0.59,0.326,0.581
+S005,16,6,"The freedom to live safe from gun violence in our schools, communities, and places of worship.",0.591,0.6752,0.7544
+S005,16,7,The freedom to love who you love openly and with pride.,0.893,0.49250000000000005,0.7010000000000001
+S005,16,8,"The freedom to breathe clean air and drink clean water, and live free from the pollution that fuels the climate crisis.",0.7287,0.4079,0.5472
+S005,16,9,"And the freedom that unlocks all the others, the freedom to vote.",0.969,0.544,0.905
+S005,17,0,"With this election, we finally have the opportunity to pass the John Lewis Voting Rights Act and the Freedom to Vote Act.",0.6857777777777777,0.5136666666666667,0.6263333333333334
+S005,17,1,"And let me be clear, after decades in law enforcement, I know the importance of safety and security, especially at our border.",0.6766666666666666,0.43916666666666665,0.6853333333333333
+S005,17,2,"Last year, Joe and I brought together Democrats and conservative Republicans to write the strongest border bill in decades.",0.5806,0.3758,0.5878000000000001
+S005,17,3,The Border Patrol endorsed it.,0.4165,0.523,0.58
+S005,17,4,But Donald Trump believes a border deal would hurt his campaign.,0.46399999999999997,0.5764,0.5166000000000001
+S005,17,5,"So, he ordered his allies in Congress to kill the deal.",0.2505,0.6925,0.7965
+S005,17,6,"Well, I refuse to play politics with our security, and here is my pledge to you, as president, I will bring back the bipartisan border security bill that he killed, and I will sign it into law.",0.5574166666666666,0.46308333333333335,0.56275
+S005,18,0,I know.,,,
+S005,18,1,"I know, we can live up to our proud heritage as a nation of immigrants and reform our broken immigration system.",0.608375,0.5431250000000001,0.647875
+S005,18,2,We can create an earned pathway to citizenship and secure our border.,0.7447999999999999,0.4284,0.6798
+S005,18,3,"And America, we must also be steadfast in advancing our security and values abroad.",0.7230000000000001,0.40459999999999996,0.6856
+S005,18,4,"As vice president, I have confronted threats to our security, negotiated with foreign leaders, strengthened our alliances, and engaged with our brave troops overseas.",0.6141666666666666,0.652,0.6713333333333334
+S005,18,5,"As commander-in-chief, I will ensure America always has the strongest, most lethal fighting force in the world.",0.499,0.6498,0.7853999999999999
+S005,18,6,And I will fulfill our sacred obligation to care for our troops and their families.,0.6084999999999999,0.488,0.6993333333333333
+S005,18,7,And I will always honor and never disparage their service and their sacrifice.,0.5925,0.5165,0.61575
+S005,19,0,"I’ll make sure that we lead the world into the future on space and artificial intelligence, that America not China wins the competition for the 21st century.",0.6097777777777778,0.48000000000000004,0.6157777777777778
+S005,19,1,"And that we strengthen, not abdicate, our global leadership.",0.583,0.52,0.713
+S005,19,2,"Trump, on the other hand, threatened to abandon NATO.",0.19200000000000003,0.559,0.286
+S005,19,3,"He encouraged Putin to invade our allies, said Russia could, quote, “Do whatever the hell they want.” Five days before Russia attacked Ukraine, I met with President Zelensky to warn him about Russia’s plan to invade.",0.5204285714285714,0.6488571428571428,0.6434285714285713
+S005,19,4,I helped mobilize a global response over 50 countries to defend against Putin’s aggression.,0.625,0.6065,0.6455
+S005,19,5,"And as president, I will stand strong with Ukraine and our NATO allies-",0.7366666666666667,0.4923333333333333,0.7130000000000001
+S005,20,0,"And we are charting a new way forward, forward to a future with a strong and growing middle class because we know a strong middle class has always been critical to America’s success.",0.6905833333333334,0.45133333333333336,0.6017500000000001
+S005,20,1,And building that middle class will be a defining goal of my presidency.,0.6694999999999999,0.29383333333333334,0.5755
+S005,20,2,"And I’ll tell you, this is personal for me.",0.6505000000000001,0.3305,0.462
+S005,20,3,The middle class is where I come from.,0.5476666666666667,0.24666666666666667,0.46
+S005,20,4,My mother kept a strict budget.,0.7155,0.527,0.8015
+S005,20,5,"We lived within our means, yet we wanted for little.",,,
+S005,20,6,And she expected us to make the most of the opportunities that were available to us and to be grateful for them.,0.7769999999999999,0.35619999999999996,0.5524
+S005,20,7,"Because as she taught us, opportunity is not available to everyone.",0.8653333333333332,0.5273333333333333,0.6993333333333333
+S005,20,8,That’s why we will create what I call an opportunity economy.,0.754,0.592,0.72875
+S005,20,9,An opportunity economy where everyone has the chance to compete and a chance to succeed.,0.752,0.6052000000000001,0.688
+S005,21,0,"And know this, I’ll never hesitate to take whatever action is necessary to defend our forces and our interests against Iran and Iran-backed terrorists.",0.6872857142857143,0.597857142857143,0.6172857142857142
+S005,21,1,"I will not cozy up to tyrants and dictators like Kim Jong-un, who are rooting for Trump, who are rooting for Trump because they know he is easy to manipulate with flattery and favors.",0.66525,0.457875,0.6096250000000001
+S005,21,2,They know Trump won’t hold autocrats accountable because he wants to be an autocrat himself.,0.6464,0.3778,0.6594
+S005,21,3,"And as President, I will never waver in defense of America’s security and ideals because in the enduring struggle between democracy and tyranny, I know where I stand and I know where the United States belongs.",0.6547272727272726,0.4865454545454545,0.6965454545454546
+S005,21,4,"So fellow Americans, I love our country with all my heart.",0.8143333333333334,0.4036666666666666,0.6453333333333333
+S005,21,5,"Everywhere I go and everyone I meet, I see a nation that is ready to move forward, ready for the next step in the incredible journey that is America.",0.6925555555555556,0.4883333333333333,0.6018888888888889
+S005,21,6,I see an America where we hold fast to the fearless belief that built our nation and inspired the world.,0.725,0.4808333333333333,0.6081666666666666
+S005,21,7,"That here in this country, anything is possible.",,,
+S005,22,0,That nothing is out of reach.,,,
+S005,22,1,"An America, where we care for one another, look out for one another, and recognize that we have so much more in common than what separates us.",0.664142857142857,0.3162857142857142,0.48085714285714287
+S005,22,2,That none of us has to fail for all of us to succeed.,0.177,0.578,0.154
+S005,22,3,"And that in unity, there is strength.",,,
+S005,22,4,"Our opponents in this race are out there every day, denigrating America, talking about how terrible everything is.",0.3265,0.6375,0.631
+S005,22,5,"Well, my mother had another lesson she used to teach.",0.6629999999999999,0.4303333333333333,0.535
+S005,22,6,Never let anyone tell you who you are.,0.489,0.3615,0.382
+S005,22,7,You show them who you are.,0.673,0.771,0.719
+S005,22,8,"America, let us show each other and the world, who we are and what we stand for: freedom, opportunity, compassion, dignity, fairness, and endless possibilities.",0.5038,0.43200000000000005,0.4532
+S005,23,0,We are the heirs to the greatest democracy in the history of the world.,0.763,0.507,0.8035
+S005,23,1,"And on behalf of our children and our grandchildren, and all of those who sacrificed so dearly for our freedom and liberty, we must be worthy of this moment.",0.7432000000000001,0.4088,0.6262000000000001
+S005,23,2,"It is now our turn to do what generations before us have done, guided by optimism and faith to fight for this country we love, to fight for the ideals we cherish, and to uphold the awesome responsibility that comes with the greatest privilege on earth: the privilege and pride of being an American.",0.7471999999999999,0.5652666666666666,0.7476666666666667
+S005,23,3,So let’s get out there.,0.74,0.594,0.667
+S005,23,4,Let’s fight For it.,0.531,0.868,0.809
+S005,23,5,Let’s get out there.,0.74,0.594,0.667
+S005,23,6,Let’s vote for it.,0.582,0.5,0.649
+S005,23,7,"And together, let us write the next great chapter in the most extraordinary story ever hold.",0.6998333333333333,0.4778333333333334,0.6126666666666667
+S005,23,8,Thank you.,0.958,0.353,0.526
+S005,23,9,God bless you and may God bless the United States of America.,0.8098333333333333,0.37966666666666665,0.6626666666666666
+S005,23,10,Thank you.,0.958,0.353,0.526
+S005,24,0,"With respect to the war in Gaza, President Biden and I are working around the clock because now is the time to get a hostage deal and a ceasefire deal done.",0.5936363636363637,0.5648181818181818,0.6086363636363636
+S005,24,1,"And let me be clear, I will always stand up for Israel’s right to defend itself.",0.6388333333333333,0.4031666666666667,0.5808333333333333
+S005,24,2,"And I will always ensure Israel has the ability to defend itself because the people of Israel must never again face the horror that a terrorist organization called Hamas caused on October 7, including unspeakable sexual violence and the massacre of young people at a music festival.",0.5010555555555556,0.5846111111111111,0.5966111111111112
+S005,24,3,"At the same time, what has happened in Gaza over the past 10 months is devastating.",0.49,0.422,0.311
+S005,24,4,So many innocent lives lost.,0.729,0.206,0.34
+S005,24,5,"Desperate, hungry people fleeing for safety over and over again.",0.465,0.527,0.5406666666666666
+S005,24,6,The scale of suffering is heartbreaking.,0.165,0.5345,0.40599999999999997
+S005,24,7,"President Biden and I are working to end this war such that Israel is secure, the hostages are released, the suffering in Gaza ends and the Palestinian people can realize their right to dignity, security, freedom, and self-determination.",0.4911111111111111,0.5267777777777778,0.5688888888888889
+S005,25,0,"As a prosecutor, when I had a case, I charged it not in the name of the victim, but in the name of the people, for a simple reason.",0.5996666666666667,0.24333333333333332,0.3813333333333333
+S005,25,1,"In our system of justice, a harm against any one of us is a harm against all of us.",0.32575,0.499,0.495
+S005,25,2,"And I would often explain this to console survivors of crime, to remind them, no one should be made to fight alone.",0.6144285714285713,0.44885714285714284,0.5534285714285715
+S005,25,3,We are all in this together.,,,
+S005,25,4,"And every day in the courtroom, I stood proudly before a judge and I said five words.",0.5796666666666667,0.3646666666666667,0.5146666666666667
+S005,25,5,"“Kamala Harris, for the people.”",,,
+S005,26,0,"And to be clear, my entire career, I’ve only had one client, the people, and so on behalf of the people; on behalf of every American, regardless of party, race, gender, or the language your grandmother speaks; on behalf of my mother and everyone who has ever set out on their own unlikely journey; on behalf of Americans like the people I grew up with, people who work hard, chase their dreams and look out for one another; on behalf of everyone whose story could only be written in the greatest nation on earth, I accept your nomination to be President of the United States of America.",0.6639615384615384,0.4124230769230769,0.6068461538461538
+S005,26,1,"And with this election, our nation… Our nation, with this election, has a precious, fleeting opportunity to move past the bitterness, cynicism, and divisive battles of the past, a chance to chart a new way forward, not as members of any one party or faction, but as Americans.",0.6712,0.5228999999999999,0.49749999999999994
+S005,27,0,"And let me say, I know there are people of various political views watching tonight, and I want you to know, I promise to be a president for all Americans.",0.6093333333333333,0.4626666666666666,0.6174444444444444
+S005,27,1,"You can always trust me to put country above party and self, to hold sacred America’s fundamental principles, from the rule of law, to free and fair elections, to the peaceful transfer of power.",0.7345384615384616,0.4390769230769231,0.6109230769230769
+S005,27,2,I will be a president who unites us around our highest aspirations.,0.704,0.47750000000000004,0.743
+S005,27,3,"A president who leads and listens, who is realistic, practical, and has common sense, and always fights for the American people.",0.46925,0.535,0.6545000000000001
+S005,28,0,"From the courthouse to the White House, that has been my life’s work.",0.571,0.503,0.818
+S005,28,1,"As a young courtroom prosecutor in Oakland, California, I stood up for women and children against predators who abused them.",0.42824999999999996,0.64325,0.5882499999999999
+S005,28,2,"As Attorney General of California, I took on the big banks, delivered $ 20 billion for middle class families who faced foreclosure, and helped pass a Homeowner Bill of Rights, one of the first of its kind in the nation.",0.64125,0.4046666666666667,0.6381666666666667
+S005,29,0,I stood up for veterans and students being scammed by big for-profit colleges.,0.802,0.588,0.812
+S005,29,1,"For workers who are being cheated out of their wages, the wages they were due.",0.776,0.44,0.62
+S005,29,2,For seniors facing elder abuse.,0.526,0.2795,0.506
+S005,29,3,"I fought against the cartels who traffic in guns and drugs and human beings, who threaten the security of our border and the safety of our communities.",0.4731428571428572,0.5448571428571429,0.5991428571428571
+S005,30,0,"And I will tell you, these fights were not easy, and neither were the elections that put me in those offices.",0.45975000000000005,0.519,0.6034999999999999
+S005,30,1,We were underestimated at practically every turn.,0.622,0.402,0.588
+S005,30,2,"But we never gave up, because the future is always worth fighting for.",0.684,0.6796666666666665,0.8193333333333334
+S005,30,3,"And that’s the fight we are in right now, a fight for America’s future.",0.6006666666666667,0.6960000000000001,0.7760000000000001
+S005,31,0,"Fellow Americans, this election is not only the most important of our lives, it is one of the most important in the life of our nation.",0.7473333333333333,0.49733333333333335,0.6811666666666666
+S005,31,1,"In many ways, Donald Trump is an unserious man.",0.64,0.716,0.898
+S005,31,2,But the consequences of putting Donald Trump back in the White House are extremely serious.,0.575,0.5077499999999999,0.66325
+S005,31,3,"Consider not only the chaos and calamity when he was in office, but also the gravity of what has happened since he lost the last election.",0.30480000000000007,0.6768000000000001,0.3962
+S005,32,0,Donald Trump tried to throw away your votes.,0.492,0.743,0.7605
+S005,32,1,"When he failed, he sent an armed mob to the United States Capitol, where they assaulted law enforcement officers.",0.5197999999999999,0.626,0.7417999999999999
+S005,32,2,"When politicians in his own party begged him to call off the mob and send help, he did the opposite.",0.62525,0.68375,0.55225
+S005,32,3,He fanned the flames.,,,
+S005,32,4,"And now, for an entirely different set of crimes, he was found guilty of fraud by a jury of everyday Americans, and separately found liable for committing sexual abuse.",0.5285454545454544,0.5516363636363636,0.5392727272727272
+S005,33,0,And consider what he intends to do if we give him power again.,0.704,0.483,0.642
+S005,33,1,Consider his explicit intent to set free violent extremists who assaulted those law enforcement officers at the Capitol.,0.5815000000000001,0.5755,0.64425
+S005,33,2,"His explicit intent to jail journalists, political opponents, and anyone he sees as the enemy.",0.38825000000000004,0.70075,0.64725
+S005,33,3,His explicit intent to deploy our active duty military against our own citizens.,0.573,0.6189999999999999,0.6793333333333332
+S005,34,0,"Consider the power he will have, especially after the United States Supreme Court just ruled that he would be immune from criminal prosecution.",0.5979,0.5299999999999999,0.7141
+S005,34,1,"Just imagine Donald Trump with no guardrails, and how he would use the immense powers of the presidency of the United States, not to improve your life, not to strengthen our national security, but to serve the only client he has ever had, himself.",0.6816666666666666,0.531,0.6903333333333334
+S005,35,0,And we know what a second Trump term would look like.,0.5928333333333333,0.3971666666666666,0.582
+S005,35,1,"It’s all laid out in Project 2025, written by his closest advisors, and its sum total is to pull our country back to the past.",0.639142857142857,0.39300000000000007,0.5727142857142856
+S005,35,2,"But America, we are not going back.",,,
+S005,35,3,We are not going back.,,,
+S005,35,4,We are not going back.,,,
+S005,36,0,We are not going back to when Donald Trump tried to cut Social Security and Medicare.,0.6422000000000001,0.45779999999999993,0.6124
+S005,36,1,"We are not going back to when he tried to get rid of the Affordable Care Act, when insurance companies could deny people with pre-existing conditions.",0.5718749999999999,0.43725,0.49612500000000004
+S005,36,2,We are not going to let him eliminate the Department of Education that funds our public schools.,0.5868333333333333,0.41933333333333334,0.5396666666666666
+S005,36,3,We are not going to let him end programs like Head Start that provide preschool and child care for our children.,0.6262222222222222,0.4117777777777778,0.46755555555555556
+S005,36,4,"America, we are not going back.",,,
+S005,37,0,And…,,,
+S005,38,0,"Whether you live in a rural area, small town, or big city.",0.6965000000000001,0.42774999999999996,0.504
+S005,38,1,"And as president, I will bring together labor, and workers, and small business owners, and entrepreneurs, and American companies to create jobs to grow our economy and to lower the cost of everyday needs like healthcare, and housing, and groceries.",0.6559166666666667,0.42766666666666664,0.555
+S005,38,2,"We will provide access to capital for small business owners, and entrepreneurs, and founders.",0.6658333333333334,0.44516666666666665,0.6131666666666667
+S005,38,3,And we will end America’s housing shortage and protect Social Security and Medicare.,0.6045714285714286,0.4228571428571429,0.5782857142857143
+S005,38,4,"Now, compare that to Donald Trump, because I think everyone here knows, he doesn’t actually fight for the middle class.",0.5817500000000001,0.46025,0.56275
+S005,38,5,He doesn’t actually fight for the middle class.,0.49450000000000005,0.5125,0.5545
+S005,38,6,"Instead, he fights for himself and his billionaire friends.",0.43800000000000006,0.7935000000000001,0.8175
+S005,38,7,And he will give them another round of tax breaks that will add up to $5 trillion to the national debt.,0.622,0.419,0.581875
+S005,38,8,"And all the while, he intends to enact what, in effect, is a national sales tax, call it a Trump tax, that would raise prices on middle class families by almost $4,000 a year.",0.638,0.48,0.591375
+S005,39,0,"Well, instead of a Trump tax hike, we will pass a middle- class tax cut that will benefit more than 100 million Americans.",0.5893999999999999,0.46909999999999996,0.6331
+S005,39,1,"Friends, I believe, America cannot truly be prosperous unless Americans are fully able to make their own decisions about their own lives, especially on matters of heart and home.",0.7796666666666666,0.45616666666666666,0.701
+S005,39,2,"But tonight in America, too many women are not able to make those decisions.",0.7350000000000001,0.45999999999999996,0.645
+S005,39,3,And let’s be clear about how we got here.,0.7635000000000001,0.2835,0.5635
+S005,39,4,Donald Trump hand-picked members of the United States Supreme Court to take away reproductive freedom.,0.7183333333333334,0.6261666666666666,0.781
+S005,39,5,And now he brags about it.,,,
+S005,39,6,"In his words, quote, “I did it and I’m proud to have done it.” End quote.",0.6203333333333333,0.47933333333333333,0.588
+S005,40,0,"Well, I’ll tell you, over the past two years, I’ve traveled across our country and women have told me their stories.",0.6032,0.35100000000000003,0.49160000000000004
+S005,40,1,Husbands and fathers have shared theirs.,0.757,0.389,0.593
+S005,40,2,"Stories of women miscarrying in a parking lot, developing sepsis, losing the ability to ever again have children.",0.6636,0.5282,0.5711999999999999
+S005,40,3,All because doctors are afraid they may go to jail for caring for their patients.,0.3906,0.5711999999999999,0.3828
+S005,40,4,Couples just trying to grow their family cut off in the middle of IVF treatments.,0.7075,0.41125,0.52275
+S005,40,5,"Children who have survived sexual assault, potentially being forced to carry a pregnancy to term.",0.6255000000000001,0.626,0.5325000000000001
+S005,40,6,This is what’s happening in our country because of Donald Trump.,0.6719999999999999,0.4615,0.624
+S005,40,7,"And understand, he is not done.",,,
+S005,40,8,"As a part of his agenda, he and his allies would limit access to birth control, ban medication abortion, and enact a nationwide abortion ban with or without Congress.",0.5041818181818182,0.5125454545454545,0.5106363636363637
+S005,40,9,"And get this, get this, he plans to create a national anti-abortion coordinator and force states to report on women’s miscarriages and abortions.",0.7012857142857143,0.5492857142857143,0.730857142857143
+S005,40,10,"Simply put, they are out of their minds.",0.535,0.148,0.393
+S005,41,0,And one must ask.,0.475,0.33699999999999997,0.40549999999999997
+S005,41,1,"One must ask, why exactly is it that they don’t trust women?",0.6126666666666667,0.40700000000000003,0.5173333333333333
+S005,41,2,"Well, we trust women.",0.888,0.547,0.741
+S005,41,3,We trust women.,0.888,0.547,0.741
+S005,41,4,"And when Congress passes a bill to restore reproductive freedom, as president of the United States, I will proudly sign it into law.",0.6445000000000001,0.48524999999999996,0.7201249999999999
+S005,41,5,"In this election, many other fundamental freedoms are at stake.",0.59,0.326,0.581
+S005,41,6,"The freedom to live safe from gun violence in our schools, communities, and places of worship.",0.591,0.6752,0.7544
+S005,41,7,The freedom to love who you love openly and with pride.,0.893,0.49250000000000005,0.7010000000000001
+S005,41,8,"The freedom to breathe clean air and drink clean water, and live free from the pollution that fuels the climate crisis.",0.7287,0.4079,0.5472
+S005,41,9,"And the freedom that unlocks all the others, the freedom to vote.",0.969,0.544,0.905
+S005,42,0,"With this election, we finally have the opportunity to pass the John Lewis Voting Rights Act and the Freedom to Vote Act.",0.6857777777777777,0.5136666666666667,0.6263333333333334
+S005,42,1,"And let me be clear, after decades in law enforcement, I know the importance of safety and security, especially at our border.",0.6766666666666666,0.43916666666666665,0.6853333333333333
+S005,42,2,"Last year, Joe and I brought together Democrats and conservative Republicans to write the strongest border bill in decades.",0.5806,0.3758,0.5878000000000001
+S005,42,3,The Border Patrol endorsed it.,0.4165,0.523,0.58
+S005,42,4,But Donald Trump believes a border deal would hurt his campaign.,0.46399999999999997,0.5764,0.5166000000000001
+S005,42,5,"So, he ordered his allies in Congress to kill the deal.",0.2505,0.6925,0.7965
+S005,42,6,"Well, I refuse to play politics with our security, and here is my pledge to you, as president, I will bring back the bipartisan border security bill that he killed, and I will sign it into law.",0.5574166666666666,0.46308333333333335,0.56275
+S005,43,0,I know.,,,
+S005,43,1,"I know, we can live up to our proud heritage as a nation of immigrants and reform our broken immigration system.",0.608375,0.5431250000000001,0.647875
+S005,43,2,We can create an earned pathway to citizenship and secure our border.,0.7447999999999999,0.4284,0.6798
+S005,43,3,"And America, we must also be steadfast in advancing our security and values abroad.",0.7230000000000001,0.40459999999999996,0.6856
+S005,43,4,"As vice president, I have confronted threats to our security, negotiated with foreign leaders, strengthened our alliances, and engaged with our brave troops overseas.",0.6141666666666666,0.652,0.6713333333333334
+S005,43,5,"As commander-in-chief, I will ensure America always has the strongest, most lethal fighting force in the world.",0.499,0.6498,0.7853999999999999
+S005,43,6,And I will fulfill our sacred obligation to care for our troops and their families.,0.6084999999999999,0.488,0.6993333333333333
+S005,43,7,And I will always honor and never disparage their service and their sacrifice.,0.5925,0.5165,0.61575
+S005,44,0,"I’ll make sure that we lead the world into the future on space and artificial intelligence, that America not China wins the competition for the 21st century.",0.6097777777777778,0.48000000000000004,0.6157777777777778
+S005,44,1,"And that we strengthen, not abdicate, our global leadership.",0.583,0.52,0.713
+S005,44,2,"Trump, on the other hand, threatened to abandon NATO.",0.19200000000000003,0.559,0.286
+S005,44,3,"He encouraged Putin to invade our allies, said Russia could, quote, “Do whatever the hell they want.” Five days before Russia attacked Ukraine, I met with President Zelensky to warn him about Russia’s plan to invade.",0.5204285714285714,0.6488571428571428,0.6434285714285713
+S005,44,4,I helped mobilize a global response over 50 countries to defend against Putin’s aggression.,0.625,0.6065,0.6455
+S005,44,5,"And as president, I will stand strong with Ukraine and our NATO allies-",0.7366666666666667,0.4923333333333333,0.7130000000000001
+S005,45,0,"And we are charting a new way forward, forward to a future with a strong and growing middle class because we know a strong middle class has always been critical to America’s success.",0.6905833333333334,0.45133333333333336,0.6017500000000001
+S005,45,1,And building that middle class will be a defining goal of my presidency.,0.6694999999999999,0.29383333333333334,0.5755
+S005,45,2,"And I’ll tell you, this is personal for me.",0.6505000000000001,0.3305,0.462
+S005,45,3,The middle class is where I come from.,0.5476666666666667,0.24666666666666667,0.46
+S005,45,4,My mother kept a strict budget.,0.7155,0.527,0.8015
+S005,45,5,"We lived within our means, yet we wanted for little.",,,
+S005,45,6,And she expected us to make the most of the opportunities that were available to us and to be grateful for them.,0.7769999999999999,0.35619999999999996,0.5524
+S005,45,7,"Because as she taught us, opportunity is not available to everyone.",0.8653333333333332,0.5273333333333333,0.6993333333333333
+S005,45,8,That’s why we will create what I call an opportunity economy.,0.754,0.592,0.72875
+S005,45,9,An opportunity economy where everyone has the chance to compete and a chance to succeed.,0.752,0.6052000000000001,0.688
+S005,46,0,"And know this, I’ll never hesitate to take whatever action is necessary to defend our forces and our interests against Iran and Iran-backed terrorists.",0.6872857142857143,0.597857142857143,0.6172857142857142
+S005,46,1,"I will not cozy up to tyrants and dictators like Kim Jong-un, who are rooting for Trump, who are rooting for Trump because they know he is easy to manipulate with flattery and favors.",0.66525,0.457875,0.6096250000000001
+S005,46,2,They know Trump won’t hold autocrats accountable because he wants to be an autocrat himself.,0.6464,0.3778,0.6594
+S005,46,3,"And as President, I will never waver in defense of America’s security and ideals because in the enduring struggle between democracy and tyranny, I know where I stand and I know where the United States belongs.",0.6547272727272726,0.4865454545454545,0.6965454545454546
+S005,46,4,"So fellow Americans, I love our country with all my heart.",0.8143333333333334,0.4036666666666666,0.6453333333333333
+S005,46,5,"Everywhere I go and everyone I meet, I see a nation that is ready to move forward, ready for the next step in the incredible journey that is America.",0.6925555555555556,0.4883333333333333,0.6018888888888889
+S005,46,6,I see an America where we hold fast to the fearless belief that built our nation and inspired the world.,0.725,0.4808333333333333,0.6081666666666666
+S005,46,7,"That here in this country, anything is possible.",,,
+S005,47,0,That nothing is out of reach.,,,
+S005,47,1,"An America, where we care for one another, look out for one another, and recognize that we have so much more in common than what separates us.",0.664142857142857,0.3162857142857142,0.48085714285714287
+S005,47,2,That none of us has to fail for all of us to succeed.,0.177,0.578,0.154
+S005,47,3,"And that in unity, there is strength.",,,
+S005,47,4,"Our opponents in this race are out there every day, denigrating America, talking about how terrible everything is.",0.3265,0.6375,0.631
+S005,47,5,"Well, my mother had another lesson she used to teach.",0.6629999999999999,0.4303333333333333,0.535
+S005,47,6,Never let anyone tell you who you are.,0.489,0.3615,0.382
+S005,47,7,You show them who you are.,0.673,0.771,0.719
+S005,47,8,"America, let us show each other and the world, who we are and what we stand for: freedom, opportunity, compassion, dignity, fairness, and endless possibilities.",0.5038,0.43200000000000005,0.4532
+S005,48,0,We are the heirs to the greatest democracy in the history of the world.,0.763,0.507,0.8035
+S005,48,1,"And on behalf of our children and our grandchildren, and all of those who sacrificed so dearly for our freedom and liberty, we must be worthy of this moment.",0.7432000000000001,0.4088,0.6262000000000001
+S005,48,2,"It is now our turn to do what generations before us have done, guided by optimism and faith to fight for this country we love, to fight for the ideals we cherish, and to uphold the awesome responsibility that comes with the greatest privilege on earth: the privilege and pride of being an American.",0.7471999999999999,0.5652666666666666,0.7476666666666667
+S005,48,3,So let’s get out there.,0.74,0.594,0.667
+S005,48,4,Let’s fight For it.,0.531,0.868,0.809
+S005,48,5,Let’s get out there.,0.74,0.594,0.667
+S005,48,6,Let’s vote for it.,0.582,0.5,0.649
+S005,48,7,"And together, let us write the next great chapter in the most extraordinary story ever hold.",0.6998333333333333,0.4778333333333334,0.6126666666666667
+S005,48,8,Thank you.,0.958,0.353,0.526
+S005,48,9,God bless you and may God bless the United States of America.,0.8098333333333333,0.37966666666666665,0.6626666666666666
+S005,48,10,Thank you.,0.958,0.353,0.526
+S005,49,0,"With respect to the war in Gaza, President Biden and I are working around the clock because now is the time to get a hostage deal and a ceasefire deal done.",0.5936363636363637,0.5648181818181818,0.6086363636363636
+S005,49,1,"And let me be clear, I will always stand up for Israel’s right to defend itself.",0.6388333333333333,0.4031666666666667,0.5808333333333333
+S005,49,2,"And I will always ensure Israel has the ability to defend itself because the people of Israel must never again face the horror that a terrorist organization called Hamas caused on October 7, including unspeakable sexual violence and the massacre of young people at a music festival.",0.5010555555555556,0.5846111111111111,0.5966111111111112
+S005,49,3,"At the same time, what has happened in Gaza over the past 10 months is devastating.",0.49,0.422,0.311
+S005,49,4,So many innocent lives lost.,0.729,0.206,0.34
+S005,49,5,"Desperate, hungry people fleeing for safety over and over again.",0.465,0.527,0.5406666666666666
+S005,49,6,The scale of suffering is heartbreaking.,0.165,0.5345,0.40599999999999997
+S005,49,7,"President Biden and I are working to end this war such that Israel is secure, the hostages are released, the suffering in Gaza ends and the Palestinian people can realize their right to dignity, security, freedom, and self-determination.",0.4911111111111111,0.5267777777777778,0.5688888888888889

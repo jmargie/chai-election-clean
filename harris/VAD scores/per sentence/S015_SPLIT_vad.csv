@@ -1,0 +1,197 @@
+speech_id,line_id,sentence_id,sentence_text,valence,arousal,dominance
+S015,0,0,Good afternoon.,0.938,0.368,0.534
+S015,0,1,"Good afternoon, Pennsylvania.",0.938,0.368,0.534
+S015,0,2,"Good afternoon, everyone.",0.938,0.368,0.534
+S015,0,3,Good afternoon.,0.938,0.368,0.534
+S015,0,4,"Bob and Christina, thank you so very much for that introduction and for your friendship.",0.7849999999999999,0.383,0.583
+S015,0,5,"And as I’ve said to all the friends and leaders on the stage with me, we had a chance to speak ahead of time, I thank you all for everything that you are doing and the courage you are showing.",0.8021428571428572,0.4914285714285714,0.5958571428571429
+S015,1,0,"This is an extraordinary climate right now and I think we all recognize the courage that you are each showing to speak out so publicly and to put as we are saying, because we truly believe at country over parity.",0.7371666666666666,0.4521666666666666,0.6356666666666666
+S015,1,1,So thank you all.,0.958,0.353,0.526
+S015,1,2,"Can we please applaud Bob and Christina and all of the folks on the stage, please?",0.7635000000000001,0.592,0.459
+S015,1,3,Thank you.,0.958,0.353,0.526
+S015,1,4,Thank you.,0.958,0.353,0.526
+S015,1,5,"Truly, truly, thank you.",0.958,0.353,0.526
+S015,2,0,"So if you all have a seat, please do sit.",0.7135,0.4685,0.5645
+S015,2,1,Yes.,,,
+S015,2,2,So I think everyone here knows we meet in a place that holds a very special meaning for our country.,0.7251999999999998,0.4351999999999999,0.5902000000000001
+S015,2,3,"Here on Christmas Night, 1776, General George Washington and over 2,000 troops crossed the icy Delaware river in darkness, then marched to Trenton where they surprised an outpost of enemy soldiers and achieved a major victory in the American Revolution.",0.6710833333333334,0.5825833333333333,0.68675
+S015,3,0,"And after we won the war and achieved our independence, delegates from across the nation gathered not far from here in Philadelphia, to write and to sign the constitution of the United States.",0.5878571428571429,0.5047142857142857,0.7037142857142858
+S015,3,1,"And we remember and reflect on what that moment was, knowing that leading up to that, that work, to write, to compose the constitution of the United States, that work was not easy.",0.7181111111111111,0.45433333333333326,0.6847777777777778
+S015,4,0,"The founders often disagreed, often quite passionately.",,,
+S015,4,1,"But in the end, the constitution of the United States laid out the foundations of our democracy, including the rule of law that there would be checks and balances, that we would have free and fair elections, and a peaceful transfer of power.",0.6975384615384616,0.4087692307692308,0.6056923076923078
+S015,4,2,"These principles and traditions have sustained our nation for over two centuries sustained because generations of Americans, from all backgrounds, from all beliefs, have cherished them, upheld them, and defended them.",0.660875,0.35475,0.6241249999999999
+S015,4,3,And now the baton is in our hands.,0.272,0.235,0.519
+S015,5,0,"So I am joined today by over 100 Republican leaders from across Pennsylvania and across our country who are supporting my candidacy for president of the United States, and I am deeply honored to have their support.",0.6845999999999999,0.4681,0.686
+S015,5,1,"Some served in state houses, some in the United States Congress, some worked for other Republican presidents and presidential nominees including Mitt Romney, John McCain, George W.",0.561625,0.39137500000000003,0.548875
+S015,5,2,"Bush, George H.W.",,,
+S015,5,3,"Bush, and Ronald Reagan.",,,
+S015,5,4,Some today served in Donald Trump’s own administration.,0.806,0.306,0.362
+S015,6,0,"We also have with us republican voters from here in Pennsylvania and beyond who have been active in their Republican parties for years, who have supported Republican candidates up and down the ticket.",0.597,0.47644444444444445,0.5976666666666667
+S015,6,1,"Now, I say all that to make an obvious point.",0.6266666666666666,0.35533333333333333,0.5156666666666666
+S015,6,2,"In a typical election year, you all being here with me, might be a bit surprising, dare I say unusual.",0.6008333333333334,0.39549999999999996,0.5036666666666667
+S015,6,3,But not in this election.,,,
+S015,6,4,Not in this election.,,,
+S015,6,5,Because at stake in this race are the democratic ideals that our founders and generations of Americans before us have fought for.,0.63925,0.4855,0.6272500000000001
+S015,6,6,"At stake in this election is the constitution of the United States, it very itself.",0.6005,0.48450000000000004,0.69575
+S015,6,7,We are here today because we share a core belief that we must put country before party.,0.6868571428571428,0.39728571428571435,0.5352857142857144
+S015,7,0,"And so we know that sacred oath must always be honored and never violated, and that we should expect anyone who seeks the highest office in our land would meet that standard.",0.63825,0.4059166666666667,0.6113333333333333
+S015,7,1,"We here know the Constitution is not a relic from our past, but determines whether we are a country where the people can speak freely and even criticize the president without fear of being thrown in jail or targeted by the military, where the people can worship as they choose without the government interfering, where you can vote without fear that your vote will be thrown away.",0.5549230769230769,0.5015384615384616,0.5936923076923077
+S015,7,2,All of this and more depends on whether or not our leaders honor their oath to the constitution.,0.7195,0.601,0.8405
+S015,8,0,"I have sworn an oath to uphold the constitution six times, including as vice president, as the United States Senator, and as the top law enforcement officer of the largest state in our country.",0.6202307692307693,0.44284615384615383,0.6542307692307692
+S015,8,1,I have never wavered from upholding that oath.,0.757,0.389,0.593
+S015,9,0,And now Donald Trump is telling us how he intends to use power if he is elected again.,0.629,0.54625,0.69675
+S015,9,1,He has stated that one of the biggest threats America faces is “the enemy from within.”,0.3385,0.543,0.4805
+S015,10,0,It is clear Donald Trump is increasingly unstable and unhinged.,0.5546666666666666,0.5433333333333333,0.5403333333333333
+S015,11,0,"So as I’ve mentioned, many of you know I spent a career as a prosecutor in law enforcement, and I will tell you, I never asked a victim or a witness, “Are you a Republican or are you a Democrat?” I never asked of anyone who needed help.",0.5429999999999999,0.4776999999999999,0.5921
+S015,11,1,"If anyone who deserved attention, where were they registered and who did they vote for?",0.6815,0.5409999999999999,0.669
+S015,11,2,"The only question I ever asked was, “Are you okay?” And that is the kind of president I pledge to you that I will be.",0.7043999999999999,0.434,0.7198
+S015,11,3,"That is my pledge to you, because we have too much to do and too much good work to do, to be relegated, to requiring each of us to be in some silo, disconnected from each other.",0.6793750000000001,0.393375,0.55725
+S015,11,4,There’s too much good to be done.,0.804,0.304,0.544
+S015,11,5,"And the challenges that we face as a nation require us if we truly want to create solutions and strengthen our nation, the approach truly requires that we understand we’re all in this together.",0.64925,0.480875,0.680625
+S015,12,0,This is so much more than rhetoric or a campaign.,0.417,0.429,0.504
+S015,12,1,It really is about tapping into the spirit of who we are as Americans because we are all in this together.,0.786,0.37,0.621
+S015,12,2,We are all in this together.,,,
+S015,12,3,And so I pledge to be a president who actively works to unite us around our highest aspirations.,0.7323333333333334,0.46683333333333327,0.7113333333333333
+S015,12,4,"I pledge to you to be a president who is realistic and practical and has common sense, and to always fight for the American people, unlike Donald Trump, who frankly as we have seen, cares more about running on problems than fixing problems.",0.6533,0.5043,0.6262000000000001
+S015,13,0,"I want to fix problems, which means working across the aisle.",0.6965000000000001,0.5345,0.53825
+S015,13,1,It requires working across the aisle.,0.74,0.585,0.576
+S015,13,2,It requires embracing good ideas from wherever they come.,0.938,0.368,0.534
+S015,13,3,That is why I have pledged to appoint a Republican in my cabinet.,0.60975,0.4750000000000001,0.606
+S015,13,4,That is why I have pledged to establish a council on bipartisan solutions to recommend to me common sense solutions to some of the most pressing issues facing our country.,0.6773333333333333,0.438,0.5804444444444443
+S015,13,5,Because nobody has a corner on the good ideas.,0.669,0.33199999999999996,0.45
+S015,13,6,"They actually come from many places and one should… Especially if they want to be a leader, one should welcome those ideas, and those ideas which are about, in particular, strengthening the middle class, securing our border, defending our freedoms, and maintaining our leadership in the world.",0.6697000000000001,0.46349999999999997,0.6154
+S015,14,0,"And all of this is to also say that I believe for America to be the world’s strongest democracy, we must have a healthy two-party system, because it is when we have a healthy two-party system that leaders are then required to debate the merits of policy and to work, yes, across the aisle regularly and routinely to get things done.",0.6298,0.40433333333333343,0.6186
+S015,15,0,I have experienced firsthand how important and rewarding that kind of bipartisan cooperation can be.,0.82,0.4774285714285714,0.6977142857142856
+S015,15,1,"So I’ll tell you, when I was the United States senator, I served on the Senate Intelligence Committee.",0.6637500000000001,0.42924999999999996,0.7402500000000001
+S015,15,2,"It was actually my favorite committee for a number reasons, but specifically this.",0.6276666666666667,0.4043333333333334,0.6276666666666667
+S015,15,3,There we dealt with some of the most pressing issues affecting national security.,0.4293333333333333,0.5646666666666667,0.5643333333333334
+S015,15,4,There we would talk about hotspots around the world and what we needed to do to focus on keeping America safe and secure.,0.684375,0.37625,0.6395000000000001
+S015,15,5,"And to do that, we would review classified information which required us to meet in a secure room.",0.669125,0.449625,0.645875
+S015,15,6,"Adam, you know it’s called a skiff.",0.765,0.361,0.704
+S015,15,7,Okay.,,,
+S015,16,0,"When we would go in that room, with all due respect, no cameras were allowed, no press, and we would roll up our sleeves and get to work.",0.5445000000000001,0.4515,0.434
+S015,16,1,"I’m telling you, senators of both parties would walk in that room, take off their suit jackets, roll up their sleeves, have a cup of coffee on the table, and we would have real conversations, real conversations as Americans because we understood that what happened in that room, well, the stakes were so high.",0.6850714285714284,0.4164285714285714,0.4770714285714285
+S015,16,2,"And therefore it could not be, we could not afford to let it be about whether one was a Democrat or a Republican.",0.5584,0.37700000000000006,0.5122
+S015,16,3,The stakes were too high.,,,
+S015,16,4,"We were in that room and it was all about us as Americans, about doing what is in the best interest of the safety and security of our nation.",0.7634999999999998,0.45024999999999993,0.688
+S015,16,5,I love that work.,1.0,0.519,0.673
+S015,17,0,"And it was what we have as the theme of today, it was country over party in action, in action.",0.736,0.44975,0.5650000000000001
+S015,17,1,"So I know it can be done, and that is the standard of leadership and the aspiration that I have in terms of how we will work when, with your help, I’m elected president of the United States.",0.7055000000000001,0.4438333333333333,0.7045
+S015,17,2,So-,,,
+S015,18,0,"So as I have said, our campaign is not a fight against something.",0.63,0.6623333333333333,0.7416666666666667
+S015,18,1,It is a fight for something.,0.531,0.868,0.809
+S015,18,2,It is a fight for the fundamental principles upon which we were founded.,0.6456666666666666,0.5253333333333333,0.8506666666666667
+S015,18,3,"It is a fight for a new generation of leadership that is optimistic about what we can achieve together, Republicans, Democrats, and independents who want to move past the politics of division and blame and get things done on behalf of the American people.",0.6326,0.5478,0.6284666666666666
+S015,18,4,"And when it all comes down to it, I know we are all here together this beautiful afternoon because we love our country.",0.7091666666666666,0.434,0.5476666666666666
+S015,18,5,We love our country.,1.0,0.519,0.673
+S015,18,6,"And we are here because we know the deep privilege and pride that comes with being an American and the duty that comes along with it, and the duty that comes along with it.",0.6661666666666667,0.5418333333333333,0.722
+S015,19,0,"Imperfect though we may be, America is still that shining city upon a hill that inspires people around the world.",0.638,0.4595,0.46416666666666667
+S015,19,1,And I do believe it is one of the highest forms of patriotism to fight for the ideals of our country.,0.6671666666666667,0.5588333333333334,0.6591666666666667
+S015,19,2,"So should people from across Pennsylvania and across our nation, let us together stand up for the rule of law, for our democratic ideals, and for the constitution of the United States.",0.655625,0.40574999999999994,0.629625
+S015,19,3,"And in 20 days, we have the power to chart a new way forward, one that is worthy of this magnificent country that we are all blessed to call home.",0.7180000000000001,0.4320909090909091,0.6251818181818181
+S015,19,4,Thank you all.,0.958,0.353,0.526
+S015,19,5,May God bless you and may God bless the United States of America.,0.7947142857142857,0.36442857142857144,0.603
+S015,19,6,Thank you.,0.958,0.353,0.526
+S015,20,0,We got to get to work.,0.74,0.594,0.667
+S015,20,1,We got to get to work.,0.74,0.594,0.667
+S015,20,2,So let me just say an obvious point.,0.541,0.33966666666666673,0.45799999999999996
+S015,20,3,"There’s a fundamental choice in this election, a very fundamental choice, a choice between the leadership that I pledge to offer to America, leadership that brings folks together that builds consensus and focuses on making life better for you with the knowledge that we have so much more in common than what separates us.",0.7669999999999998,0.4864285714285715,0.741
+S015,20,4,"And on the other hand, the choice of someone who I think we can guarantee will sit in the Oval Office plotting retribution, stew in his own grievances, and think only about himself and not you.",0.6518181818181819,0.3505454545454545,0.5100000000000001
+S015,21,0,Good afternoon.,0.938,0.368,0.534
+S015,21,1,"Good afternoon, Pennsylvania.",0.938,0.368,0.534
+S015,21,2,"Good afternoon, everyone.",0.938,0.368,0.534
+S015,21,3,Good afternoon.,0.938,0.368,0.534
+S015,21,4,"Bob and Christina, thank you so very much for that introduction and for your friendship.",0.7849999999999999,0.383,0.583
+S015,21,5,"And as I’ve said to all the friends and leaders on the stage with me, we had a chance to speak ahead of time, I thank you all for everything that you are doing and the courage you are showing.",0.8021428571428572,0.4914285714285714,0.5958571428571429
+S015,22,0,"This is an extraordinary climate right now and I think we all recognize the courage that you are each showing to speak out so publicly and to put as we are saying, because we truly believe at country over parity.",0.7371666666666666,0.4521666666666666,0.6356666666666666
+S015,22,1,So thank you all.,0.958,0.353,0.526
+S015,22,2,"Can we please applaud Bob and Christina and all of the folks on the stage, please?",0.7635000000000001,0.592,0.459
+S015,22,3,Thank you.,0.958,0.353,0.526
+S015,22,4,Thank you.,0.958,0.353,0.526
+S015,22,5,"Truly, truly, thank you.",0.958,0.353,0.526
+S015,23,0,"So if you all have a seat, please do sit.",0.7135,0.4685,0.5645
+S015,23,1,Yes.,,,
+S015,23,2,So I think everyone here knows we meet in a place that holds a very special meaning for our country.,0.7251999999999998,0.4351999999999999,0.5902000000000001
+S015,23,3,"Here on Christmas Night, 1776, General George Washington and over 2,000 troops crossed the icy Delaware river in darkness, then marched to Trenton where they surprised an outpost of enemy soldiers and achieved a major victory in the American Revolution.",0.6710833333333334,0.5825833333333333,0.68675
+S015,24,0,"And after we won the war and achieved our independence, delegates from across the nation gathered not far from here in Philadelphia, to write and to sign the constitution of the United States.",0.5878571428571429,0.5047142857142857,0.7037142857142858
+S015,24,1,"And we remember and reflect on what that moment was, knowing that leading up to that, that work, to write, to compose the constitution of the United States, that work was not easy.",0.7181111111111111,0.45433333333333326,0.6847777777777778
+S015,25,0,"The founders often disagreed, often quite passionately.",,,
+S015,25,1,"But in the end, the constitution of the United States laid out the foundations of our democracy, including the rule of law that there would be checks and balances, that we would have free and fair elections, and a peaceful transfer of power.",0.6975384615384616,0.4087692307692308,0.6056923076923078
+S015,25,2,"These principles and traditions have sustained our nation for over two centuries sustained because generations of Americans, from all backgrounds, from all beliefs, have cherished them, upheld them, and defended them.",0.660875,0.35475,0.6241249999999999
+S015,25,3,And now the baton is in our hands.,0.272,0.235,0.519
+S015,26,0,"So I am joined today by over 100 Republican leaders from across Pennsylvania and across our country who are supporting my candidacy for president of the United States, and I am deeply honored to have their support.",0.6845999999999999,0.4681,0.686
+S015,26,1,"Some served in state houses, some in the United States Congress, some worked for other Republican presidents and presidential nominees including Mitt Romney, John McCain, George W.",0.561625,0.39137500000000003,0.548875
+S015,26,2,"Bush, George H.W.",,,
+S015,26,3,"Bush, and Ronald Reagan.",,,
+S015,26,4,Some today served in Donald Trump’s own administration.,0.806,0.306,0.362
+S015,27,0,"We also have with us republican voters from here in Pennsylvania and beyond who have been active in their Republican parties for years, who have supported Republican candidates up and down the ticket.",0.597,0.47644444444444445,0.5976666666666667
+S015,27,1,"Now, I say all that to make an obvious point.",0.6266666666666666,0.35533333333333333,0.5156666666666666
+S015,27,2,"In a typical election year, you all being here with me, might be a bit surprising, dare I say unusual.",0.6008333333333334,0.39549999999999996,0.5036666666666667
+S015,27,3,But not in this election.,,,
+S015,27,4,Not in this election.,,,
+S015,27,5,Because at stake in this race are the democratic ideals that our founders and generations of Americans before us have fought for.,0.63925,0.4855,0.6272500000000001
+S015,27,6,"At stake in this election is the constitution of the United States, it very itself.",0.6005,0.48450000000000004,0.69575
+S015,27,7,We are here today because we share a core belief that we must put country before party.,0.6868571428571428,0.39728571428571435,0.5352857142857144
+S015,28,0,"And so we know that sacred oath must always be honored and never violated, and that we should expect anyone who seeks the highest office in our land would meet that standard.",0.63825,0.4059166666666667,0.6113333333333333
+S015,28,1,"We here know the Constitution is not a relic from our past, but determines whether we are a country where the people can speak freely and even criticize the president without fear of being thrown in jail or targeted by the military, where the people can worship as they choose without the government interfering, where you can vote without fear that your vote will be thrown away.",0.5549230769230769,0.5015384615384616,0.5936923076923077
+S015,28,2,All of this and more depends on whether or not our leaders honor their oath to the constitution.,0.7195,0.601,0.8405
+S015,29,0,"I have sworn an oath to uphold the constitution six times, including as vice president, as the United States Senator, and as the top law enforcement officer of the largest state in our country.",0.6202307692307693,0.44284615384615383,0.6542307692307692
+S015,29,1,I have never wavered from upholding that oath.,0.757,0.389,0.593
+S015,30,0,And now Donald Trump is telling us how he intends to use power if he is elected again.,0.629,0.54625,0.69675
+S015,30,1,He has stated that one of the biggest threats America faces is “the enemy from within.”,0.3385,0.543,0.4805
+S015,31,0,It is clear Donald Trump is increasingly unstable and unhinged.,0.5546666666666666,0.5433333333333333,0.5403333333333333
+S015,32,0,"So as I’ve mentioned, many of you know I spent a career as a prosecutor in law enforcement, and I will tell you, I never asked a victim or a witness, “Are you a Republican or are you a Democrat?” I never asked of anyone who needed help.",0.5429999999999999,0.4776999999999999,0.5921
+S015,32,1,"If anyone who deserved attention, where were they registered and who did they vote for?",0.6815,0.5409999999999999,0.669
+S015,32,2,"The only question I ever asked was, “Are you okay?” And that is the kind of president I pledge to you that I will be.",0.7043999999999999,0.434,0.7198
+S015,32,3,"That is my pledge to you, because we have too much to do and too much good work to do, to be relegated, to requiring each of us to be in some silo, disconnected from each other.",0.6793750000000001,0.393375,0.55725
+S015,32,4,There’s too much good to be done.,0.804,0.304,0.544
+S015,32,5,"And the challenges that we face as a nation require us if we truly want to create solutions and strengthen our nation, the approach truly requires that we understand we’re all in this together.",0.64925,0.480875,0.680625
+S015,33,0,This is so much more than rhetoric or a campaign.,0.417,0.429,0.504
+S015,33,1,It really is about tapping into the spirit of who we are as Americans because we are all in this together.,0.786,0.37,0.621
+S015,33,2,We are all in this together.,,,
+S015,33,3,And so I pledge to be a president who actively works to unite us around our highest aspirations.,0.7323333333333334,0.46683333333333327,0.7113333333333333
+S015,33,4,"I pledge to you to be a president who is realistic and practical and has common sense, and to always fight for the American people, unlike Donald Trump, who frankly as we have seen, cares more about running on problems than fixing problems.",0.6533,0.5043,0.6262000000000001
+S015,34,0,"I want to fix problems, which means working across the aisle.",0.6965000000000001,0.5345,0.53825
+S015,34,1,It requires working across the aisle.,0.74,0.585,0.576
+S015,34,2,It requires embracing good ideas from wherever they come.,0.938,0.368,0.534
+S015,34,3,That is why I have pledged to appoint a Republican in my cabinet.,0.60975,0.4750000000000001,0.606
+S015,34,4,That is why I have pledged to establish a council on bipartisan solutions to recommend to me common sense solutions to some of the most pressing issues facing our country.,0.6773333333333333,0.438,0.5804444444444443
+S015,34,5,Because nobody has a corner on the good ideas.,0.669,0.33199999999999996,0.45
+S015,34,6,"They actually come from many places and one should… Especially if they want to be a leader, one should welcome those ideas, and those ideas which are about, in particular, strengthening the middle class, securing our border, defending our freedoms, and maintaining our leadership in the world.",0.6697000000000001,0.46349999999999997,0.6154
+S015,35,0,"And all of this is to also say that I believe for America to be the world’s strongest democracy, we must have a healthy two-party system, because it is when we have a healthy two-party system that leaders are then required to debate the merits of policy and to work, yes, across the aisle regularly and routinely to get things done.",0.6298,0.40433333333333343,0.6186
+S015,36,0,I have experienced firsthand how important and rewarding that kind of bipartisan cooperation can be.,0.82,0.4774285714285714,0.6977142857142856
+S015,36,1,"So I’ll tell you, when I was the United States senator, I served on the Senate Intelligence Committee.",0.6637500000000001,0.42924999999999996,0.7402500000000001
+S015,36,2,"It was actually my favorite committee for a number reasons, but specifically this.",0.6276666666666667,0.4043333333333334,0.6276666666666667
+S015,36,3,There we dealt with some of the most pressing issues affecting national security.,0.4293333333333333,0.5646666666666667,0.5643333333333334
+S015,36,4,There we would talk about hotspots around the world and what we needed to do to focus on keeping America safe and secure.,0.684375,0.37625,0.6395000000000001
+S015,36,5,"And to do that, we would review classified information which required us to meet in a secure room.",0.669125,0.449625,0.645875
+S015,36,6,"Adam, you know it’s called a skiff.",0.765,0.361,0.704
+S015,36,7,Okay.,,,
+S015,37,0,"When we would go in that room, with all due respect, no cameras were allowed, no press, and we would roll up our sleeves and get to work.",0.5445000000000001,0.4515,0.434
+S015,37,1,"I’m telling you, senators of both parties would walk in that room, take off their suit jackets, roll up their sleeves, have a cup of coffee on the table, and we would have real conversations, real conversations as Americans because we understood that what happened in that room, well, the stakes were so high.",0.6850714285714284,0.4164285714285714,0.4770714285714285
+S015,37,2,"And therefore it could not be, we could not afford to let it be about whether one was a Democrat or a Republican.",0.5584,0.37700000000000006,0.5122
+S015,37,3,The stakes were too high.,,,
+S015,37,4,"We were in that room and it was all about us as Americans, about doing what is in the best interest of the safety and security of our nation.",0.7634999999999998,0.45024999999999993,0.688
+S015,37,5,I love that work.,1.0,0.519,0.673
+S015,38,0,"And it was what we have as the theme of today, it was country over party in action, in action.",0.736,0.44975,0.5650000000000001
+S015,38,1,"So I know it can be done, and that is the standard of leadership and the aspiration that I have in terms of how we will work when, with your help, I’m elected president of the United States.",0.7055000000000001,0.4438333333333333,0.7045
+S015,38,2,So-,,,
+S015,39,0,"So as I have said, our campaign is not a fight against something.",0.63,0.6623333333333333,0.7416666666666667
+S015,39,1,It is a fight for something.,0.531,0.868,0.809
+S015,39,2,It is a fight for the fundamental principles upon which we were founded.,0.6456666666666666,0.5253333333333333,0.8506666666666667
+S015,39,3,"It is a fight for a new generation of leadership that is optimistic about what we can achieve together, Republicans, Democrats, and independents who want to move past the politics of division and blame and get things done on behalf of the American people.",0.6326,0.5478,0.6284666666666666
+S015,39,4,"And when it all comes down to it, I know we are all here together this beautiful afternoon because we love our country.",0.7091666666666666,0.434,0.5476666666666666
+S015,39,5,We love our country.,1.0,0.519,0.673
+S015,39,6,"And we are here because we know the deep privilege and pride that comes with being an American and the duty that comes along with it, and the duty that comes along with it.",0.6661666666666667,0.5418333333333333,0.722
+S015,40,0,"Imperfect though we may be, America is still that shining city upon a hill that inspires people around the world.",0.638,0.4595,0.46416666666666667
+S015,40,1,And I do believe it is one of the highest forms of patriotism to fight for the ideals of our country.,0.6671666666666667,0.5588333333333334,0.6591666666666667
+S015,40,2,"So should people from across Pennsylvania and across our nation, let us together stand up for the rule of law, for our democratic ideals, and for the constitution of the United States.",0.655625,0.40574999999999994,0.629625
+S015,40,3,"And in 20 days, we have the power to chart a new way forward, one that is worthy of this magnificent country that we are all blessed to call home.",0.7180000000000001,0.4320909090909091,0.6251818181818181
+S015,40,4,Thank you all.,0.958,0.353,0.526
+S015,40,5,May God bless you and may God bless the United States of America.,0.7947142857142857,0.36442857142857144,0.603
+S015,40,6,Thank you.,0.958,0.353,0.526
+S015,41,0,We got to get to work.,0.74,0.594,0.667
+S015,41,1,We got to get to work.,0.74,0.594,0.667
+S015,41,2,So let me just say an obvious point.,0.541,0.33966666666666673,0.45799999999999996
+S015,41,3,"There’s a fundamental choice in this election, a very fundamental choice, a choice between the leadership that I pledge to offer to America, leadership that brings folks together that builds consensus and focuses on making life better for you with the knowledge that we have so much more in common than what separates us.",0.7669999999999998,0.4864285714285715,0.741
+S015,41,4,"And on the other hand, the choice of someone who I think we can guarantee will sit in the Oval Office plotting retribution, stew in his own grievances, and think only about himself and not you.",0.6518181818181819,0.3505454545454545,0.5100000000000001

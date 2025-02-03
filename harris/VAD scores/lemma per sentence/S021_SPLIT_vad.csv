@@ -1,0 +1,275 @@
+speech_id,line_id,sentence_id,sentence_text,valence,arousal,dominance
+S021,0,0,So thank you all.,0.958,0.353,0.526
+S021,0,1,"So listen, this election, I do strongly believe is about two very different visions for our nation.",0.6581,0.4338,0.6193000000000001
+S021,0,2,"One, ours.",0.542,0.292,0.37
+S021,0,3,"Focused on the future, and the other focused on the past.",0.6459999999999999,0.41200000000000003,0.5304
+S021,0,4,"We see that contrast clearly in many ways, including when it comes to how we think about the economy.",0.6287142857142857,0.3891428571428572,0.5317142857142857
+S021,0,5,So our country has come a long way since President Biden and I took office.,0.617125,0.392625,0.5796250000000001
+S021,0,6,"At that time, we sadly remembered the millions of Americans that were out of work.",0.622,0.39316666666666666,0.5881666666666666
+S021,0,7,We were facing one of the worst economic crises in modern history.,0.5955714285714286,0.42314285714285715,0.569857142857143
+S021,0,8,"And today, by virtually every measure, our economy is the strongest in the world.",0.671,0.4307142857142857,0.6174285714285713
+S021,1,0,We have created 16 million new jobs.,0.7859999999999999,0.5309999999999999,0.6986
+S021,1,1,"We have made historic investments in infrastructure, in chips manufacturing, in clean energy, and new numbers this week alone show that inflation is down under 3%.",0.6129411764705882,0.44035294117647056,0.5619999999999999
+S021,1,2,"And as President of the United States, it will be my intention to build on the foundation of this progress.",0.7045555555555556,0.45266666666666666,0.7442222222222221
+S021,1,3,"Still, we know that many Americans don’t yet feel that progress in their daily lives.",0.7813333333333333,0.5191666666666667,0.6683333333333333
+S021,1,4,"Costs are still too high, and on a deeper level for too many people, no matter how much they work, it feels so hard to just be able to get ahead.",0.6276153846153847,0.45846153846153853,0.6020000000000001
+S021,2,0,"As President, I will be laser focused on creating opportunities for the middle class that advance their economic security, stability and dignity.",0.6977857142857141,0.4201428571428572,0.7259285714285715
+S021,2,1,"Together, we will build what I call an opportunity economy, an opportunity economy, an economy where everyone can compete and have a real chance to succeed.",0.7354666666666667,0.5383333333333334,0.7158
+S021,2,2,"Everyone, regardless of who they are or where they start, has an opportunity to build wealth for themselves and their children.",0.7905714285714287,0.5035714285714284,0.6668571428571427
+S021,2,3,"And where we remove the barriers to opportunity, so anyone who wants to start a business or advance their career can access the tools and the resources that are necessary to do so.",0.6386000000000001,0.4893333333333334,0.6189333333333332
+S021,3,0,I will focus on cutting needless bureaucracy and unnecessary regulatory red tape and encouraging innovative technologies while protecting consumers and creating a stable business environment with consistent and transparent rules of the road.,0.6141363636363638,0.43477272727272726,0.6056363636363636
+S021,3,1,"As President, I will bring together labor with small businesses and major companies to invest in America, to create good jobs, achieve broad-based growth, and ensure that America continues to define the future and lead the world.",0.7158636363636365,0.4935909090909091,0.6864090909090909
+S021,4,0,"And key, key, to creating this opportunity economy is building up our middle class.",0.6695555555555556,0.3684444444444444,0.6088888888888889
+S021,4,1,It is essential.,0.7410000000000001,0.3225,0.6565000000000001
+S021,4,2,"The middle class is one of America’s greatest strengths, and to protect it, then, we must defend basic principles, such as your salary should be enough to provide you and your family with a good quality of life, such as no child should have to grow up in poverty, such as after years of hard work, you should be able to retire with dignity, and you should be able to join a union if you choose.",0.7039411764705881,0.43208823529411766,0.6214411764705883
+S021,4,3,"Building up the middle class will be a defining goal of my presidency because I strongly believe when the middle class is strong, America is strong.",0.698125,0.40575,0.6431250000000001
+S021,5,0,"So in the weeks to come, I will address in greater detail my plans to build an opportunity economy, and today, I will focus on one element that’s on the minds of many Americans as they pay their bills at the kitchen table or walk the aisles of a grocery store, and that is lowering the cost of living.",0.6168571428571427,0.3998928571428571,0.5447142857142857
+S021,5,1,"So every day across our nation, families talk about their plans for the future, their ambitions, their aspirations for themselves, for their children, and they talk about how they’re going to be able to actually achieve them financially.",0.7381428571428572,0.48307142857142865,0.6415714285714287
+S021,5,2,"Because look, the bills add up, food, rent, gas, back-to-school clothes, prescription medication.",0.5659,0.3881,0.5014
+S021,5,3,"After all that, for many families, there’s not much left at the end of the month.",0.552,0.33924999999999994,0.42825
+S021,6,0,I grew up in a middle-class household.,0.7176666666666667,0.334,0.574
+S021,6,1,"For most of my childhood, we were renters.",0.7083333333333334,0.318,0.4106666666666667
+S021,6,2,My mother saved for well over a decade to buy a home.,0.7714000000000001,0.45760000000000006,0.6458
+S021,6,3,"I was a teenager when that day finally came, and I can remember so well how excited she was.",0.6997777777777778,0.4174444444444444,0.5182222222222221
+S021,6,4,"I kind of understood what it meant, but we called her mommy, mommy was so excited.",0.7522500000000001,0.4565,0.573625
+S021,6,5,It just made us excited that she was so excited.,0.7925,0.6305000000000001,0.613
+S021,6,6,"Later in college, I worked at McDonald’s to earn spending money.",0.6921999999999999,0.5992,0.694
+S021,6,7,"Well, some of the people I worked with were raising families on that paycheck.",0.7653333333333333,0.4613333333333333,0.6236666666666667
+S021,6,8,They worked second or even third jobs to pay rent and buy food.,0.621375,0.45549999999999996,0.52475
+S021,6,9,That only gets harder when the cost of living goes up.,0.5564,0.5542,0.5786
+S021,7,0,"When I am elected President, I will make it a top priority to bring cost and increase economic security for all Americans.",0.6868333333333334,0.4592500000000001,0.6723333333333334
+S021,7,1,"As President, I will take on the high costs that matter most to most Americans, like the cost of food.",0.6345555555555555,0.43855555555555553,0.5647777777777778
+S021,7,2,"We all know that prices went up during the pandemic when the supply chains shut down and failed, but our supply chains have now improved and prices are still too high.",0.5137499999999999,0.4661875,0.5144375
+S021,7,3,A loaf of bread cost 50% more today than it did before the pandemic.,0.5693333333333334,0.438,0.4166666666666667
+S021,7,4,Ground beef is up almost 50%.,0.5499999999999999,0.29833333333333334,0.5493333333333333
+S021,7,5,"Many of the big food companies are seeing their highest profits in two decades, and while many grocery chains pass along these savings, others still aren’t.",0.6763999999999999,0.3876666666666667,0.5519333333333333
+S021,8,0,"Look, I know most businesses are creating jobs, contributing to our economy, and playing by the rules, but some are not, and that’s just not right, and we need to take action when that is the case.",0.6879411764705883,0.46,0.603529411764706
+S021,8,1,"As Attorney General in California, I went after companies that illegally increased prices, including wholesalers that inflated the price of prescription medication and companies that conspired with competitors to keep prices of electronics high.",0.5712631578947368,0.5198421052631579,0.6182105263157895
+S021,8,2,I won more than $1 billion for consumers.,0.7176666666666667,0.6030000000000001,0.7823333333333333
+S021,8,3,"So believe me, as President, I will go after the bad actors, and I will work to pass the first ever federal ban on price gauging on food.",0.5679333333333333,0.4843333333333332,0.6356666666666666
+S021,8,4,"My plan will include new penalties for opportunistic companies that exploit crises and break the rules, and we will support smaller food businesses that are trying to play by the rules and get ahead.",0.6257619047619047,0.49347619047619046,0.5799047619047619
+S021,8,5,"We’ll help the food industry become more competitive, because I believe competition is the lifeblood of our economy.",0.6586000000000001,0.5067000000000002,0.6887000000000001
+S021,8,6,More competition means lower prices for you and your families.,0.5938,0.46340000000000003,0.5388
+S021,9,0,"Now, compare what Donald Trump plans to do.",0.627,0.5529999999999999,0.6727500000000001
+S021,9,1,He wants to impose what is in effect a national sales tax on everyday products and basic necessities that we import from other countries.,0.5966428571428571,0.4438571428571429,0.559142857142857
+S021,9,2,That will devastate Americans.,0.3595,0.602,0.622
+S021,9,3,It will mean higher prices on just about every one of your daily needs.,0.5982857142857144,0.44157142857142856,0.5208571428571429
+S021,9,4,"A Trump tax on gas, a Trump tax on food, a Trump tax on clothing, a Trump tax on over-the-counter medication.",0.5207499999999999,0.5251666666666667,0.6400833333333333
+S021,9,5,And economists have done the math.,0.6146666666666667,0.43733333333333335,0.5763333333333334
+S021,9,6,"Donald Trump’s plan would cost a typical family $3,900 a year.",0.6127142857142857,0.423,0.5687142857142857
+S021,9,7,"At this moment, when everyday prices are too high, he will make them even higher.",0.6781250000000001,0.42599999999999993,0.5765
+S021,10,0,"As President, I’ll attack and take on the issue of the cost of healthcare.",0.5419999999999999,0.6229999999999999,0.5685
+S021,10,1,"As Attorney General, I took on insurance companies and Big Pharma and got them to lower their prices.",0.6922222222222223,0.4778888888888888,0.65
+S021,10,2,"And together with President Biden, we’ve gone even further.",0.6143333333333334,0.4146666666666667,0.607
+S021,10,3,"We capped the price of insulin at $35 a month and the total cost of prescription drugs at $2,000 a year for seniors.",0.49160000000000004,0.39339999999999997,0.4736000000000001
+S021,10,4,We let Medicare negotiate lower drug prices for seniors.,0.4366666666666666,0.5095,0.47633333333333333
+S021,10,5,"And just yesterday, we announced that we are lowering the price by up to 80% for 10 more life-saving drugs.",0.5305714285714286,0.4781428571428571,0.483
+S021,11,0,And I pledge to continue this progress.,0.743,0.5196666666666667,0.751
+S021,11,1,"I’ll lower the cost of insulin and prescription drugs for everyone with your support, not only our seniors, and demand transparency from the middlemen who operate between Big Pharma and the insurance companies who use opaque practices to raise your drug prices and profit off your need for medicine.",0.556391304347826,0.479086956521739,0.5516956521739129
+S021,11,2,"Two months ago, I announced that medical debt will no longer be used against your credit score, and I will work as President with states, like here in North Carolina, Roy Cooper, thank you again, to cancel medical debt for more and more, millions more Americans.",0.5762173913043479,0.4086521739130434,0.5545217391304347
+S021,12,0,"As for Donald Trump, well, he wants to repeal the Affordable Care Act, which 45 million Americans rely on, 45 million Americans rely on it for healthcare.",0.7047272727272728,0.5321818181818183,0.6538181818181819
+S021,12,1,That would take us back to a time when insurance companies could deny people with pre-existing conditions.,0.6060000000000001,0.4256666666666667,0.5285555555555556
+S021,12,2,"We all remember what that was, and we’re not going back.",0.5985,0.364,0.447
+S021,13,0,And let’s talk about the cost of housing.,0.60025,0.36075,0.48275
+S021,13,1,"So now, the housing market can be complicated, but look, I’m not new to this issue.",0.624375,0.47274999999999995,0.515375
+S021,13,2,"As State Attorney General, I drafted and helped pass a Homeowner Bill of Rights, one of the first in America.",0.5959090909090909,0.40872727272727266,0.6135454545454546
+S021,13,3,"And during the foreclosure crisis, I took on the big banks for predatory lending with many of my colleagues, including Roy Cooper, and won $20 billion for California families when I was Attorney General.",0.6212,0.5409333333333334,0.6367333333333334
+S021,13,4,"So I know how to fight for people who are being exploited in the housing market, and I know what homeownership means.",0.6432,0.4505,0.6057
+S021,13,5,It’s more than a financial transaction.,0.6585000000000001,0.5385,0.6505
+S021,13,6,It’s so much more than that.,,,
+S021,13,7,It’s more than a house.,0.587,0.135,0.533
+S021,13,8,"Homeownership and what that means, it’s a symbol of the pride that comes with hard work.",0.5895,0.49466666666666664,0.6265
+S021,13,9,It’s financial security.,0.752,0.43,0.7715
+S021,13,10,It represents what you will be able to do for your children.,0.7436666666666666,0.44449999999999995,0.6551666666666668
+S021,14,0,"And sadly, right now, it is out of reach for far too many American families.",0.6288,0.371,0.5626
+S021,14,1,There’s a serious housing shortage in many places.,0.48575,0.36875,0.4515
+S021,14,2,"It’s too difficult to build, and it’s driving prices up.",0.5275,0.6025,0.6405000000000001
+S021,14,3,"As President, I will work in partnership with industry to build the housing we need, both to rent and to buy.",0.6702,0.5082,0.6494
+S021,14,4,"We will take down barriers and cut red tape, including at the state and local levels.",0.5504545454545454,0.37736363636363635,0.4543636363636363
+S021,14,5,"And by the end of my first term, we will end America’s housing shortage by building 3 million new homes and rentals that are affordable for the middle class.",0.5890625,0.362125,0.5184375000000001
+S021,14,6,And we’ll do that together.,0.772,0.47000000000000003,0.597
+S021,14,7,We’ll do that together.,0.772,0.47000000000000003,0.597
+S021,15,0,"And we will make sure those homes actually go to working and middle-class Americans, not just investors.",0.68275,0.40075,0.583
+S021,15,1,"Because some corporate landlords, some of them buy dozens if not hundreds of houses and apartments.",0.6401666666666666,0.4013333333333333,0.5273333333333333
+S021,15,2,"Then, they turn them around and rent them out at extremely high prices, and it can make it impossible then for regular people to be able to buy or even rent a home.",0.5757333333333333,0.4483333333333333,0.5552666666666667
+S021,15,3,"Some corporate landlords collude with each other to set artificially high rental prices, often using algorithms in price-fixing software to do it.",0.5448333333333334,0.42300000000000004,0.5465
+S021,15,4,"It’s anticompetitive, and it drives up costs.",0.495,0.5545,0.576
+S021,15,5,I will fight for a law that cracks down on these practices.,0.5271666666666667,0.5671666666666667,0.6103333333333333
+S021,16,0,"We also know that as the price of housing has gone up, the size of down payments have gone up as well.",0.5486,0.3496,0.4872000000000001
+S021,16,1,"Even if aspiring homeowners save for years, it often still is not enough.",0.7144,0.3976,0.6619999999999999
+S021,16,2,"So in addition, while we work on the housing shortage, my administration will provide first-time home buyers with $25,000 to help with the down payment on a new home.",0.6453333333333333,0.42393333333333333,0.5807333333333333
+S021,16,3,"We can do this, we can do this.",0.666,0.454,0.495
+S021,16,4,All to help more Americans experience the pride of homeownership and the financial security that it represents and brings.,0.7355714285714284,0.4965714285714285,0.7255714285714285
+S021,17,0,"So that’s my plan, but here’s what Donald Trump would do.",0.61225,0.554,0.6485
+S021,17,1,"If his Project 2025 agenda is put into effect, it will add around $1,200 a year to the typical American mortgage.",0.5873999999999999,0.371,0.5745
+S021,17,2,He’s got it backward.,0.5245,0.4805,0.4585
+S021,17,3,"We should be doing everything we can to make it more affordable to buy a home, not less.",0.677,0.405625,0.473625
+S021,18,0,"Finally, there’s one more way I will help families deal with rising cost, and that’s by letting you keep more of your hard-earned money.",0.6203846153846153,0.4513846153846154,0.5436923076923077
+S021,18,1,"Under my plan, more than 100 million Americans will get a tax cut, and we will do this by restoring two tax cuts designed to help middle-class and working Americans, the Earned Income Tax Credit and the Child Tax Credit, through which millions of Americans with children got to keep more of their hard-earned income.",0.6281379310344827,0.4986896551724137,0.5971379310344829
+S021,18,2,"We know this works and has a direct impact on so many issues, including child poverty.",0.6176666666666667,0.5163333333333333,0.5383333333333333
+S021,18,3,We know it works.,0.7705,0.39749999999999996,0.6805
+S021,18,4,"So as President, I’ll not only restore that tax cut but expand it.",0.5968,0.5284000000000001,0.6421999999999999
+S021,18,5,"We will provide $6,000 in tax relief to families during the first year of a child’s life.",0.7333333333333334,0.43622222222222223,0.6152222222222222
+S021,19,0,"Now, think what that means.",0.7005,0.39049999999999996,0.539
+S021,19,1,Think what that means.,0.7005,0.39049999999999996,0.539
+S021,19,2,"That is a vital, vital year of critical development of a child, and the cost can really add up, especially for young parents who need to buy diapers and clothes and a car seat and so much else.",0.6571176470588235,0.4737058823529412,0.5317058823529411
+S021,19,3,And we will do this while reducing the deficit.,0.48624999999999996,0.44,0.469
+S021,19,4,Compare my plan with what Donald Trump intends to do.,0.6140000000000001,0.5464,0.6420000000000001
+S021,19,5,"He plans to give billionaires massive tax cuts, year after year, and he plans to cut corporate taxes by over a trillion dollars even as they pull in record profits.",0.60075,0.491,0.5965625
+S021,19,6,"And that’s on top of the $2 trillion tax cut he already signed into law when he was President, which by the way, overwhelmingly, overwhelmingly, went to the wealthiest Americans and corporations and exploded the national deficit.",0.5658666666666666,0.4725333333333333,0.6098
+S021,19,7,"I think that if you want to know who someone cares about, look who they fight for.",0.7001666666666666,0.513,0.6406666666666667
+S021,19,8,Look who they fight for.,0.625,0.6485,0.712
+S021,19,9,Donald Trump fights for billionaires and large corporations.,0.5297999999999999,0.6399999999999999,0.8284
+S021,19,10,"We, I will fight to give money back to working and middle-class Americans.",0.6370000000000001,0.47500000000000003,0.5832857142857143
+S021,20,0,So I’ll end with this.,0.198,0.349,0.298
+S021,20,1,"Two days ago, Donald Trump was here in North Carolina.",0.5661666666666666,0.32666666666666666,0.5165000000000001
+S021,20,2,He said he was going to talk about the economy.,0.6334,0.3542,0.569
+S021,20,3,"I think you all watched, you know what I’m about to say.",0.6632500000000001,0.35625,0.55675
+S021,20,4,"But he offered no serious plans to reduce cost for middle-class families, no plan to expand access to housing or healthcare.",0.6204999999999999,0.4180000000000001,0.5684166666666667
+S021,20,5,"And that, actually, I think for most of us was not surprising because we already know his plans.",0.751,0.4678,0.6602
+S021,20,6,We know the Project 2025 agenda.,0.6736666666666666,0.373,0.7033333333333333
+S021,20,7,So there’s a choice in this election.,0.685,0.5195000000000001,0.6575
+S021,20,8,"Donald Trump’s plans to devastate the middle class, punish working people, and make the cost of living go up for millions of Americans, and on the other hand, when I’m elected President, what we will do to bring down costs, increase the security and stability financially of your family, and expand opportunity for working and middle-class Americans.",0.6104999999999998,0.4815999999999999,0.5969
+S021,21,0,"So now, now, now is the time to chart a new way forward.",0.6688333333333333,0.33699999999999997,0.5408333333333334
+S021,21,1,"Now is the time to chart a new way forward, to build …",0.6834285714285714,0.3668571428571428,0.5787142857142857
+S021,22,0,"To build an America where everyone’s work is rewarded and talents are valued, where we work with labor and business to strengthen the American economy, and where everyone has the opportunity not just to get by but to get ahead.",0.7577058823529412,0.5518235294117646,0.7349411764705882
+S021,22,1,"So I thank you, North Carolina.",0.7444999999999999,0.304,0.488
+S021,22,2,"We’re going to get this done, and with your help, God bless you and God bless the United States of America.",0.7310000000000001,0.43790000000000007,0.6442
+S021,22,3,God bless you.,0.8435,0.3935,0.737
+S021,23,0,So thank you all.,0.958,0.353,0.526
+S021,23,1,"So listen, this election, I do strongly believe is about two very different visions for our nation.",0.6581,0.4338,0.6193000000000001
+S021,23,2,"One, ours.",0.542,0.292,0.37
+S021,23,3,"Focused on the future, and the other focused on the past.",0.6459999999999999,0.41200000000000003,0.5304
+S021,23,4,"We see that contrast clearly in many ways, including when it comes to how we think about the economy.",0.6287142857142857,0.3891428571428572,0.5317142857142857
+S021,23,5,So our country has come a long way since President Biden and I took office.,0.617125,0.392625,0.5796250000000001
+S021,23,6,"At that time, we sadly remembered the millions of Americans that were out of work.",0.622,0.39316666666666666,0.5881666666666666
+S021,23,7,We were facing one of the worst economic crises in modern history.,0.5955714285714286,0.42314285714285715,0.569857142857143
+S021,23,8,"And today, by virtually every measure, our economy is the strongest in the world.",0.671,0.4307142857142857,0.6174285714285713
+S021,24,0,We have created 16 million new jobs.,0.7859999999999999,0.5309999999999999,0.6986
+S021,24,1,"We have made historic investments in infrastructure, in chips manufacturing, in clean energy, and new numbers this week alone show that inflation is down under 3%.",0.6129411764705882,0.44035294117647056,0.5619999999999999
+S021,24,2,"And as President of the United States, it will be my intention to build on the foundation of this progress.",0.7045555555555556,0.45266666666666666,0.7442222222222221
+S021,24,3,"Still, we know that many Americans don’t yet feel that progress in their daily lives.",0.7813333333333333,0.5191666666666667,0.6683333333333333
+S021,24,4,"Costs are still too high, and on a deeper level for too many people, no matter how much they work, it feels so hard to just be able to get ahead.",0.6276153846153847,0.45846153846153853,0.6020000000000001
+S021,25,0,"As President, I will be laser focused on creating opportunities for the middle class that advance their economic security, stability and dignity.",0.6977857142857141,0.4201428571428572,0.7259285714285715
+S021,25,1,"Together, we will build what I call an opportunity economy, an opportunity economy, an economy where everyone can compete and have a real chance to succeed.",0.7354666666666667,0.5383333333333334,0.7158
+S021,25,2,"Everyone, regardless of who they are or where they start, has an opportunity to build wealth for themselves and their children.",0.7905714285714287,0.5035714285714284,0.6668571428571427
+S021,25,3,"And where we remove the barriers to opportunity, so anyone who wants to start a business or advance their career can access the tools and the resources that are necessary to do so.",0.6386000000000001,0.4893333333333334,0.6189333333333332
+S021,26,0,I will focus on cutting needless bureaucracy and unnecessary regulatory red tape and encouraging innovative technologies while protecting consumers and creating a stable business environment with consistent and transparent rules of the road.,0.6141363636363638,0.43477272727272726,0.6056363636363636
+S021,26,1,"As President, I will bring together labor with small businesses and major companies to invest in America, to create good jobs, achieve broad-based growth, and ensure that America continues to define the future and lead the world.",0.7158636363636365,0.4935909090909091,0.6864090909090909
+S021,27,0,"And key, key, to creating this opportunity economy is building up our middle class.",0.6695555555555556,0.3684444444444444,0.6088888888888889
+S021,27,1,It is essential.,0.7410000000000001,0.3225,0.6565000000000001
+S021,27,2,"The middle class is one of America’s greatest strengths, and to protect it, then, we must defend basic principles, such as your salary should be enough to provide you and your family with a good quality of life, such as no child should have to grow up in poverty, such as after years of hard work, you should be able to retire with dignity, and you should be able to join a union if you choose.",0.7039411764705881,0.43208823529411766,0.6214411764705883
+S021,27,3,"Building up the middle class will be a defining goal of my presidency because I strongly believe when the middle class is strong, America is strong.",0.698125,0.40575,0.6431250000000001
+S021,28,0,"So in the weeks to come, I will address in greater detail my plans to build an opportunity economy, and today, I will focus on one element that’s on the minds of many Americans as they pay their bills at the kitchen table or walk the aisles of a grocery store, and that is lowering the cost of living.",0.6168571428571427,0.3998928571428571,0.5447142857142857
+S021,28,1,"So every day across our nation, families talk about their plans for the future, their ambitions, their aspirations for themselves, for their children, and they talk about how they’re going to be able to actually achieve them financially.",0.7381428571428572,0.48307142857142865,0.6415714285714287
+S021,28,2,"Because look, the bills add up, food, rent, gas, back-to-school clothes, prescription medication.",0.5659,0.3881,0.5014
+S021,28,3,"After all that, for many families, there’s not much left at the end of the month.",0.552,0.33924999999999994,0.42825
+S021,29,0,I grew up in a middle-class household.,0.7176666666666667,0.334,0.574
+S021,29,1,"For most of my childhood, we were renters.",0.7083333333333334,0.318,0.4106666666666667
+S021,29,2,My mother saved for well over a decade to buy a home.,0.7714000000000001,0.45760000000000006,0.6458
+S021,29,3,"I was a teenager when that day finally came, and I can remember so well how excited she was.",0.6997777777777778,0.4174444444444444,0.5182222222222221
+S021,29,4,"I kind of understood what it meant, but we called her mommy, mommy was so excited.",0.7522500000000001,0.4565,0.573625
+S021,29,5,It just made us excited that she was so excited.,0.7925,0.6305000000000001,0.613
+S021,29,6,"Later in college, I worked at McDonald’s to earn spending money.",0.6921999999999999,0.5992,0.694
+S021,29,7,"Well, some of the people I worked with were raising families on that paycheck.",0.7653333333333333,0.4613333333333333,0.6236666666666667
+S021,29,8,They worked second or even third jobs to pay rent and buy food.,0.621375,0.45549999999999996,0.52475
+S021,29,9,That only gets harder when the cost of living goes up.,0.5564,0.5542,0.5786
+S021,30,0,"When I am elected President, I will make it a top priority to bring cost and increase economic security for all Americans.",0.6868333333333334,0.4592500000000001,0.6723333333333334
+S021,30,1,"As President, I will take on the high costs that matter most to most Americans, like the cost of food.",0.6345555555555555,0.43855555555555553,0.5647777777777778
+S021,30,2,"We all know that prices went up during the pandemic when the supply chains shut down and failed, but our supply chains have now improved and prices are still too high.",0.5137499999999999,0.4661875,0.5144375
+S021,30,3,A loaf of bread cost 50% more today than it did before the pandemic.,0.5693333333333334,0.438,0.4166666666666667
+S021,30,4,Ground beef is up almost 50%.,0.5499999999999999,0.29833333333333334,0.5493333333333333
+S021,30,5,"Many of the big food companies are seeing their highest profits in two decades, and while many grocery chains pass along these savings, others still aren’t.",0.6763999999999999,0.3876666666666667,0.5519333333333333
+S021,31,0,"Look, I know most businesses are creating jobs, contributing to our economy, and playing by the rules, but some are not, and that’s just not right, and we need to take action when that is the case.",0.6879411764705883,0.46,0.603529411764706
+S021,31,1,"As Attorney General in California, I went after companies that illegally increased prices, including wholesalers that inflated the price of prescription medication and companies that conspired with competitors to keep prices of electronics high.",0.5712631578947368,0.5198421052631579,0.6182105263157895
+S021,31,2,I won more than $1 billion for consumers.,0.7176666666666667,0.6030000000000001,0.7823333333333333
+S021,31,3,"So believe me, as President, I will go after the bad actors, and I will work to pass the first ever federal ban on price gauging on food.",0.5679333333333333,0.4843333333333332,0.6356666666666666
+S021,31,4,"My plan will include new penalties for opportunistic companies that exploit crises and break the rules, and we will support smaller food businesses that are trying to play by the rules and get ahead.",0.6257619047619047,0.49347619047619046,0.5799047619047619
+S021,31,5,"We’ll help the food industry become more competitive, because I believe competition is the lifeblood of our economy.",0.6586000000000001,0.5067000000000002,0.6887000000000001
+S021,31,6,More competition means lower prices for you and your families.,0.5938,0.46340000000000003,0.5388
+S021,32,0,"Now, compare what Donald Trump plans to do.",0.627,0.5529999999999999,0.6727500000000001
+S021,32,1,He wants to impose what is in effect a national sales tax on everyday products and basic necessities that we import from other countries.,0.5966428571428571,0.4438571428571429,0.559142857142857
+S021,32,2,That will devastate Americans.,0.3595,0.602,0.622
+S021,32,3,It will mean higher prices on just about every one of your daily needs.,0.5982857142857144,0.44157142857142856,0.5208571428571429
+S021,32,4,"A Trump tax on gas, a Trump tax on food, a Trump tax on clothing, a Trump tax on over-the-counter medication.",0.5207499999999999,0.5251666666666667,0.6400833333333333
+S021,32,5,And economists have done the math.,0.6146666666666667,0.43733333333333335,0.5763333333333334
+S021,32,6,"Donald Trump’s plan would cost a typical family $3,900 a year.",0.6127142857142857,0.423,0.5687142857142857
+S021,32,7,"At this moment, when everyday prices are too high, he will make them even higher.",0.6781250000000001,0.42599999999999993,0.5765
+S021,33,0,"As President, I’ll attack and take on the issue of the cost of healthcare.",0.5419999999999999,0.6229999999999999,0.5685
+S021,33,1,"As Attorney General, I took on insurance companies and Big Pharma and got them to lower their prices.",0.6922222222222223,0.4778888888888888,0.65
+S021,33,2,"And together with President Biden, we’ve gone even further.",0.6143333333333334,0.4146666666666667,0.607
+S021,33,3,"We capped the price of insulin at $35 a month and the total cost of prescription drugs at $2,000 a year for seniors.",0.49160000000000004,0.39339999999999997,0.4736000000000001
+S021,33,4,We let Medicare negotiate lower drug prices for seniors.,0.4366666666666666,0.5095,0.47633333333333333
+S021,33,5,"And just yesterday, we announced that we are lowering the price by up to 80% for 10 more life-saving drugs.",0.5305714285714286,0.4781428571428571,0.483
+S021,34,0,And I pledge to continue this progress.,0.743,0.5196666666666667,0.751
+S021,34,1,"I’ll lower the cost of insulin and prescription drugs for everyone with your support, not only our seniors, and demand transparency from the middlemen who operate between Big Pharma and the insurance companies who use opaque practices to raise your drug prices and profit off your need for medicine.",0.556391304347826,0.479086956521739,0.5516956521739129
+S021,34,2,"Two months ago, I announced that medical debt will no longer be used against your credit score, and I will work as President with states, like here in North Carolina, Roy Cooper, thank you again, to cancel medical debt for more and more, millions more Americans.",0.5762173913043479,0.4086521739130434,0.5545217391304347
+S021,35,0,"As for Donald Trump, well, he wants to repeal the Affordable Care Act, which 45 million Americans rely on, 45 million Americans rely on it for healthcare.",0.7047272727272728,0.5321818181818183,0.6538181818181819
+S021,35,1,That would take us back to a time when insurance companies could deny people with pre-existing conditions.,0.6060000000000001,0.4256666666666667,0.5285555555555556
+S021,35,2,"We all remember what that was, and we’re not going back.",0.5985,0.364,0.447
+S021,36,0,And let’s talk about the cost of housing.,0.60025,0.36075,0.48275
+S021,36,1,"So now, the housing market can be complicated, but look, I’m not new to this issue.",0.624375,0.47274999999999995,0.515375
+S021,36,2,"As State Attorney General, I drafted and helped pass a Homeowner Bill of Rights, one of the first in America.",0.5959090909090909,0.40872727272727266,0.6135454545454546
+S021,36,3,"And during the foreclosure crisis, I took on the big banks for predatory lending with many of my colleagues, including Roy Cooper, and won $20 billion for California families when I was Attorney General.",0.6212,0.5409333333333334,0.6367333333333334
+S021,36,4,"So I know how to fight for people who are being exploited in the housing market, and I know what homeownership means.",0.6432,0.4505,0.6057
+S021,36,5,It’s more than a financial transaction.,0.6585000000000001,0.5385,0.6505
+S021,36,6,It’s so much more than that.,,,
+S021,36,7,It’s more than a house.,0.587,0.135,0.533
+S021,36,8,"Homeownership and what that means, it’s a symbol of the pride that comes with hard work.",0.5895,0.49466666666666664,0.6265
+S021,36,9,It’s financial security.,0.752,0.43,0.7715
+S021,36,10,It represents what you will be able to do for your children.,0.7436666666666666,0.44449999999999995,0.6551666666666668
+S021,37,0,"And sadly, right now, it is out of reach for far too many American families.",0.6288,0.371,0.5626
+S021,37,1,There’s a serious housing shortage in many places.,0.48575,0.36875,0.4515
+S021,37,2,"It’s too difficult to build, and it’s driving prices up.",0.5275,0.6025,0.6405000000000001
+S021,37,3,"As President, I will work in partnership with industry to build the housing we need, both to rent and to buy.",0.6702,0.5082,0.6494
+S021,37,4,"We will take down barriers and cut red tape, including at the state and local levels.",0.5504545454545454,0.37736363636363635,0.4543636363636363
+S021,37,5,"And by the end of my first term, we will end America’s housing shortage by building 3 million new homes and rentals that are affordable for the middle class.",0.5890625,0.362125,0.5184375000000001
+S021,37,6,And we’ll do that together.,0.772,0.47000000000000003,0.597
+S021,37,7,We’ll do that together.,0.772,0.47000000000000003,0.597
+S021,38,0,"And we will make sure those homes actually go to working and middle-class Americans, not just investors.",0.68275,0.40075,0.583
+S021,38,1,"Because some corporate landlords, some of them buy dozens if not hundreds of houses and apartments.",0.6401666666666666,0.4013333333333333,0.5273333333333333
+S021,38,2,"Then, they turn them around and rent them out at extremely high prices, and it can make it impossible then for regular people to be able to buy or even rent a home.",0.5757333333333333,0.4483333333333333,0.5552666666666667
+S021,38,3,"Some corporate landlords collude with each other to set artificially high rental prices, often using algorithms in price-fixing software to do it.",0.5448333333333334,0.42300000000000004,0.5465
+S021,38,4,"It’s anticompetitive, and it drives up costs.",0.495,0.5545,0.576
+S021,38,5,I will fight for a law that cracks down on these practices.,0.5271666666666667,0.5671666666666667,0.6103333333333333
+S021,39,0,"We also know that as the price of housing has gone up, the size of down payments have gone up as well.",0.5486,0.3496,0.4872000000000001
+S021,39,1,"Even if aspiring homeowners save for years, it often still is not enough.",0.7144,0.3976,0.6619999999999999
+S021,39,2,"So in addition, while we work on the housing shortage, my administration will provide first-time home buyers with $25,000 to help with the down payment on a new home.",0.6453333333333333,0.42393333333333333,0.5807333333333333
+S021,39,3,"We can do this, we can do this.",0.666,0.454,0.495
+S021,39,4,All to help more Americans experience the pride of homeownership and the financial security that it represents and brings.,0.7355714285714284,0.4965714285714285,0.7255714285714285
+S021,40,0,"So that’s my plan, but here’s what Donald Trump would do.",0.61225,0.554,0.6485
+S021,40,1,"If his Project 2025 agenda is put into effect, it will add around $1,200 a year to the typical American mortgage.",0.5873999999999999,0.371,0.5745
+S021,40,2,He’s got it backward.,0.5245,0.4805,0.4585
+S021,40,3,"We should be doing everything we can to make it more affordable to buy a home, not less.",0.677,0.405625,0.473625
+S021,41,0,"Finally, there’s one more way I will help families deal with rising cost, and that’s by letting you keep more of your hard-earned money.",0.6203846153846153,0.4513846153846154,0.5436923076923077
+S021,41,1,"Under my plan, more than 100 million Americans will get a tax cut, and we will do this by restoring two tax cuts designed to help middle-class and working Americans, the Earned Income Tax Credit and the Child Tax Credit, through which millions of Americans with children got to keep more of their hard-earned income.",0.6281379310344827,0.4986896551724137,0.5971379310344829
+S021,41,2,"We know this works and has a direct impact on so many issues, including child poverty.",0.6176666666666667,0.5163333333333333,0.5383333333333333
+S021,41,3,We know it works.,0.7705,0.39749999999999996,0.6805
+S021,41,4,"So as President, I’ll not only restore that tax cut but expand it.",0.5968,0.5284000000000001,0.6421999999999999
+S021,41,5,"We will provide $6,000 in tax relief to families during the first year of a child’s life.",0.7333333333333334,0.43622222222222223,0.6152222222222222
+S021,42,0,"Now, think what that means.",0.7005,0.39049999999999996,0.539
+S021,42,1,Think what that means.,0.7005,0.39049999999999996,0.539
+S021,42,2,"That is a vital, vital year of critical development of a child, and the cost can really add up, especially for young parents who need to buy diapers and clothes and a car seat and so much else.",0.6571176470588235,0.4737058823529412,0.5317058823529411
+S021,42,3,And we will do this while reducing the deficit.,0.48624999999999996,0.44,0.469
+S021,42,4,Compare my plan with what Donald Trump intends to do.,0.6140000000000001,0.5464,0.6420000000000001
+S021,42,5,"He plans to give billionaires massive tax cuts, year after year, and he plans to cut corporate taxes by over a trillion dollars even as they pull in record profits.",0.60075,0.491,0.5965625
+S021,42,6,"And that’s on top of the $2 trillion tax cut he already signed into law when he was President, which by the way, overwhelmingly, overwhelmingly, went to the wealthiest Americans and corporations and exploded the national deficit.",0.5658666666666666,0.4725333333333333,0.6098
+S021,42,7,"I think that if you want to know who someone cares about, look who they fight for.",0.7001666666666666,0.513,0.6406666666666667
+S021,42,8,Look who they fight for.,0.625,0.6485,0.712
+S021,42,9,Donald Trump fights for billionaires and large corporations.,0.5297999999999999,0.6399999999999999,0.8284
+S021,42,10,"We, I will fight to give money back to working and middle-class Americans.",0.6370000000000001,0.47500000000000003,0.5832857142857143
+S021,43,0,So I’ll end with this.,0.198,0.349,0.298
+S021,43,1,"Two days ago, Donald Trump was here in North Carolina.",0.5661666666666666,0.32666666666666666,0.5165000000000001
+S021,43,2,He said he was going to talk about the economy.,0.6334,0.3542,0.569
+S021,43,3,"I think you all watched, you know what I’m about to say.",0.6632500000000001,0.35625,0.55675
+S021,43,4,"But he offered no serious plans to reduce cost for middle-class families, no plan to expand access to housing or healthcare.",0.6204999999999999,0.4180000000000001,0.5684166666666667
+S021,43,5,"And that, actually, I think for most of us was not surprising because we already know his plans.",0.751,0.4678,0.6602
+S021,43,6,We know the Project 2025 agenda.,0.6736666666666666,0.373,0.7033333333333333
+S021,43,7,So there’s a choice in this election.,0.685,0.5195000000000001,0.6575
+S021,43,8,"Donald Trump’s plans to devastate the middle class, punish working people, and make the cost of living go up for millions of Americans, and on the other hand, when I’m elected President, what we will do to bring down costs, increase the security and stability financially of your family, and expand opportunity for working and middle-class Americans.",0.6104999999999998,0.4815999999999999,0.5969
+S021,44,0,"So now, now, now is the time to chart a new way forward.",0.6688333333333333,0.33699999999999997,0.5408333333333334
+S021,44,1,"Now is the time to chart a new way forward, to build …",0.6834285714285714,0.3668571428571428,0.5787142857142857
+S021,45,0,"To build an America where everyone’s work is rewarded and talents are valued, where we work with labor and business to strengthen the American economy, and where everyone has the opportunity not just to get by but to get ahead.",0.7577058823529412,0.5518235294117646,0.7349411764705882
+S021,45,1,"So I thank you, North Carolina.",0.7444999999999999,0.304,0.488
+S021,45,2,"We’re going to get this done, and with your help, God bless you and God bless the United States of America.",0.7310000000000001,0.43790000000000007,0.6442
+S021,45,3,God bless you.,0.8435,0.3935,0.737
