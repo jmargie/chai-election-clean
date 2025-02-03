@@ -71,7 +71,7 @@
 │   ├── lemmatized_VAD.py
 │   ├── lemmatized_emo.py
 │   └── vad_analysis.py
-├── emotion models
+├── emotion models (contact me if you need these)
 │   ├── angerextremitymodel
 │   ├── data for emotion models
 │   ├── fearextremitymodel
